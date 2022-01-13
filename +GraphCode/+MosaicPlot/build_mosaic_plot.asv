@@ -1,0 +1,18 @@
+
+p_risk = 0.7;
+corrs = [0 0.5 1];
+figure;
+title("part at risk: "+p_risk)
+n = numel(corrs);
+for iter = 1 : n
+    hold on;
+    subplot(1, n, iter);
+    corr = corrs(iter);
+    title("corr: "+corr)
+    notation = SimT.notation{1};
+    data = SimT(SimT.corr == corr & SimT.p_risk == p_risk, :).pop{:};
+    [xm, ym] = mosaic_plot(data);
+    multi_text(xm(:),ym(:),...
+        notation(:)+": "+form_percentage_strings_from_array(data(:)));
+end
+
