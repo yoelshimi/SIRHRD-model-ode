@@ -24,14 +24,14 @@ format long g
 tic;
 switch getenv("computername")
     case 'LAPTOP-Q0OQCTC5'        
-        code_path = "C:\Users\yoel\Documents\army\corona\rami_simulation\python";
+        code_path = "..\..\..\..\army\corona\rami_simulation\python\AgentSimulation";
     otherwise
         code_path = "..\python_31_5_21";
 end
 space = " ";
 command = "python"
 run_file = "basic_run.py"
-families = 5e3;
+families = 1e3;
 sim_duration = 60;
 if ~exist('p_susc','var')
     p_susc = 0.3;
@@ -70,7 +70,7 @@ validCorrs = corrs(corrs >= validCorrStruct.minCorr &...
 Niter1 = numel(validCorrs);
 %%
 % modes: on, off, sb, true, false
-if 0
+if 1
     parfor iter1 = 1 : Niter1
         for iter2 = 1 : Niter2
             corr  = validCorrs(iter1);

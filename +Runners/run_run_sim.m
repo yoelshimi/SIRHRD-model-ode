@@ -1,4 +1,4 @@
-name =   "05-Jan-2022" %datestr(today); %
+name = datestr(today); %
 
 suscs = [0.6 0.8]; linspace(0.2,0.5,4);
 N_susc = length(suscs);
@@ -12,7 +12,7 @@ for Biter = 1 : N_cautious
         p_susc = suscs(Riter);
         p_cautious = 1 - p_susc;
         output_filename = string(name)+filesep()+"sim_run_"+Riter+"_"+Biter+"_";
-        run_simulation();
+        Runners.run_simulation();
     end
 end
 

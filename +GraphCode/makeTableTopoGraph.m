@@ -14,7 +14,7 @@ function g = makeTableTopoGraph(odeTable,valField, name, idx, flg)
     subTable = odeTable(odeTable.p_risk == 1 - odeTable.p_cautious,:);
     popSize = mean(subTable.N0(:));
 
-    [Data, corrs, p_risk] = retrieve2mat...
+    [Data, corrs, p_risk] = Utilities.retrieve2mat...
         (subTable,"nCifR","p_risk",[valField], idx);
     if flg ~= "data"
         Data = Data / popSize * 100;
@@ -22,7 +22,7 @@ function g = makeTableTopoGraph(odeTable,valField, name, idx, flg)
     else
         probToPercent = @(x) x;
     end
-    colorsConfig();
+    GraphCode.colorsConfig();
     sval_to_plot = [0.6] %  [0.3 0.4];
     g = figure;
     p1 = contourf(corrs', probToPercent (p_risk'), Data(:, :, 1)'...

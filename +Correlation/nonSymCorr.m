@@ -14,6 +14,7 @@ function [mat, valid, err] = nonSymCorr(pS,pB,pCgivenS)
     % [1 1 1 1]*[b; c; a; d;] = 1
     % [b a] = [RnC RC]
     % [c d] = [nRnC RnC]
+    import Utilities.*
     groupVec = ["b" "c" "a" "d"];
     M = [1 0 1 0; ...
         0 0 1 1; ...

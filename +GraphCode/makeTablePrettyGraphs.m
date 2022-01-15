@@ -1,3 +1,5 @@
+import GraphCode.*
+
 makeTableTopoGraph(T(T.graphType=="DregGraph",:), "hosp", " agent");
 
 makeTableTopoGraph(T(T.graphType=="DregGraph",:), "dead"," agent");
