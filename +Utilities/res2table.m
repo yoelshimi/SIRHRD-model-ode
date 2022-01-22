@@ -29,7 +29,7 @@ T.output_filenames  = output_filename+(1:Niter1)'+"_"+(1:Niter2);
 vnames = T.Properties.VariableNames;
 for i = 1:length(vnames)
     if isstruct(T.(vnames{i}))
-        T.(vnames{i}) = structs2tables(T.(vnames{i}));
+        T.(vnames{i}) = Utilities.structs2tables(T.(vnames{i}));
     end
 end      
 
@@ -39,7 +39,7 @@ nameList = {'corr','pop','sick','hosp','dead','inf','R0',...
     'alpha','beta','b_l','gammaH','p_h_l','pD_l','freq',...
     'output_filenames'};
 
-T = removeTableNameSuffix(T,"Rand");
+T = Utilities.removeTableNameSuffix(T,"Rand");
 n1 = oldT.Properties.VariableNames;
 n2 = T.Properties.VariableNames;
 if isempty(oldT) || all(contains(n2, n1))

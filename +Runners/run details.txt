@@ -17863,3 +17863,1928 @@ Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
 max inf: 0.10541656546028662 at: 0
 Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
 max inf: 0.15854991498664076 at: 0
+Local current time :Mon Jan 17 18:47:52 2022
+mean, var of degree dist. : 17.213620223968924, 10.631199688820205
+people: 32951
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45385216305892384 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028314770416679312 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09571788413098237 at: 0
+Local current time :Mon Jan 17 18:47:54 2022
+mean, var of degree dist. : 17.17876009472342, 10.590856215072346
+people: 32938
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45052778730157605 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03105835205537677 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08698160179731616 at: 0
+Local current time :Mon Jan 17 18:47:55 2022
+mean, var of degree dist. : 17.155048223660113, 10.597528227666693
+people: 32764
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45309457218699517 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03195580515199609 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0937614454889513 at: 0
+Local current time :Mon Jan 17 18:48:02 2022
+mean, var of degree dist. : 17.154221274001827, 10.570633875454698
+people: 32810
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44936430183181425 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025601950624809508 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09219750076196281 at: 0
+Local current time :Mon Jan 17 18:54:01 2022
+mean, var of degree dist. : 17.330315649707284, 10.620859405073245
+people: 33138
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4504357713497663 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029181000663890396 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08887078278713259 at: 0
+Local current time :Mon Jan 17 18:54:07 2022
+mean, var of degree dist. : 17.2896457351376, 10.6099865522095
+people: 32885
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45279147686300714 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02843241599513456 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08681769803861943 at: 0
+Local current time :Mon Jan 17 18:54:13 2022
+mean, var of degree dist. : 17.301211370570645, 10.602844571415249
+people: 33103
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4500793404129752 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.022747183034770264 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09391898015285624 at: 0
+Local current time :Mon Jan 17 18:54:43 2022
+mean, var of degree dist. : 17.304706349448736, 10.611514953248472
+people: 32743
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45601461680738714 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030632501603396145 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09376049842714473 at: 0
+Local current time :Mon Jan 17 19:00:38 2022
+mean, var of degree dist. : 17.18544236333181, 10.59383135230931
+people: 32835
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4589399663998979 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.026069742652657227 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09718288411755749 at: 0
+Local current time :Mon Jan 17 19:00:59 2022
+mean, var of degree dist. : 17.151857589841732, 10.596923139905392
+people: 32919
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45165144114115285 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.021963000091132782 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09389714146845286 at: 0
+Local current time :Mon Jan 17 19:01:20 2022
+mean, var of degree dist. : 17.175670316932557, 10.611782572843108
+people: 32783
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45136711243717464 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0324558460177531 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0853491138699936 at: 0
+Local current time :Mon Jan 17 19:01:22 2022
+mean, var of degree dist. : 17.206430398246255, 10.612126697226833
+people: 32844
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44535726419501426 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02435756911460236 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08656071124101815 at: 0
+Local current time :Mon Jan 17 19:06:52 2022
+mean, var of degree dist. : 17.229685840036424, 10.63334621937845
+people: 32945
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45223822828875043 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02358476248292609 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09479435422674154 at: 0
+Local current time :Mon Jan 17 19:07:16 2022
+mean, var of degree dist. : 17.302804703880398, 10.621321446390315
+people: 32909
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44881234874907366 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023732109757209276 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08222674648272509 at: 0
+Local current time :Mon Jan 17 19:07:19 2022
+mean, var of degree dist. : 17.339436831802438, 10.616856367811112
+people: 33205
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.452488971022447 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023942177382924257 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0878783315765698 at: 0
+Local current time :Mon Jan 17 19:07:44 2022
+mean, var of degree dist. : 17.16793777156574, 10.621695671885178
+people: 32911
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45253191956305505 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027073015101333902 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0844398529367081 at: 0
+Local current time :Mon Jan 17 19:12:53 2022
+mean, var of degree dist. : 17.217349105247195, 10.63940130195549
+people: 32970
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45577987372634127 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03421292083712466 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0910828025477707 at: 0
+Local current time :Mon Jan 17 19:13:13 2022
+mean, var of degree dist. : 17.292048324761875, 10.612613197327605
+people: 32861
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4529030997793162 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02620127202458842 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09521925686984571 at: 0
+Local current time :Mon Jan 17 19:13:27 2022
+mean, var of degree dist. : 17.290013556258472, 10.625219368291079
+people: 33195
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44894668799286336 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025576140985088116 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08992318120198825 at: 0
+Local current time :Mon Jan 17 20:54:01 2022
+mean, var of degree dist. : 17.267616737416617, 10.60644450747861
+people: 32980
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4533020126921469 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0335961188599151 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09214675560946028 at: 0
+Local current time :Mon Jan 17 20:59:24 2022
+mean, var of degree dist. : 17.247337206487533, 10.591868317895281
+people: 33048
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.453492113896735 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03152989590898088 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09165456305979182 at: 0
+Local current time :Mon Jan 17 20:59:39 2022
+mean, var of degree dist. : 17.286733671393435, 10.57376725253107
+people: 32933
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44357938816519815 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02286460389275195 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09376613123614612 at: 0
+Local current time :Mon Jan 17 20:59:42 2022
+mean, var of degree dist. : 17.29439716098764, 10.618053009781857
+people: 33251
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4501472900030606 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030976511984601968 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09344079877296924 at: 0
+Local current time :Mon Jan 17 20:59:51 2022
+mean, var of degree dist. : 17.215796209397283, 10.627685704442742
+people: 32818
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45687688942066024 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02809433847278932 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09503930769699555 at: 0
+Local current time :Tue Jan 18 01:16:02 2022
+mean, var of degree dist. : 17.2174522409433, 10.6050454464089
+people: 32821
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45249002820769646 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027116784985222877 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09527436702111453 at: 0
+Local current time :Tue Jan 18 01:16:09 2022
+mean, var of degree dist. : 17.15404524831765, 10.576169161525847
+people: 32841
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4425466135090423 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02472519107213544 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09262811729240888 at: 0
+Local current time :Tue Jan 18 01:16:11 2022
+mean, var of degree dist. : 17.294918303102982, 10.637829686373424
+people: 33355
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4595627279535148 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0300704542047669 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09198021286163993 at: 0
+Local current time :Tue Jan 18 01:16:15 2022
+mean, var of degree dist. : 17.280748743567365, 10.611119728703237
+people: 33229
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4520394028790259 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024135544253513497 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0948268079087544 at: 0
+Local current time :Tue Jan 18 01:22:21 2022
+mean, var of degree dist. : 17.05768048210552, 10.64609086710676
+people: 32524
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44311470770606226 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028317550116836798 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09239330955602017 at: 0
+Local current time :Tue Jan 18 01:22:42 2022
+mean, var of degree dist. : 17.16414726319639, 10.634410917574657
+people: 32812
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4545600063921589 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.033768133609655006 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.10118249420943558 at: 0
+Local current time :Tue Jan 18 01:22:49 2022
+mean, var of degree dist. : 17.26094316807739, 10.626635358281689
+people: 33080
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4478522291030347 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.026844014510278114 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08960096735187424 at: 0
+Local current time :Tue Jan 18 01:22:51 2022
+mean, var of degree dist. : 17.26726400579238, 10.61792719686689
+people: 33147
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44814664947462945 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028931728361541013 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09222554077292063 at: 0
+Local current time :Tue Jan 18 01:29:00 2022
+mean, var of degree dist. : 17.067178620795577, 10.636055035999355
+people: 32555
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44972835848832476 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0309322684687452 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0917831362309937 at: 0
+Local current time :Tue Jan 18 01:29:06 2022
+mean, var of degree dist. : 17.241291341452303, 10.663512991380621
+people: 32927
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45701758310668944 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03258723843654144 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09098915783399641 at: 0
+Local current time :Tue Jan 18 01:29:17 2022
+mean, var of degree dist. : 17.18537859007833, 10.632584698857425
+people: 32938
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45695739967352816 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02021980690995203 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09287145546177668 at: 0
+Local current time :Tue Jan 18 01:29:25 2022
+mean, var of degree dist. : 17.31335580046756, 10.633241190820547
+people: 32937
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44826000876808425 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02620153626620518 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09566748641345599 at: 0
+Local current time :Tue Jan 18 01:35:08 2022
+mean, var of degree dist. : 17.34504088591171, 10.602628091307443
+people: 33141
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4502536915133465 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.026462689719682568 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09284571980326484 at: 0
+Local current time :Tue Jan 18 01:35:29 2022
+mean, var of degree dist. : 17.148906182976898, 10.665306783941949
+people: 32638
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45505912032388435 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03125191494576873 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08434953122127581 at: 0
+Local current time :Tue Jan 18 01:35:35 2022
+mean, var of degree dist. : 17.26821770839612, 10.591329761651425
+people: 33182
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44801271915587243 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025556024350551505 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08471460430353807 at: 0
+Local current time :Tue Jan 18 01:35:36 2022
+mean, var of degree dist. : 17.235217298873266, 10.624281999103935
+people: 32927
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4433394654487016 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02824429799252893 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08992620038266469 at: 0
+Local current time :Tue Jan 18 01:41:23 2022
+mean, var of degree dist. : 17.363379425619208, 10.62102640332557
+people: 32905
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45036116721683334 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030664032821759613 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08828445524996201 at: 0
+Local current time :Tue Jan 18 01:41:39 2022
+mean, var of degree dist. : 17.107755452095073, 10.625717492126359
+people: 32648
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4526038880354643 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025055133545699583 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0957485910316099 at: 0
+Local current time :Tue Jan 18 01:42:02 2022
+mean, var of degree dist. : 17.26346054901486, 10.621097443401853
+people: 33041
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45842418154214043 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030325958657425624 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09415574589146818 at: 0
+Local current time :Tue Jan 18 01:42:05 2022
+mean, var of degree dist. : 17.277200656096227, 10.634354345226969
+people: 32922
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4503016526019691 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02569710224166211 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08766174594496082 at: 0
+Local current time :Tue Jan 18 12:22:23 2022
+mean, var of degree dist. : 17.29536592001451, 10.587450200025641
+people: 33081
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.448491858749834 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02756869502131133 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09872736616184517 at: 0
+Local current time :Tue Jan 18 14:05:43 2022
+mean, var of degree dist. : 17.17069159789262, 10.612233150963128
+people: 32837
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44724940319313844 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02594634101775436 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09285257483935803 at: 0
+Local current time :Tue Jan 18 14:05:44 2022
+mean, var of degree dist. : 17.19100643704811, 10.624037090002163
+people: 32779
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45345316093585847 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024192318252539737 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09493883278928582 at: 0
+Local current time :Tue Jan 18 14:05:55 2022
+mean, var of degree dist. : 17.378100605804878, 10.630078797467508
+people: 33179
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4559607553400348 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02634196329003285 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09252840652219778 at: 0
+Local current time :Tue Jan 18 14:06:01 2022
+mean, var of degree dist. : 17.29633794256192, 10.59002895305884
+people: 32905
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4431088702875938 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02583194043458441 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08664336726941195 at: 0
+Local current time :Tue Jan 18 14:11:24 2022
+mean, var of degree dist. : 17.341619038979104, 10.604188368867826
+people: 33069
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4523424590649903 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023587045268983035 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08745350630499864 at: 0
+Local current time :Tue Jan 18 14:11:25 2022
+mean, var of degree dist. : 17.23758323660578, 10.59295546711615
+people: 32738
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44379026941969507 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027521534608100678 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08561915816482375 at: 0
+Local current time :Tue Jan 18 14:11:26 2022
+mean, var of degree dist. : 17.319125977879686, 10.619287797124263
+people: 33363
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4538390462048604 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02847465755477625 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09006983784431856 at: 0
+Local current time :Tue Jan 18 14:11:30 2022
+mean, var of degree dist. : 17.2854587892934, 10.607882480065477
+people: 32989
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45179594198832046 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024402073418412197 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08860529267331535 at: 0
+Local current time :Tue Jan 18 14:16:59 2022
+mean, var of degree dist. : 17.19321021515207, 10.590237830008924
+people: 32814
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4503206257599551 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02852441031267142 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08828548790150545 at: 0
+Local current time :Tue Jan 18 14:17:09 2022
+mean, var of degree dist. : 17.186348994104417, 10.626510651194602
+people: 32906
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45272678565744945 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02856621892663952 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0911991734030268 at: 0
+Local current time :Tue Jan 18 14:17:12 2022
+mean, var of degree dist. : 17.17473027904276, 10.583964099823095
+people: 32719
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45558029326974403 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029890889085852256 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0937070203857086 at: 0
+Local current time :Tue Jan 18 14:17:14 2022
+mean, var of degree dist. : 17.37558006388236, 10.619199357219058
+people: 33186
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45149609972495164 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025432411257759295 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09440728017838848 at: 0
+Local current time :Tue Jan 18 14:22:31 2022
+mean, var of degree dist. : 17.19142205323194, 10.62470094379437
+people: 32875
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44355559762760804 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0292319391634981 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08587072243346007 at: 0
+Local current time :Tue Jan 18 14:22:53 2022
+mean, var of degree dist. : 17.34783523119911, 10.634674360645711
+people: 33283
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.451058317803626 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027191058498332484 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08400685034401947 at: 0
+Local current time :Tue Jan 18 14:22:57 2022
+mean, var of degree dist. : 17.155677823628306, 10.621744776985581
+people: 32715
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4536868906437083 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023261500840593 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.10319425340058078 at: 0
+Local current time :Tue Jan 18 14:23:13 2022
+mean, var of degree dist. : 17.234667153907058, 10.632113207631003
+people: 32838
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44553152917561917 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0221085327973689 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08572385650770449 at: 0
+Local current time :Tue Jan 18 14:28:02 2022
+mean, var of degree dist. : 17.232929899596567, 10.622937269399323
+people: 32967
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44228271239425615 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028907695574362242 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08699608699608699 at: 0
+Local current time :Tue Jan 18 14:28:37 2022
+mean, var of degree dist. : 17.26006772282017, 10.595837151865547
+people: 33076
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4574782358896748 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027028661264965535 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09233280928770105 at: 0
+Local current time :Tue Jan 18 14:28:43 2022
+mean, var of degree dist. : 17.24766965234553, 10.616306277093495
+people: 32935
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44989710449043396 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.026810384089873993 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08592682556550782 at: 0
+Local current time :Tue Jan 18 14:29:00 2022
+mean, var of degree dist. : 17.178510998307953, 10.607199014238624
+people: 33096
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4517538255883491 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.026619531061155426 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09046410442349528 at: 0
+Local current time :Tue Jan 18 14:33:38 2022
+mean, var of degree dist. : 17.226798161507322, 10.597998395476463
+people: 32853
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4473634336480832 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029251514321370957 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0944206008583691 at: 0
+Local current time :Tue Jan 18 14:34:13 2022
+mean, var of degree dist. : 17.180471482889732, 10.616695744107535
+people: 32875
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4486006749196187 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027133079847908744 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08760456273764258 at: 0
+Local current time :Tue Jan 18 14:34:23 2022
+mean, var of degree dist. : 17.360798624724794, 10.608444503933063
+people: 33157
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44520445353976157 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024730826069909822 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09439937268148506 at: 0
+Local current time :Tue Jan 18 14:34:41 2022
+mean, var of degree dist. : 17.214244582512503, 10.582487606770595
+people: 32995
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4507178371221724 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027761782088195183 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09180178814971965 at: 0
+Local current time :Tue Jan 18 14:39:19 2022
+mean, var of degree dist. : 17.249726377234587, 10.554665853827291
+people: 32892
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4484862296387946 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02900401313389274 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09026511005715676 at: 0
+Local current time :Tue Jan 18 14:40:03 2022
+mean, var of degree dist. : 17.17604900459418, 10.62500167778975
+people: 32650
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4542618019322466 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030535987748851454 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08955589586523736 at: 0
+Local current time :Tue Jan 18 14:40:08 2022
+mean, var of degree dist. : 17.313533560311285, 10.609705481447476
+people: 32896
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45279543706741854 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03125 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08852140077821012 at: 0
+Local current time :Tue Jan 18 14:40:24 2022
+mean, var of degree dist. : 17.274474620601563, 10.641541973597446
+people: 32881
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4496077126488991 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03220704966393966 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09367111705848362 at: 0
+Local current time :Tue Jan 18 14:45:06 2022
+mean, var of degree dist. : 17.250151240169387, 10.61159014519847
+people: 33060
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4541700187623841 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03130671506352087 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09029038112522686 at: 0
+Local current time :Tue Jan 18 14:45:43 2022
+mean, var of degree dist. : 17.24981747383792, 10.60240267156936
+people: 32872
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4512500440889114 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028230713068873207 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09202360671696276 at: 0
+Local current time :Tue Jan 18 14:45:56 2022
+mean, var of degree dist. : 17.261500989496117, 10.617123219832209
+people: 32845
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4538166941233328 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02685340234434465 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09155122545288476 at: 0
+Local current time :Tue Jan 18 14:45:57 2022
+mean, var of degree dist. : 17.409561657032754, 10.632448544099466
+people: 33216
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45021086816675776 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02580081888246628 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08577191714836223 at: 0
+Local current time :Tue Jan 18 14:51:08 2022
+mean, var of degree dist. : 17.336276011170163, 10.613718659365675
+people: 33303
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.449511336277821 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024322133141158456 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09047232982013632 at: 0
+Local current time :Tue Jan 18 14:51:30 2022
+mean, var of degree dist. : 17.19603309807739, 10.62642595289534
+people: 32872
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45804607725892854 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028839133609150646 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09412265758091994 at: 0
+Local current time :Tue Jan 18 14:51:31 2022
+mean, var of degree dist. : 17.25146163215591, 10.639525150474425
+people: 32840
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44922405910989194 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027892813641900122 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09552375152253349 at: 0
+Local current time :Tue Jan 18 17:56:07 2022
+mean, var of degree dist. : 17.370380459457007, 10.611946856898385
+people: 33039
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4494695243073706 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029450043887526863 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08692757044704742 at: 0
+Local current time :Tue Jan 18 18:01:28 2022
+mean, var of degree dist. : 17.20722149370254, 10.650119882858935
+people: 32791
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4503031146210314 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030130218657558477 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08938428227257479 at: 0
+Local current time :Tue Jan 18 18:01:37 2022
+mean, var of degree dist. : 17.301259537362238, 10.647825122314392
+people: 33028
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45195367379153206 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02682572362843648 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08544265471720965 at: 0
+Local current time :Tue Jan 18 18:01:47 2022
+mean, var of degree dist. : 17.110317242221612, 10.622185616268464
+people: 32751
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45396395303187115 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.022289395743641416 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08967665109462307 at: 0
+Local current time :Tue Jan 18 18:01:50 2022
+mean, var of degree dist. : 17.20699939135727, 10.582660156464355
+people: 32860
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4463581006752479 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025715155203895314 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08846622032866708 at: 0
+Local current time :Tue Jan 18 18:06:06 2022
+mean, var of degree dist. : 17.345007699042903, 10.592422203657971
+people: 33121
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4537431677818703 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0271127079496392 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0955285166510673 at: 0
+Local current time :Tue Jan 18 18:10:08 2022
+mean, var of degree dist. : 17.340319180969587, 10.643775845357297
+people: 33210
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44782578420204494 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02685937970490816 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09096657633243 at: 0
+Local current time :Tue Jan 18 18:13:56 2022
+mean, var of degree dist. : 17.218955146407744, 10.645280717123827
+people: 32751
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45232484776695303 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03035021831394461 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09233305853256389 at: 0
+Local current time :Tue Jan 18 18:17:55 2022
+mean, var of degree dist. : 17.224243156686203, 10.600961063486048
+people: 33098
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4563642104376869 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02559067013112575 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09097226418514714 at: 0
+Local current time :Tue Jan 18 18:21:51 2022
+mean, var of degree dist. : 17.21727518285836, 10.638126377726953
+people: 32949
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44512219456646657 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02983398585693041 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09126225378615437 at: 0
+Local current time :Tue Jan 18 21:16:24 2022
+mean, var of degree dist. : 17.225668318345875, 10.608994977279671
+people: 32694
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7076882892736904 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09943720560347465 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1894537223955466 at: 0
+Local current time :Tue Jan 18 21:16:26 2022
+mean, var of degree dist. : 17.209006154408627, 10.603779432553413
+people: 32822
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7075744023907908 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09225519468649077 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19331545914325757 at: 0
+Local current time :Tue Jan 18 21:16:29 2022
+mean, var of degree dist. : 17.21818679147798, 10.62618759954709
+people: 32903
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7127246571231884 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09427711758806188 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19290034343372944 at: 0
+Local current time :Tue Jan 18 21:16:33 2022
+mean, var of degree dist. : 17.162492755391515, 10.652588316150688
+people: 32783
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7052542487354212 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09593386816337736 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1910746423451179 at: 0
+Local current time :Tue Jan 18 21:22:19 2022
+mean, var of degree dist. : 17.14063358359275, 10.627061825069058
+people: 32766
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7078467852500756 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09311481413660502 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19483611060245376 at: 0
+Local current time :Tue Jan 18 21:22:32 2022
+mean, var of degree dist. : 17.241523624673984, 10.585759476266416
+people: 32974
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7109124185167855 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08831200339661552 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18702614180869775 at: 0
+Local current time :Tue Jan 18 21:22:38 2022
+mean, var of degree dist. : 17.23309923664122, 10.689694717007772
+people: 32750
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7012209063332766 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09013740458015267 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1862290076335878 at: 0
+Local current time :Tue Jan 18 21:22:41 2022
+mean, var of degree dist. : 17.24371320754717, 10.582354131610163
+people: 33125
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7125012692621471 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09361509433962265 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19686037735849057 at: 0
+Local current time :Tue Jan 18 21:28:22 2022
+mean, var of degree dist. : 17.27658158945204, 10.619367610755688
+people: 33068
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7099112553430583 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08724446594895367 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19426636022741017 at: 0
+Local current time :Tue Jan 18 21:28:44 2022
+mean, var of degree dist. : 17.234486545853926, 10.623533822465525
+people: 32778
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7081396925538844 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09716883275367624 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1916529379461834 at: 0
+Local current time :Tue Jan 18 21:29:00 2022
+mean, var of degree dist. : 17.276516066682774, 10.616543106113339
+people: 33112
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7100046149005348 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09996375936216477 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1907163566078763 at: 0
+Local current time :Tue Jan 18 21:29:15 2022
+mean, var of degree dist. : 17.256979502463352, 10.61561184029239
+people: 32882
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.6999764205807092 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09360744480262757 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1875494191350891 at: 0
+Local current time :Tue Jan 18 21:34:58 2022
+mean, var of degree dist. : 17.232889130631857, 10.588326400028079
+people: 33093
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7153884528518922 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09736197987489802 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1918230441483093 at: 0
+Local current time :Tue Jan 18 21:35:26 2022
+mean, var of degree dist. : 17.279706497680483, 10.608688618538816
+people: 32981
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7089210250183363 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08993056608350262 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18786574088111338 at: 0
+Local current time :Tue Jan 18 21:35:29 2022
+mean, var of degree dist. : 17.28642850649941, 10.583531171520306
+people: 33003
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.704207279878844 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0949004635942187 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19722449474290216 at: 0
+Local current time :Tue Jan 18 21:35:40 2022
+mean, var of degree dist. : 17.318258869112483, 10.642792611712482
+people: 33036
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7068228327326497 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09637970698631795 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19042862332001453 at: 0
+Local current time :Tue Jan 18 21:41:37 2022
+mean, var of degree dist. : 17.274128706586463, 10.606800387173486
+people: 33083
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7093630048295653 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.10005138590817036 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19296919868210258 at: 0
+Local current time :Tue Jan 18 21:41:49 2022
+mean, var of degree dist. : 17.170513094112984, 10.647552034445695
+people: 32801
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7147164823067772 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09014969055821469 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18526874180665223 at: 0
+Local current time :Tue Jan 18 21:42:04 2022
+mean, var of degree dist. : 17.26570368806731, 10.614109725064328
+people: 33161
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7142161355903782 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09761466783269504 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19559120653780043 at: 0
+Local current time :Tue Jan 18 21:42:36 2022
+mean, var of degree dist. : 17.273516730430558, 10.62953190322028
+people: 32934
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7041585133049503 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08884435537742151 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19435841379729155 at: 0
+Local current time :Tue Jan 18 21:58:17 2022
+mean, var of degree dist. : 17.055869851074892, 10.601607592161761
+people: 32701
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4518036590263633 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.026696431301795054 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09684719121739396 at: 0
+Local current time :Tue Jan 18 21:58:26 2022
+mean, var of degree dist. : 17.265765219500363, 10.64182183656294
+people: 32984
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4565034750146621 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02801358234295416 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09353019645888916 at: 0
+Local current time :Tue Jan 18 21:58:27 2022
+mean, var of degree dist. : 17.245544494538414, 10.633383726681705
+people: 33049
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4476444342290875 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023903900269297104 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08723410693213107 at: 0
+Local current time :Tue Jan 18 21:58:44 2022
+mean, var of degree dist. : 17.298246680239448, 10.628460146538414
+people: 32909
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4560429358404126 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0280166519797016 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09261904038408945 at: 0
+Local current time :Tue Jan 18 22:04:20 2022
+mean, var of degree dist. : 17.180089724417858, 10.605538196101817
+people: 32767
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4536197996234057 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029969176305429245 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09268471327860348 at: 0
+Local current time :Tue Jan 18 22:04:21 2022
+mean, var of degree dist. : 17.171492341089063, 10.654941575127935
+people: 32707
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45166193637069374 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02711957684899257 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09380254991286269 at: 0
+Local current time :Tue Jan 18 22:04:36 2022
+mean, var of degree dist. : 17.333373302557032, 10.662965748766952
+people: 33359
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45403744915465283 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027338949009262866 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09595611379237987 at: 0
+Local current time :Tue Jan 18 22:04:40 2022
+mean, var of degree dist. : 17.314217734801574, 10.66719477729429
+people: 32783
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45155965694876077 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024067351981209774 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09276149223683007 at: 0
+Local current time :Tue Jan 18 22:10:25 2022
+mean, var of degree dist. : 17.130696289931567, 10.646653223414523
+people: 32587
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4488470329859307 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023935925369012182 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09614263356553227 at: 0
+Local current time :Tue Jan 18 22:10:40 2022
+mean, var of degree dist. : 17.308687615526804, 10.640647018222811
+people: 33001
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45003454107464225 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025665888912457198 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09517893397169783 at: 0
+Local current time :Tue Jan 18 22:10:43 2022
+mean, var of degree dist. : 17.130630905211827, 10.606077450055228
+people: 32810
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.448016905788747 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03325205729960378 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09213654373666565 at: 0
+Local current time :Tue Jan 18 22:11:17 2022
+mean, var of degree dist. : 17.398407443857923, 10.62521771108133
+people: 33531
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45842433654561476 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03274581730339089 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08857475172228683 at: 0
+Local current time :Tue Jan 18 22:16:30 2022
+mean, var of degree dist. : 17.247567240858267, 10.626585785221733
+people: 33090
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4546996961743195 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.020973103656693866 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0971894832275612 at: 0
+Local current time :Tue Jan 18 22:16:47 2022
+mean, var of degree dist. : 17.186213151927436, 10.625854624039675
+people: 33075
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44476692104976134 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0346182917611489 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08867724867724867 at: 0
+Local current time :Tue Jan 18 22:17:03 2022
+mean, var of degree dist. : 17.283453586369976, 10.65370148784966
+people: 32986
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4488147416647956 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030346207481962043 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08539986661007701 at: 0
+Local current time :Tue Jan 18 22:17:30 2022
+mean, var of degree dist. : 17.320248058281656, 10.66596528101796
+people: 33218
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4493039120943297 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030886868565235717 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08218435787825877 at: 0
+Local current time :Tue Jan 18 22:22:20 2022
+mean, var of degree dist. : 17.330388533309293, 10.64203615968745
+people: 33279
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4536242626634625 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025030800204333063 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09035728237026353 at: 0
+Local current time :Tue Jan 18 22:22:39 2022
+mean, var of degree dist. : 17.26206330384019, 10.616753042984394
+people: 32889
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4492398702204561 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029067469366657547 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08689835507312475 at: 0
+Local current time :Tue Jan 18 22:22:59 2022
+mean, var of degree dist. : 17.382174186401606, 10.593925944779057
+people: 33401
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4515159271214057 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02598724589084159 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08691356546211192 at: 0
+Local current time :Tue Jan 18 22:23:19 2022
+mean, var of degree dist. : 17.22110568206263, 10.61975546172006
+people: 32541
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45212667204385504 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028978826710918535 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09621707999139548 at: 0
+Local current time :Tue Jan 18 22:28:23 2022
+mean, var of degree dist. : 17.157194310481657, 10.643186001219176
+people: 32762
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45118776952307754 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027470850375434955 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09807093584030278 at: 0
+Local current time :Tue Jan 18 22:28:34 2022
+mean, var of degree dist. : 17.246270466949667, 10.63605119103748
+people: 32980
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4482976430337106 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029502728926622195 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08729533050333535 at: 0
+Local current time :Tue Jan 18 22:29:02 2022
+mean, var of degree dist. : 17.27257759619489, 10.62067523715608
+people: 32798
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4510557346259352 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03018476736386365 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08710897005914994 at: 0
+Local current time :Tue Jan 18 22:29:11 2022
+mean, var of degree dist. : 17.33901583847177, 10.600643508712388
+people: 33084
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4560889157735459 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02566195139644541 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09605851771248942 at: 0
+Local current time :Tue Jan 18 22:34:07 2022
+mean, var of degree dist. : 17.300481501798014, 10.666911298952789
+people: 32814
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44830018777589487 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02642164929603218 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08923020661912598 at: 0
+Local current time :Tue Jan 18 22:34:53 2022
+mean, var of degree dist. : 17.14896345372943, 10.563658622893422
+people: 32753
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4535192102264634 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02851647177357799 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09287698836747779 at: 0
+Local current time :Tue Jan 18 22:35:00 2022
+mean, var of degree dist. : 17.290839555636495, 10.598901254660454
+people: 32946
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44858641234130997 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02695319613913677 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09309172585442846 at: 0
+Local current time :Tue Jan 18 22:35:10 2022
+mean, var of degree dist. : 17.275744294997732, 10.604052228996371
+people: 33085
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4535002309436498 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03170621127399124 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08880157170923379 at: 0
+Local current time :Tue Jan 18 22:40:06 2022
+mean, var of degree dist. : 16.97949604743083, 10.613232243717052
+people: 32384
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4538629552034686 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030508893280632412 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09606595849802371 at: 0
+Local current time :Tue Jan 18 22:41:17 2022
+mean, var of degree dist. : 17.227300389483933, 10.645163246773965
+people: 32864
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45127270126007235 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.023947176241480038 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0921981499513145 at: 0
+Local current time :Tue Jan 18 22:41:24 2022
+mean, var of degree dist. : 17.251911639762106, 10.687918441205433
+people: 32956
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4533089908786149 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029069061779342154 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09109115183881539 at: 0
+Local current time :Tue Jan 18 22:41:58 2022
+mean, var of degree dist. : 17.344113218909968, 10.590061236503907
+people: 33210
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4544638696662141 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03107497741644083 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08777476663655526 at: 0
+Local current time :Tue Jan 18 22:47:01 2022
+mean, var of degree dist. : 17.113579340309652, 10.648828091907907
+people: 32682
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4538637704583895 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02591640658466434 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09779083287436509 at: 0
+Local current time :Tue Jan 18 22:47:49 2022
+mean, var of degree dist. : 17.224534368743555, 10.604964268774387
+people: 32966
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45883666417763247 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03172966086270703 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09558332827761937 at: 0
+Local current time :Tue Jan 18 22:48:02 2022
+mean, var of degree dist. : 17.286975045648205, 10.599865387642396
+people: 32860
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44939632074641317 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.03295800365185636 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09181375532562386 at: 0
+Local current time :Tue Jan 18 22:48:46 2022
+mean, var of degree dist. : 17.271056940149172, 10.642444268282018
+people: 32982
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4500654104214285 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02574131344369656 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09308107452549876 at: 0
+Local current time :Tue Jan 18 22:53:22 2022
+mean, var of degree dist. : 17.195937728046705, 10.597913952335105
+people: 32888
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44854853768080066 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028125760155679882 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08899902700072974 at: 0
+Local current time :Tue Jan 18 22:54:00 2022
+mean, var of degree dist. : 17.182824637592514, 10.635986060136569
+people: 32698
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4477531841578801 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.024772157318490428 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08483699308826229 at: 0
+Local current time :Tue Jan 18 22:54:25 2022
+mean, var of degree dist. : 17.267218963536312, 10.637962348778773
+people: 33074
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45233058890274136 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02609300356775715 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09085686642075347 at: 0
+Local current time :Tue Jan 18 22:55:00 2022
+mean, var of degree dist. : 17.35674798702079, 10.611353752381529
+people: 33284
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44960507320383175 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.027821175339502464 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09262708809037375 at: 0
+Local current time :Tue Jan 18 22:59:18 2022
+mean, var of degree dist. : 17.314007322903745, 10.63777135974594
+people: 33047
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.45291693464947846 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.030532272218355676 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08799588464913607 at: 0
+Local current time :Tue Jan 18 23:03:22 2022
+mean, var of degree dist. : 17.09233215115568, 10.580328538870901
+people: 32708
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4553848988294553 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.029931515225632872 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08689005747829277 at: 0
+Local current time :Tue Jan 18 23:07:41 2022
+mean, var of degree dist. : 17.37563681307087, 10.624332514241763
+people: 33173
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.44748750004337257 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.025804117806649988 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09022397733096192 at: 0
+Local current time :Tue Jan 18 23:11:55 2022
+mean, var of degree dist. : 17.109267874632714, 10.609189731584609
+people: 32672
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4495446641645527 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.02941356513222331 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09035259549461312 at: 0
+Local current time :Tue Jan 18 23:15:42 2022
+mean, var of degree dist. : 17.129991712452806, 10.587172957195298
+people: 32579
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.4544054236146202 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.028699468983087263 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09733263758863071 at: 0
+Local current time :Tue Jan 18 23:48:26 2022
+mean, var of degree dist. : 17.152254544339883, 10.610342544029477
+people: 32623
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7135561818435263 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09153051528063023 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19915397112466665 at: 0
+Local current time :Tue Jan 18 23:48:33 2022
+mean, var of degree dist. : 17.200291953044218, 10.602767335833851
+people: 32882
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7089193924820536 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09631409281673864 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1963384222370902 at: 0
+Local current time :Tue Jan 18 23:48:40 2022
+mean, var of degree dist. : 17.099008093470456, 10.621489332938415
+people: 32866
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7029688812333622 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09188827359581331 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19281324164790362 at: 0
+Local current time :Tue Jan 18 23:48:50 2022
+mean, var of degree dist. : 17.34310178485287, 10.609420420876871
+people: 33168
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7121789143933966 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09482030873130728 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19334901109503136 at: 0
+Local current time :Tue Jan 18 23:55:03 2022
+mean, var of degree dist. : 17.200855353597067, 10.60594341022514
+people: 32735
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7091096488891256 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09912937223155643 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18891095158087673 at: 0
+Local current time :Tue Jan 18 23:55:11 2022
+mean, var of degree dist. : 17.51121556494318, 10.590467776585696
+people: 33614
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7075527078498595 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09671565419170584 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19015886237877075 at: 0
+Local current time :Tue Jan 18 23:55:20 2022
+mean, var of degree dist. : 17.158051659618486, 10.615205418306475
+people: 32869
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7089132007489785 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09321853418114333 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1954729380267121 at: 0
+Local current time :Tue Jan 18 23:55:22 2022
+mean, var of degree dist. : 17.201913759689923, 10.634474285720374
+people: 33024
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.703033925038199 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08763323643410853 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18771196705426357 at: 0
+Local current time :Wed Jan 19 00:01:14 2022
+mean, var of degree dist. : 17.147716881058344, 10.616823772754039
+people: 32806
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7016365181282308 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.0876059257452905 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.1881363165274645 at: 0
+Local current time :Wed Jan 19 00:01:25 2022
+mean, var of degree dist. : 17.274654266561992, 10.610678637161346
+people: 33118
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.707794064694757 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09257805423032792 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19068180445679087 at: 0
+Local current time :Wed Jan 19 00:01:32 2022
+mean, var of degree dist. : 17.14852514137246, 10.615099612971514
+people: 32715
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7013864359891195 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09992358245453156 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18615314076111875 at: 0
+Local current time :Wed Jan 19 00:01:49 2022
+mean, var of degree dist. : 17.351088858056343, 10.621203196496277
+people: 33154
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.6996492182638051 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08909935452735718 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18507570730530254 at: 0
+Local current time :Wed Jan 19 00:07:45 2022
+mean, var of degree dist. : 17.28091728091728, 10.594560497644158
+people: 32967
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7046259610321222 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08930142263475596 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.18582218582218582 at: 0
+Local current time :Wed Jan 19 00:07:50 2022
+mean, var of degree dist. : 17.227428918960012, 10.640194860345
+people: 32885
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7139170979517194 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08973696214079367 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19361410977649385 at: 0
+Local current time :Wed Jan 19 00:08:09 2022
+mean, var of degree dist. : 17.251820388349515, 10.694465794415999
+people: 32960
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7080641377369771 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09848300970873787 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19068567961165048 at: 0
+Local current time :Wed Jan 19 00:08:10 2022
+mean, var of degree dist. : 17.212294235558524, 10.608950982791695
+people: 32926
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7032440730362852 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09694466379153253 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19674421429873049 at: 0
+Local current time :Wed Jan 19 00:14:22 2022
+mean, var of degree dist. : 17.152049628998906, 10.617768476267159
+people: 32884
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7093448552199534 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09065198880914731 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19474516482179782 at: 0
+Local current time :Wed Jan 19 00:14:25 2022
+mean, var of degree dist. : 17.293027200581573, 10.644063802352784
+people: 33014
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7109443486912166 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09026473617253286 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19588659356636579 at: 0
+Local current time :Wed Jan 19 00:14:44 2022
+mean, var of degree dist. : 17.230759874722533, 10.627606508926446
+people: 32887
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7069775247587651 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.08869766169002949 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19570042874083984 at: 0
+Local current time :Wed Jan 19 00:14:48 2022
+mean, var of degree dist. : 17.26638189584659, 10.621877488349114
+people: 33009
+class size: 25 office size: 5
+beta S->E: 0.3 gamma E E->I: inf gamma R I->R: 0.1 iter per day: 24
+lockdown: 1
+mean weight: 0.7044044874426699 fraction initially infected: 0.01
+Graph simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.09451967645187676 at: 0
+Dreg simulation : R0 direct: 0 Growth rate: 0 R0 ratio infected at end: 0
+max inf: 0.19012996455512132 at: 0

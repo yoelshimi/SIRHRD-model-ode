@@ -1,22 +1,31 @@
-parameter = "hosp";
+parameter = "peakHosp";
 slice = ["p_risk", "p_cautious"];
 % assumes: p risk == 1 - p cautious
 values = unique(T.p_risk) ; %  [0.3 0.4];
 val2Percent = @(x) 100*str2num(cell2mat(x));
 g = figure; 
 %--- ODE ---%
+if parameter == "peakHosp"
+    SimT.peakHosp = cellfun(@(x) sum(x) , SimT.hosp);
+end
 subtable = SimT(abs(1 - SimT.(slice(1)) - SimT.(slice(2))) < eps &...
     ismembertol(SimT.(slice(1)), values,eps),:);
-x = unique(subtable.corr);
-y = [];
-for iter = 1 : length(values)
+% x = unique(subtable.corr);
+
+for iter = 1 : numel(values)
     inds = abs(subtable.(slice(1)) - values(iter)) < eps;
-    y(:,iter) = cellfun(@(x) sum(x), (subtable(inds,:).(parameter)));
+    x{iter} = subtable.corr(inds);
+    if iscell (subtable(inds,:).(parameter))
+        y{iter} = cellfun(@(x) sum(x), (subtable(inds,:).(parameter)));
+    else
+        y{iter} = subtable(inds,:).(parameter);
+    end
 end
-factor = 1 / ( mean(subtable.N0)) * 100 ; % 3.3818 *
-p(1) = plot(x,y(:, 1) * factor,"r-","LineWidth",2); hold on;
-p(2) = plot(x,y(:, 2) * factor,"r--","LineWidth",2);
-t1 = y * factor;
+factor = 1 / ( mean(subtable.N0)) * 100 ; 
+for iter = 1 : numel(values)
+    p(iter) = plot(x{iter},y{iter} * factor,"r-","LineWidth",2); hold on;
+end
+% t1 = y * factor;
 p(1).Color = [0.9 0 0];
 p(2).Color = [0 0.8 0];
 hold on;
@@ -35,10 +44,12 @@ if true
         st = subtable(subtable.(slice(1)) == thisVal & ...
             subtable.graphType == "DregGraph", :);
         x = st.corr(:, 1);
-        y = mean(st.(parameter).Variables,2)*4; % removes sb, snb, nsb nsnb and sums
-        y = mean(reshape(y,numel(unique(st.corr)),[]), 2); % mean over columns
+        y = mean(st.(parameter),2);
+%         y = mean(st.(parameter).Variables,2)*4; % removes sb, snb, nsb nsnb and sums
+%         y = mean(reshape(y,numel(unique(st.corr)),[]), 2); % mean over columns
+%         
         x = reshape(unique(x, "stable"), size(y));
-        factor = 1 / (3.3818 * mean(subtable.N0)) * 100;%  ,7.3233 * 3.3818 *
+        factor = 1 / (mean(subtable.N0)) * 100;%  ,7.3233 * 3.3818 *
         p(iter) = plot(x, y * factor,"ko","LineStyle","none","LineWidth",1);
     end
     drawnow
@@ -60,10 +71,11 @@ if true
         st = subtable(subtable.(slice(1)) == thisVal & ...
             subtable.graphType == "StructuredGraph", :);
         x = st.corr(:, 1);
-        y = mean(st.(parameter).Variables,2)*4; % removes sb, snb, nsb nsnb and sums
-        y = mean(reshape(y,numel(unique(st.corr)),[]), 2); % mean over columns
+        y = mean(st.(parameter),2);
+%         y = mean(st.(parameter).Variables,2)*4; % removes sb, snb, nsb nsnb and sums
+%         y = mean(reshape(y,numel(unique(st.corr)),[]), 2); % mean over columns
         x = reshape(unique(x, "stable"), size(y));
-        factor = 1 / (3.3818 * mean(subtable.N0)) * 100;%  ,7.3233 *
+        factor = 1 / ( mean(subtable.N0)) * 100;%  ,7.3233 * 3.3818 *
         p(iter) = plot(x, y * factor,"ks","LineStyle","none","LineWidth",3);
         txt(iter) = text(x(3)+0.1, y(3)*factor, str2double(thisVal{1})*100+"% risk");
     end
@@ -87,7 +99,7 @@ l = legend(["ODE model "+val2Percent(values)+"% risk"; ...
 % l.ItemHitFcn = @hitcallback_ex1;
 
 switch parameter
-    case "hosp"
+    case "peakHosp"
         paramName = "hospitalization";
     case "dead"
         paramName = "deceased";

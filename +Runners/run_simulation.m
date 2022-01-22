@@ -1,3 +1,9 @@
+rundir = mfilename("fullpath");
+cd(fileparts(rundir))
+% matlabDir = fullfile(matlabDir{1:6});
+% cd(fullfile(matlabDir, "SIRHRD model ode","+Runners"));
+
+tic
 f = ["S" "I" "H" "R" "D" "P"];
 reusedVariables{2} = f;
 f = f + "r"; 
@@ -6,7 +12,7 @@ f = ["R0growth" "R0Ratio" "qual" ...
     "tab" "R0"];
 f = f'+["R" "S"];
 reusedVariables{4} = f;
-f = ["maxTimes" "maxInfs"];
+f = ["maxTimes" "maxInfs", "seir"];
 reusedVariables{5} = f;
 if exist("res", "var") == true
     f = fields(res);
@@ -18,20 +24,20 @@ if exist("res", "var") == true
     end
 end
 % cd("Dropbox\SocialStructureGraph\matlab")
-addpath("SIRHRD model ode\correlation");
+% addpath("SIRHRD model ode\+Correlation");
 FIELDS = ["snb", "sb", "nsnb", "nsb"];
 format long g
 tic;
 switch getenv("computername")
     case 'LAPTOP-Q0OQCTC5'        
-        code_path = "..\..\..\..\army\corona\rami_simulation\python\AgentSimulation";
+        code_path = "C:\Users\yoel\Documents\army\corona\rami_simulation\python\AgentSimulation";
     otherwise
-        code_path = "..\python_31_5_21";
+        code_path = "..\..\python_31_5_21";
 end
 space = " ";
 command = "python"
 run_file = "basic_run.py"
-families = 1e3;
+families = 1e4;
 sim_duration = 60;
 if ~exist('p_susc','var')
     p_susc = 0.3;
@@ -41,12 +47,16 @@ gamma = 1/10;% recovery rate
 beta = R*gamma;
 alpha = 0; % no latency.
 
+p_init = 0.01;
 b_l = [0.05 0.15 1]; % betas: 1: BB, 2:nBB, 3: nBnB
 gammaH = 1/20; % rate of move out of hospital.
 N0pop = families*3.3;
 
 p_h_l =  [0.2,0.2/10];
 pD_l= [0.2,0.05];
+
+tspan=[0,365];
+param=[beta.*b_l/N0pop gamma gammaH p_h_l pD_l];
 
 is_plot = false;
 freq = 24;
@@ -64,7 +74,7 @@ Niter2 = 5;
 Niter1 = length(corrs);
 RGmode = "sb"  
 
-validCorrStruct = getMinMaxCorrs(p_susc, p_cautious);
+validCorrStruct = Correlation.getMinMaxCorrs(p_susc, p_cautious);
 validCorrs = corrs(corrs >= validCorrStruct.minCorr &...
     corrs <= validCorrStruct.maxCorr);
 Niter1 = numel(validCorrs);
@@ -75,21 +85,38 @@ if 1
         for iter2 = 1 : Niter2
             corr  = validCorrs(iter1);
     %         mat = good_corr(corr, p_susc);
-            mat = nonSymCorr(p_susc, p_cautious, corr); 
+            mat = Correlation.nonSymCorr(p_susc, p_cautious, corr); 
             mat(mat(:)<0.001) = 0
             to_run = command+space+code_path+filesep()+run_file+space+" -n "+families...
                 +" -p "+is_plot+" -o "+output_filename+iter1+"_"+iter2+" -b "+beta+" -a "+alpha+" -g "...
                 +gamma+" -f "+freq+" -n_i "+sim_duration+" -b_l "+b_l(1)+" "+b_l(2)+" "+b_l(3)+...
                 " -g_h "+gammaH + " -p_h_l "+p_h_l(1)+" "+p_h_l(2)+" -p_d_l "+pD_l(1)+" "...
                 +pD_l(2)+" -sbc_l "+mat(1,1)+space+mat(1,2)+space+mat(2,1)+space + mat(2,2)+...
-                " -rng "+RGmode+" -s "+"True"; 
-
-            result = system(to_run)      
-        %     toc;
+                " -rng "+RGmode+" -s "+"True";     
+            [status, result] = system(to_run, "-echo");
+            if status ~= 0
+                error(result);
+            end
         end
+        sb = mat(1,2); snb = mat(1,1); nsnb = mat(2,1);nsb = mat(2,2);
+        xinit = [sb*N0pop; snb*N0pop; nsnb*N0pop; nsb*N0pop; ones(4,1)*p_init*N0pop/4; zeros(12,1)];
+        xinit = xinit / sum(xinit) * N0pop; 
+        [x,t]=SEIR.SEIRodeSolver_YR(tspan,param,xinit);
+        ind_last = find(t<81,1,'last');
+        inds = 1:ind_last;
+        t = t(inds);
+        s = sum(x(inds,1:4),2);
+        i = sum(x(inds,4+(1:4)),2);
+        h = sum(x(inds,8+(1:4)),2);
+        r = sum(x(inds,12+(1:4)),2);
+        d = sum(x(inds,16+(1:4)),2);
+        seir(iter1, 1) = struct("t", t, "xinit", xinit,...
+            "S", s, "I", i, "H", h, "R", r, "D", d)
     end
 end
+%  toc;
 %%
+
 tabR = cell(Niter1,Niter2);
 tabS = tabR;
 preallocField = cell2struct(cell(Niter1, Niter2, numel(FIELDS)), FIELDS, 3);
@@ -102,24 +129,26 @@ for iter = 1 : Niter1
         thisOutName = output_filename+iter+"_"+iter2;
         disp(thisOutName);
         [P(iter,iter2), S(iter,iter2), H(iter,iter2), D(iter,iter2), I(iter,iter2)] = ...
-            read_sb_output(thisOutName+"_sb.txt");
+            Utilities.read_sb_output(thisOutName+"_sb.txt");
         tabS(iter,iter2) = {csvread("israel population graph"+thisOutName+".csv")};
         [R0growthS(iter,iter2), R0RatioS(iter,iter2), qualS(iter,iter2)] = ...
-            estimateR0FromCSV(tabS{iter,iter2},freq,gamma);
+            Estimation.estimateR0FromCSV(tabS{iter,iter2},freq,gamma);
         if RGmode == "sb"
             [Pr(iter,iter2), Sr(iter,iter2), Hr(iter,iter2), Dr(iter,iter2), Ir(iter,iter2)] = ...
-                read_sb_output(thisOutName+" rnd_sb.txt");
+                Utilities.read_sb_output(thisOutName+" rnd_sb.txt");
             tabR(iter,iter2) = {csvread("random graph"+thisOutName+".csv")};
             [R0growthR(iter,iter2), R0RatioR(iter,iter2), qualR(iter,iter2)] = ...
-                estimateR0FromCSV(tabR{iter,iter2},freq, gamma);
+                Estimation.estimateR0FromCSV(tabR{iter,iter2},freq, gamma);
             
             [R0S(iter,iter2,:), R0R(iter,iter2,:), maxTimes(iter,iter2,:), ...
-                maxInfs(iter,iter2,:)] = readRunDetails(thisOutName+".txt");
+                maxInfs(iter,iter2,:)] = Utilities.readRunDetails(thisOutName+".txt");
         end
     end
 end
 warning("on")
 %%
+% cd(matlabDir);
+HOSPIND = 6;
 res.corr        = validCorrs;
 res.pop         = P;
 res.sick        = S;
@@ -131,12 +160,15 @@ res.R0matlab    = cat(3,R0growthS, R0RatioS, qualS);
 [n,m]           = size(maxTimes);
 res.peakInfT    = reshape([maxTimes.TmaxInf],n,m);
 res.peakInf     = reshape([maxInfs.MaxInf],n,m);
+res.peakHosp    = cellfun(@(x) max(x(HOSPIND, :)), tabS);
 res.N0          = N0pop*ones(Niter1,1);
-
-save(fullfile("test","agent res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
+res.seir        = seir;
+savedir = fullfile("..", "..", "test");
+save(fullfile(savedir,...
+    "agent res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
 
 graphType       = "StructuredGraph";
-res2table();
+Utilities.res2table();
 
 if RGmode == "sb"
     res.pop      = Pr;
@@ -147,11 +179,13 @@ if RGmode == "sb"
     res.R0       = R0R;
     res.R0matlab = cat(3,R0growthR, R0RatioR, qualR);
     res.peakInfT    = reshape([maxTimes.TmaxInfRand],n,m);
+    res.peakHosp    = cellfun(@(x) max(x(HOSPIND, :)), tabR);
     res.peakInf     = reshape([maxInfs.MaxInfRand],n,m);
-    save(fullfile("test","rand res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
+    res.seir        = seir;
+    save(fullfile(savedir,"rand res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
     
     graphType       = "DregGraph";
-    res2table();
+    Utilities.res2table();
 end
 
 %%
@@ -175,7 +209,7 @@ if 0
     ylabel("")
 end
 %%
-if 0
+if 1
     figure;
     subplot(1,2,1);
     for iter = 1:Niter1
@@ -188,7 +222,24 @@ if 0
         plot(tabR{iter,1}(3,:)','Color',[iter/(2*Niter1) 0.1 0.1],'LineWidth',iter / 10);
     end
 end
-
+%%
+if 0
+    k = divisors(Niter1);
+    k = k(2);
+    for iter = 1 : Niter1
+        c1 = tabR(iter, :);
+        c2 = seir(iter);
+        c3 = cellfun(@(x) x(6, :), c1, "UniformOutput", false);
+        tmax = min(cellfun(@(x) numel(x), c3));
+        t = (1 : tmax)/24;
+        subplot(k, Niter1 / k, iter);
+        for iter2 = 1 : numel(c3)
+            hold on; plot(t, c3{iter2}(1 : numel(t)));
+        end
+        hold on;
+        plot(c2.t, c2.H, "kx")
+    end
+end
 %%
 if 0
     toc;

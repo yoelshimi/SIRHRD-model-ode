@@ -7,7 +7,7 @@ function tab = removeTableNameSuffix(tab, suffix)
         if bIsTabName(iter)
             subTab = tab.(names{iter});
             tab.(names{iter}) = ...
-                removeTableNameSuffix(subTab, suffix);
+                Utilities.removeTableNameSuffix(subTab, suffix);
         end
     end
     tab.Properties.VariableNames = erase(names,suffix);

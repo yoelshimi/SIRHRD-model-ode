@@ -9,7 +9,7 @@ fdr_rnd = 'random graphvalid';
 space = " ";
 command = "python";
 run_file = "basic_run.py";
-families = 5e3;
+families = 1e4;
 p_init = 0.01;
 R = 5;
 gamma = 1/10;% recovery rate
@@ -30,15 +30,17 @@ p_risk = 0.4;
 p_caution = 1 - p_risk;
 r = Correlation.getMinMaxCorrs(p_risk, p_caution);
 NUMCORRS = 10;
+NUMSIM = 4;
 corrs = linspace(r.minCorr, r.maxCorr, NUMCORRS);
-mat = Correlation.nonSymCorr(p_susc, p_caution, corrs(randperm(NUMCORRS, 1)));
+corr = corrs(randperm(NUMCORRS, 1));
+mat = Correlation.nonSymCorr(p_risk, p_caution, corr);
 
 to_run = command+space+code_path+filesep()+run_file+space+" -n "+families...
 +" -p "+is_plot+" -o "+output_filename+" -p_i "+p_init+" -b "+beta+" -a "+alpha+" -g "...
 +gamma+" -f "+freq+" -b_l "+b_l(1)+" "+b_l(2)+" "+b_l(3)+" -g_h "+gammaH + " -p_h_l "+...
 p_h_l(1)+" "+p_h_l(2)+" -p_d_l "+pD_l(1)+" "+pD_l(2)+" -sbc_l "+mat(1,1)+space...
 +mat(1,2)+space+mat(2,1)+space + mat(2,2)+" -rng "+RGmode; 
-parfor iter = 1:11
+parfor iter = 1:NUMSIM
     result = system(to_run)
 
     tab{iter} = readmatrix(fullfile(fdr_stc,"res.csv"));
@@ -50,7 +52,7 @@ end
 % t2 = t2(1:end-1);
 %%
 C = corr;
-mat = Correlation.good_corr(C, p_susc);
+
 sb = mat(1,2); snb = mat(1,1); nsnb = mat(2,1);nsb = mat(2,2);
 
 xinit = [sb*N0; snb*N0; nsnb*N0; nsb*N0; ones(4,1)*p_init*N0/4; zeros(12,1)];
@@ -69,7 +71,7 @@ R = sum(x(inds,12+(1:4)),2);
 D = sum(x(inds,16+(1:4)),2);
 %%
 
-for iter = 1:11
+for iter = 1:NUMSIM
     hold on
     t2_1 = 1/freq*(1:length(tab{iter}));
     t2_2 = 1/freq*(1:length(tab2{iter})); 
