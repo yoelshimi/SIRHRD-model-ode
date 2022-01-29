@@ -1,4 +1,5 @@
-cd(mfilename);
+
+cd(fileparts(mfilename("fullpath")));
 dataDir = "..\..\..\statistical materials\worldVaxData";
 
 %  age matrix tables
@@ -21,7 +22,7 @@ ageSumFun = @(flds) nansum(cell2mat(cellfun(@(x) ageTable.(x), flds,...
 ageTable.sum = ageSumFun(f);
 ageTable.RiskSum = ageSumFun(f(ageGroupString >= 60));
 ageTable.notRiskSum = ageSumFun(f(ageGroupString < 60));
-save(fullfile(dataDir, "ageTable.mat"), "ageTable");
+% save(fullfile(dataDir, "ageTable.mat"), "ageTable");
 %%
 dataDir = "..\..\..\statistical materials\worldVaxData";
 
@@ -68,7 +69,7 @@ popVaxTable = ageSumFun(f);
 % cautiousVaxPop = ageSumFun(ageGroupString < 60);
 
 
-save(fullfile(dataDir, "vaxByAge.mat"), "vaxByAge");
+% save(fullfile(dataDir, "vaxByAge.mat"), "vaxByAge");
 %%
 
 % for each age group, find the number of people in that group and multiply
@@ -152,35 +153,10 @@ combinedTables.nRnC = combinedTables.notRisk - combinedTables.nRC;
 
 combinedTables.pnCifR = combinedTables.RnC ./ (combinedTables.RnC + combinedTables.RC);
 
-save(fullfile(dataDir, "CRdata.mat"), "combinedTables");
+% save(fullfile(dataDir, "CRdata.mat"), "combinedTables");
 %%
-k = numel(ID);
-randomCountries = randperm(k,10);
-f = figure;
-b = jet;
-for iter = randomCountries
-    hold on;
-    ftr = combinedTables.Entity == ID(iter);
-    idx = find(ftr, randi(sum(ftr)), 'first');
-    idx = idx(end);
-    sz = combinedTables(idx, :).pnCifR ;
-    
-    if isnan(sz) || sz < 0 
-        continue
-    end
-    plot(combinedTables(idx, :).p_cautious, ...
-        combinedTables(idx, :).risk, ...
-        "DisplayName", string(ID(iter)), "MarkerSize", ...
-        (sz*20+ 20) / 2,"LineWidth", (sz*20+ 20) / 2,...
-        "Marker", "square", "MarkerEdgeColor", b (round(sz*64), :))
-end
-legend();
-xlabel("cautious"); ylabel("risk");
-xlim([0 1]); ylim([0 1])
-mkdir(fullfile("..\figures", datestr(today)))
-saveas(f,fullfile("..\figures", datestr(today), "world vaccination data "+today+".fig"))
-saveas(f,fullfile("..\figures", datestr(today), "world vaccination data "+today+".eps"), "epsc")
-
+% make plot of countries
+GraphCode.plotCustMark.addCountryDataToPlot(combinedTables);
 %%
 function f = getXfields(T)
     f = fields(T);
@@ -194,3 +170,4 @@ function t = getIdxFromFld(f)
             regexp(f(iter),'\d*', "match"), 'UniformOutput', false);
     end
 end
+
