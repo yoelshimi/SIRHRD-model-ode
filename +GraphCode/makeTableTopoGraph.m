@@ -25,8 +25,8 @@ function g = makeTableTopoGraph(odeTable,valField, name, idx, flg)
     GraphCode.colorsConfig();
     sval_to_plot = [0.6] %  [0.3 0.4];
     g = figure;
-    p1 = contourf(corrs', probToPercent (p_risk'), Data(:, :, 1)'...
-        ,Ncolours,'linewidth',2,"Fill","off");hold on;
+%     p1 = contourf(corrs', probToPercent (p_risk'), Data(:, :, 1)'...
+%         ,Ncolours,'linewidth',2,"Fill","off");hold on;
     p2 = contourf(corrs', probToPercent (p_risk'), Data(:, :, 1)'...
         ,Ncolours,'linewidth',2,"Fill","on");hold on;    
     

@@ -1,8 +1,9 @@
-function addCountryDataToPlot(tab, f, countryMode)
+function addCountryDataToPlot(tab, xField, yField, f, countryMode)
     % function plots onto axes of f data from table about contries.
     % input: tab, table with country-wise data, countryMode, way of
     % selecting countries, f, figure to be plotted onto.
     % output: void. saves into fixed folder figures / date.
+    
     if nargin == 1
         f = figure;
         countryMode = "random";
@@ -54,9 +55,5 @@ function addCountryDataToPlot(tab, f, countryMode)
     ylabel(ax1, "prob. not cautious if at risk");
     grid(ax1, "off");
     f.Color = "white";
-    fdr = fullfile("..\..\figures", datestr(today));
-    mkdir(fdr)
-    saveas(f,fullfile(fdr, "world vaccination data "+datestr(today)+".fig"))
-    saveas(f,fullfile(fdr, "world vaccination data "+datestr(today)+".eps"), "epsc")
-
+    GraphCode.saveGraph(f);
 end

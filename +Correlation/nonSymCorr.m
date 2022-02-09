@@ -26,16 +26,17 @@ function [mat, valid, err] = nonSymCorr(pS,pB,pCgivenS)
     if pCgivenS < 0
         error("error! range is 0 to 1!")
     end
-%     a2   = pCgivenS * pS;    % sb 
-%     b2   = pS - a2;           % snb
-%     d2   = pB - a2;           % nsb
-%     c2   = 1 - a2 - b2 - d2;    % nsnb
-%     if any(isEqualTol([b2 c2 a2 d2], [b c a d]) == false)
-%         error("linalg wrong");
-%     end
+    a2   = pCgivenS * pS;    % sb 
+    b2   = pS - a2;           % snb
+    d2   = pB - a2;           % nsb
+    c2   = 1 - a2 - b2 - d2;    % nsnb
+    if any(isEqualTol([b2 c2 a2 d2], [b c a d]) == false)
+        error("linalg wrong");
+    end
     mat = [b a;c d];
     v_inds = mat(:) < -eps;
     while any(v_inds)
+        disp("correcting");
         invalidInd = find(v_inds);
         if isEqualTol(mat(invalidInd), 0)
             mat(invalidInd) = 0;

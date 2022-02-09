@@ -1,11 +1,15 @@
 function [res, f1Vals, f2Vals] = retrieve2mat...
-    (tab, field1, field2, valueField, idx)
+    (tab, field1, field2, valueField, idx, constraints)
 %  function for retrieving data from table into matrix.
 % field1: first index, rows.
 % field2: column index.
 % valueField: value to retrieve.
 % assumes square completeness.
-
+if nargin == 6
+    constr = true;
+else 
+    constr = false;
+end
 f1Vals = uniquetol(tab.(field1));
 f2Vals = uniquetol(tab.(field2));
 n = length(f1Vals);
@@ -18,6 +22,17 @@ for iter1 = 1:n
         % get relevant table part
         subTable = tab(tab.(field1) == f1Vals(iter1) & ...
             tab.(field2) == f2Vals(iter2),:);
+        if constr
+            % use constraints.
+            for c = Utilities.flattenToRow(fields(constraints))
+                c = c{:};
+                val = constraints.(c);
+                if exist(val, "builtin")
+                    val = feval(val, subTable.(c));
+                end
+                subTable = subTable(subTable.(c) == val, :);
+            end
+        end
         if isempty(subTable)
             continue;
         end

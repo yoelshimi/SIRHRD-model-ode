@@ -4,9 +4,9 @@ if exist("SimT","var")
 else
     oldT = table();
 end
-if isrow(pBfromS)
-    cfg.corr = cfg.corr';
-end
+% if isrow(pBfromS)
+%     cfg.corr = cfg.corr';
+% end
 
 SimT = struct2table(cfg,"AsArray",true);
 

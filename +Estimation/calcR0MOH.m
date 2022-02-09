@@ -1,4 +1,5 @@
 function R0 =  calcR0MOH(infected, t, t0)
+    import Estimation.*
     % function that determines the R0 according to MOH calculation.
     % function considers 7 points for calc.
     %  R_0 = I_t / (sum(I_{t-s} * w_s) for s from 0 to t

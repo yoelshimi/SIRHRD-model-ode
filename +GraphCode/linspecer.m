@@ -57,7 +57,9 @@
 % 
 % 
 %%
+
 function lineStyles=linspecer(N,varargin)
+import GraphCode.linspecer
 if nargin==0 % return a colormap
     lineStyles = linspecer(128);
     return;

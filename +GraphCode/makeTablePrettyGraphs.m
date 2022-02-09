@@ -1,4 +1,7 @@
 import GraphCode.*
+% data locations: "SocialStructureGraph\results from yoel\result tables"
+% real data location: "SocialStructureGraph\statistical
+% materials\worldVaxData"
 
 makeTableTopoGraph(T(T.graphType=="DregGraph",:), "hosp", " agent");
 
@@ -8,6 +11,7 @@ makeTableTopoGraph(T(T.graphType=="DregGraph",:), ...
     "R0"," agent",2, "data");
 
 makeTableTopoGraph(SimT, "hosp"," ode");
+GraphCode.plotCustMark.addCountryDataToPlot(combinedTables, gcf, "random")
 
 makeTableTopoGraph(SimT, "dead"," response");
 

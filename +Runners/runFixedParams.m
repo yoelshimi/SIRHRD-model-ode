@@ -1,19 +1,19 @@
 %%
 N0 = 9e6;
-parts_susc = linspace(0,1,101);
+parts_susc = linspace(0,1,31);
 % union(0.1:0.1:1,0.25:0.05:0.4);
-% parts_cautious = 0:0.1:1;
-NitersRisk = length(parts_susc);
+NitersRisk = numel(parts_susc);
 % assumes caution == risk
-parts_cautious = nan;
-NitersCautious = length(parts_cautious);
-NitersCorr = 201;
+
+parts_cautious = linspace(0,1,21);
+NitersCautious = numel(parts_cautious);
+NitersCorr = 51;
 pBfromS = linspace(0, 1, NitersCorr);
 init_inf = 1e-6;
 alpha = 0;
-gamma=1/10;
-gammaH=1/20;
-R=3;
+gamma = 1/10;
+gammaH = 1/20;
+R = 3;
 tspan = [0 365];
 calcFactor = 0.1;
 model = "SEIR";
@@ -36,7 +36,7 @@ pD=[0.2 0.05];
 %param=[beta,gamma, gamma_H,P_H,P_D];
 % param=[1e-1.*[0.1 0.4 0.98 0.5 0.8] 0.1 0.01 0.1 0.01];
 % param=[1/N0.*[0.015 0.045 0.3] 0.1 0.05 0.2 0.02 0.2 0.05];
-param=[beta/N0 gamma gammaH pH pD]
+param = [beta/N0 gamma gammaH pH pD]
 % betas = R*gamma/N0
 %% 
 % config complete. initialize storage variables:
@@ -45,7 +45,7 @@ Hosp        = zeros(NitersRisk, NitersCautious, NitersCorr,4);
 Dead        = zeros(NitersRisk, NitersCautious, NitersCorr,4);
 TtoMaxParts = zeros(NitersRisk, NitersCautious, NitersCorr,4);
 TtoMaxHosp  = zeros(NitersRisk, NitersCautious, NitersCorr);
-Correlation = zeros(NitersRisk, NitersCautious, NitersCorr,1);
+correlationMatrix = zeros(NitersRisk, NitersCautious, NitersCorr,1);
 not_s       = zeros(NitersRisk, NitersCautious, NitersCorr,4);
 grRate      = zeros(NitersRisk, NitersCautious, NitersCorr,3);
 %% 
@@ -54,17 +54,18 @@ tic;
 cnt = 1;
 for iter1 = 1:NitersRisk
     for iter2 = 1:NitersCautious
-        parts_cautious =  1 - parts_susc(iter1); 
+        p_cautious = parts_cautious(iter2); %  1 - parts_susc(iter1); 
+        p_risk     = parts_susc(iter1);
         % !! NOTICE this 29.12.21
-        validCorrs   = getMinMaxCorrs(parts_susc(iter1), parts_cautious);
-        pBfromSvalid = pBfromS(pBfromS >= validCorrs.minCorr & ...
-            pBfromS <= validCorrs.maxCorr);
+        validCR   = Correlation.getMinMaxCorrs(p_risk, p_cautious);
+        pBfromSvalid = pBfromS(pBfromS >= validCR.minCR / p_risk & ...
+            pBfromS <= validCR.maxCR / p_risk);
         NitersCorrValid = numel(pBfromSvalid);
         for iter3 = 1:NitersCorrValid
              %     [mat,C] = get_corr(1);
-            
+            pCifR = pBfromSvalid(iter3);
             % probability of cautious if not at risk.
-            mat      = nonSymCorr(parts_susc(iter1), parts_cautious, pBfromSvalid(iter3));
+            mat      = Correlation.nonSymCorr(p_risk, p_cautious, pCifR);
             sb       = mat(1,2); snb = mat(1,1); nsnb = mat(2,1);nsb = mat(2,2);
             notation = ["RnC" "RC"; "nRnC" "nRC"];
             xinit_s  = [sb*N0; snb*N0; nsnb*N0; nsb*N0;];
@@ -79,7 +80,7 @@ for iter1 = 1:NitersRisk
                 case "quarantineNoReact"
                     [x,t] = runSEIRDotanNotReact(xinit,param);
                 otherwise
-                    [x,t]=SEIRodeSolver_YR(tspan,param,xinit);
+                    [x,t] = SEIR.SEIRodeSolver_YR(tspan,param,xinit);
             end
             
             % plot(t,x,'LineWidth',2),grid on, xlabel('days'),shg
@@ -99,16 +100,16 @@ for iter1 = 1:NitersRisk
             % 
             Dead(iter1,iter2,iter3,:) = x(end,17:20); 
             %  ./ ((x(1,1:4) + x(1,5:8)).*reshape([pD;pD].*[pH;pH],1,4));
-            Correlation(iter1,iter2,iter3) = (sb*nsnb - snb*nsb);
+            correlationMatrix(iter1,iter2,iter3) = (sb*nsnb - snb*nsb);
     %         snb_(iter1, iter2) = mat(1,1); sb_(iter1) = mat(1,2);
             infs = sum(x(:,5:8),2);
-            [f0,gof] = calcGrowth(t, infs,  tspan, calcFactor);
+            [f0,gof] = Estimation.calcGrowth(t, infs,  tspan, calcFactor);
             grRate(iter1,iter2,iter3,:) = [f0.a, f0.b, gof.adjrsquare];
-            R0MOH = calcR0MOH(infs, t);
-            cfg = struct("corr",pBfromSvalid(iter3),...
+            R0MOH = Estimation.calcR0MOH(infs, t);
+            cfg = struct("pCifR",pCifR,"RC", mat(notation == "RC"),...
                 "pop",mat,"notation", notation, ...
-                "sim_duration",tspan,"p_risk",parts_susc(iter1),...
-                "p_cautious",parts_cautious(iter2),"alpha",alpha,...
+                "sim_duration",tspan,"p_risk",p_risk,...
+                "p_cautious",p_cautious,"alpha",alpha,...
                 "beta",R,"gamma",gamma,"b_l",beta,"gammaH",gammaH,...
                 "p_h_l",pH,"pD_l",pD,"R0",squeeze(grRate(iter1,iter2,iter3,:)),...
                 "hosp",squeeze(Hosp(iter1,iter2,iter3,:)),"dead",...
@@ -117,7 +118,7 @@ for iter1 = 1:NitersRisk
                 "sick",squeeze(not_s(iter1,iter2,iter3,:)),...
                 "inf", init_inf,"N0",N0, "R0matlab", R0MOH);
             
-            fixed2table();
+            Utilities.fixed2table();
             cnt = cnt + 1;
         end
     end

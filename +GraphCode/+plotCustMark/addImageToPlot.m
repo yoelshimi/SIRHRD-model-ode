@@ -1,14 +1,17 @@
-function ax2 = addImageToPlot(ax1, x, y, im, lbl)
+function ax2 = addImageToPlot(ax1, x, y, im, lbl, sz)
     % plot on large axes
     if isnan(im)
         ax2 = nan;
         return
     end
+    if nargin <= 5
+        sz = [0.1 0.1];
+    end
     f = ax1.Parent;
     p = plot(ax1, x, y, 'kp', "DisplayName", lbl, "MarkerSize", 1);
     p.Visible = "off";
     grid on;
-    imSize = [0.1 0.1];
+    imSize = sz;
     % Put images at every (x,y) location.
     dfun = @(v, d) [v - d, v + d];  
     for k = 1 : numel(x)
@@ -17,7 +20,7 @@ function ax2 = addImageToPlot(ax1, x, y, im, lbl)
         [xLoc, yLoc] = GraphCode.Coords.coord2norm(ax1, ...
             x(k),y(k));
         % make the y lined up
-        newPosition = [xLoc(1) yLoc(1)-imSize(2)/2 imSize(1) imSize(2)];
+        newPosition = [xLoc(1)-imSize(2)/2 yLoc(1)-imSize(2)/2 imSize(1) imSize(2)];
 %         newPosition = GraphCode.Coords.outerToInnerPosition(ax1, newPosition);
         
         if checkIsOverlap(f, newPosition) == true
@@ -49,10 +52,10 @@ function isOverLap = checkIsOverlap(f, newPosition)
         shp        = GraphCode.Coords.positionToShape(existing_p);
         isOverLap  = overlaps([shp newShape]);
         isOverLap  = any(isOverLap(~eye(size(isOverLap))));
-        disp(isOverLap);
+%         disp(isOverLap);
         iter = iter + 1;
     end
     if isOverLap
-        disp("shark")
+        disp("overlap")
     end
 end
