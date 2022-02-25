@@ -14,8 +14,8 @@ popTypes = ["snb","sb","nsnb","nsb"];
 for iter2 = 1:N_cautious
     for iter = 1:N_susc
         %--------notice! iter for susc shoud be iter, not iter2!!---2.7.21-%
-        matFile = load("C:\Users\yoel\Dropbox\SocialStructureGraph\matlab\test"+filesep()+...
-            "rand res for B "+cautions(iter2)+" S "+suscs(iter)+" susc.mat");
+        matFile = load(fullfile("..", "..", "simOutputs",...
+            "rand res for B "+cautions(iter2)+" S "+suscs(iter)+" susc.mat"));
         randRes{iter} = matFile.res;
         randInfMat(iter2, iter,:,:,1) = reshape([matFile.res.inf.sb],Niter1,Niter2);
         randInfMat(iter2, iter,:,:,2) = reshape([matFile.res.inf.snb],Niter1,Niter2);
@@ -29,8 +29,8 @@ for iter2 = 1:N_cautious
             structPopMatrix(iter2,iter,:,:,ind) = matFile.res.pop.(popTypes(ind));
         end
         
-        matFile = load("C:\Users\yoel\Dropbox\SocialStructureGraph\matlab\test"+filesep()+...
-            "agent res for B "+cautions(iter2)+" S "+suscs(iter2)+" susc.mat");
+        matFile = load(fullfile("..", "..", "simOutputs",...
+            "agent res for B "+cautions(iter2)+" S "+suscs(iter2)+" susc.mat"));
         structRes{iter} = matFile.res;
         structInfMat(iter2, iter,:,:,1) = reshape([matFile.res.inf.sb],Niter1,Niter2);
         structInfMat(iter2, iter,:,:,2) = reshape([matFile.res.inf.snb],Niter1,Niter2);

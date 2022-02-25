@@ -75,8 +75,8 @@ Niter1 = length(corrs);
 RGmode = "sb"  
 
 validCorrStruct = Correlation.getMinMaxCorrs(p_susc, p_cautious);
-validCorrs = corrs(corrs >= validCorrStruct.minCorr &...
-    corrs <= validCorrStruct.maxCorr);
+validCorrs = corrs(corrs >= validCorrStruct.minCR &...
+    corrs <= validCorrStruct.maxCR);
 Niter1 = numel(validCorrs);
 %%
 % modes: on, off, sb, true, false
@@ -163,7 +163,7 @@ res.peakInf     = reshape([maxInfs.MaxInf],n,m);
 res.peakHosp    = cellfun(@(x) max(x(HOSPIND, :)), tabS);
 res.N0          = N0pop*ones(Niter1,1);
 res.seir        = seir;
-savedir = fullfile("..", "..", "test");
+savedir = fullfile("..", "..", "simOutputs");
 save(fullfile(savedir,...
     "agent res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
 
