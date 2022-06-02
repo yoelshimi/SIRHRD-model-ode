@@ -15,6 +15,9 @@ for iter = 1 : nTries
     disp(iter)
 end
 
+% note that d / n -> clustering coefficient for random graphs.
+% also, that the spectral gap -> 0 for random graphs, and thus is a measure
+% of randomness of a graph.x
 n = round(10.^(2+(1:nDims)/10));
 dOvern = d ./ n;
 figure; plot(dOvern, "kx")

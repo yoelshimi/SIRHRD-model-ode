@@ -1,5 +1,6 @@
 function filename = saveGraph(g, ax, types)
     % function for saving graph into folder of graphs.
+    ILLEGAL_CHARS = '[/\*:?"<>|]';
     if nargin <= 1
         ax = gca;
     end
@@ -24,9 +25,9 @@ function filename = saveGraph(g, ax, types)
     if size(ttl, 1) > 1 % multiline titles.
         ttl = ttl(1, :);
     end
-    if contains(ttl, "\")
+    if isempty(regexp(ttl, '[/\*:?"<>|]', 'all')) == false
         % latex symbols.
-        ttl = erase(ttl, ["_", ",","\"]);
+        ttl = erase(ttl, ["_", ",","\", "/"]);
     end
     filename = fullfile(fdr,ttl);
     savefig(g,filename +".fig");
