@@ -37,7 +37,7 @@ end
 space = " ";
 command = "python"
 run_file = "basic_run.py"
-families = 1e4;
+families = 1e3;
 sim_duration = 60;
 if ~exist('p_susc','var')
     p_susc = 0.3;
@@ -141,7 +141,8 @@ for iter = 1 : Niter1
                 Estimation.estimateR0FromCSV(tabR{iter,iter2},freq, gamma);
             
             [R0S(iter,iter2,:), R0R(iter,iter2,:), maxTimes(iter,iter2,:), ...
-                maxInfs(iter,iter2,:)] = Utilities.readRunDetails(thisOutName+".txt");
+                maxInfs(iter,iter2,:), varInf(iter, iter2)] = ...
+                Utilities.readRunDetails(thisOutName+".txt");
         end
     end
 end
@@ -163,6 +164,7 @@ res.peakInf     = reshape([maxInfs.MaxInf],n,m);
 res.peakHosp    = cellfun(@(x) max(x(HOSPIND, :)), tabS);
 res.N0          = N0pop*ones(Niter1,1);
 res.seir        = seir;
+res.infVariance = reshape([varInf.varInfStruct], n, m);
 savedir = fullfile("..", "..", "simOutputs");
 save(fullfile(savedir,...
     "agent res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
@@ -181,7 +183,9 @@ if RGmode == "sb"
     res.peakInfT    = reshape([maxTimes.TmaxInfRand],n,m);
     res.peakHosp    = cellfun(@(x) max(x(HOSPIND, :)), tabR);
     res.peakInf     = reshape([maxInfs.MaxInfRand],n,m);
+    res.infVariance = reshape([varInf.varInfRand], n, m);
     res.seir        = seir;
+    
     save(fullfile(savedir,"rand res for B "+p_cautious+" S "+p_susc+" susc.mat"), "res");
     
     graphType       = "DregGraph";

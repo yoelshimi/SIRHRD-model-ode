@@ -10,7 +10,7 @@ Tmn=min(tspan);
 [t,x] = ode45(@(t,x) SEIRode(t,x,param),[Tmn Tmx],xinit(:),options1);
 end
 
-function dxdt = SEIRode(t,x,params)
+function dxdt = SEIRode(t, x , params)
 %x vec:
 %  X: [S I H R D]
 % x(1:4) = S,

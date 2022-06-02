@@ -1,0 +1,1285 @@
+
+clustered graph, size: 317first eig: 3.2369898952975062 second eig:3.4059820469060824 spectral gap: -0.16899215160857617
+gamma fitted graph first eig: 0.8332110514377906 second eig: 0.8690295371194882 spectral gap: -0.03581848568169754
+ average clustering coefficient structure: 0.4928108353344558, average clustering coef random: 0.5221798003600285
+clustered graph, size: 322first eig: 3.150360122850039 second eig:3.2037625155232536 spectral gap: -0.05340239267321456
+gamma fitted graph first eig: 0.8964321548963725 second eig: 0.9285090381121298 spectral gap: -0.0320768832157573
+ average clustering coefficient structure: 0.5250821666112805, average clustering coef random: 0.5234802822595469
+clustered graph, size: 333first eig: 3.2043046540131774 second eig:3.384897234437086 spectral gap: -0.18059258042390836
+gamma fitted graph first eig: 0.8293579201317655 second eig: 0.8574294432916877 spectral gap: -0.02807152315992223
+ average clustering coefficient structure: 0.5111890900948848, average clustering coef random: 0.498290123454124
+clustered graph, size: 335first eig: 3.521769768595778 second eig:3.6018920989706094 spectral gap: -0.0801223303748313
+gamma fitted graph first eig: 0.8715774226080651 second eig: 0.9039413553926108 spectral gap: -0.032363932784545635
+ average clustering coefficient structure: 0.5179981531364857, average clustering coef random: 0.5076140105164872
+clustered graph, size: 306first eig: 3.1529463258000185 second eig:3.36740858532273 spectral gap: -0.21446225952271147
+gamma fitted graph first eig: 0.7379818813516037 second eig: 0.8253956939001243 spectral gap: -0.08741381254852065
+ average clustering coefficient structure: 0.4945639013084168, average clustering coef random: 0.5246521434660821
+clustered graph, size: 306first eig: 2.9251955433654695 second eig:3.0087165812085903 spectral gap: -0.08352103784312082
+gamma fitted graph first eig: 0.6766642741666734 second eig: 0.7933526939106573 spectral gap: -0.11668841974398392
+ average clustering coefficient structure: 0.4971611409969196, average clustering coef random: 0.5184511349321193
+clustered graph, size: 325first eig: 3.213061386946144 second eig:3.3360350297277424 spectral gap: -0.12297364278159817
+gamma fitted graph first eig: 0.8215780347921393 second eig: 0.8469504638313485 spectral gap: -0.02537242903920922
+ average clustering coefficient structure: 0.510180252836486, average clustering coef random: 0.5170831410213188
+clustered graph, size: 337first eig: 3.3322684121591357 second eig:3.592259490542199 spectral gap: -0.25999107838306346
+gamma fitted graph first eig: 0.9611151319602211 second eig: 1.063282257072838 spectral gap: -0.10216712511261683
+ average clustering coefficient structure: 0.5220850558821413, average clustering coef random: 0.5165196607106419
+clustered graph, size: 324first eig: 3.2694487159080263 second eig:3.3987592101661033 spectral gap: -0.12931049425807695
+gamma fitted graph first eig: 0.7612349178489038 second eig: 0.860017157027439 spectral gap: -0.09878223917853513
+ average clustering coefficient structure: 0.4900094607105743, average clustering coef random: 0.5015645995158229
+clustered graph, size: 339first eig: 3.2021204135463353 second eig:3.361767912388259 spectral gap: -0.15964749884192386
+gamma fitted graph first eig: 0.9509134953974206 second eig: 0.9801104395689081 spectral gap: -0.029196944171487438
+ average clustering coefficient structure: 0.5136474548928678, average clustering coef random: 0.48357180122603327
+clustered graph, size: 324first eig: 3.0712915290906926 second eig:3.1294204567680532 spectral gap: -0.058128927677360664
+gamma fitted graph first eig: 0.7779605932820722 second eig: 0.8404990667320154 spectral gap: -0.06253847344994312
+ average clustering coefficient structure: 0.5215020047393691, average clustering coef random: 0.5203552383039566
+clustered graph, size: 313first eig: 3.10720823262004 second eig:3.146326326210006 spectral gap: -0.03911809358996576
+gamma fitted graph first eig: 0.8093140449916004 second eig: 0.8307729658485444 spectral gap: -0.021458920856944008
+ average clustering coefficient structure: 0.4945596132541574, average clustering coef random: 0.4985785037308426
+clustered graph, size: 342first eig: 3.246972158060081 second eig:3.4148881402494022 spectral gap: -0.16791598218932124
+gamma fitted graph first eig: 0.9224971191491727 second eig: 0.9566542057670744 spectral gap: -0.03415708661790173
+ average clustering coefficient structure: 0.5041138005618295, average clustering coef random: 0.47460040315133084
+clustered graph, size: 346first eig: 3.059371756690414 second eig:3.545666112332339 spectral gap: -0.48629435564192525
+gamma fitted graph first eig: 0.7884035063698903 second eig: 0.8426075769875508 spectral gap: -0.05420407061766053
+ average clustering coefficient structure: 0.5261770943957471, average clustering coef random: 0.5072575257112831
+clustered graph, size: 335first eig: 3.0203683704532147 second eig:3.1533552837989487 spectral gap: -0.13298691334573398
+gamma fitted graph first eig: 0.741009870187864 second eig: 0.7925904233583821 spectral gap: -0.05158055317051813
+ average clustering coefficient structure: 0.4906146603157961, average clustering coef random: 0.48918804772463403
+clustered graph, size: 330first eig: 2.9709343456660635 second eig:3.1670598326226442 spectral gap: -0.19612548695658072
+gamma fitted graph first eig: 0.7632281587808721 second eig: 0.8297920416953601 spectral gap: -0.066563882914488
+ average clustering coefficient structure: 0.5105189999412169, average clustering coef random: 0.5074908624309818
+clustered graph, size: 353first eig: 3.77395849958727 second eig:3.500739212603351 spectral gap: 0.27321928698391895
+gamma fitted graph first eig: 0.9478362658798938 second eig: 0.9966468789185423 spectral gap: -0.04881061303864853
+ average clustering coefficient structure: 0.5088085677260519, average clustering coef random: 0.4970396600566571
+clustered graph, size: 325first eig: 3.0064097055556167 second eig:3.1658971079840232 spectral gap: -0.15948740242840653
+gamma fitted graph first eig: 0.7949062342467118 second eig: 0.8502499012049587 spectral gap: -0.055343666958246884
+ average clustering coefficient structure: 0.5175744894324994, average clustering coef random: 0.5031625594217239
+clustered graph, size: 332first eig: 3.024810405372422 second eig:3.087258959401354 spectral gap: -0.062448554028932346
+gamma fitted graph first eig: 0.8212969509522924 second eig: 0.936938253380417 spectral gap: -0.11564130242812465
+ average clustering coefficient structure: 0.5238157729598428, average clustering coef random: 0.5135601228443183
+clustered graph, size: 329first eig: 3.143563184909853 second eig:3.1633088135632392 spectral gap: -0.019745628653386138
+gamma fitted graph first eig: 0.7730038461415705 second eig: 0.839017287200664 spectral gap: -0.06601344105909357
+ average clustering coefficient structure: 0.503640230263729, average clustering coef random: 0.5042932754425429
+clustered graph, size: 324first eig: 3.079051978897214 second eig:3.2865560573179544 spectral gap: -0.20750407842074026
+gamma fitted graph first eig: 0.7406642639173712 second eig: 0.7663531024219492 spectral gap: -0.025688838504578038
+ average clustering coefficient structure: 0.5017951185892945, average clustering coef random: 0.5078529194382836
+clustered graph, size: 307first eig: 2.963370343552501 second eig:3.2031329804647317 spectral gap: -0.23976263691223076
+gamma fitted graph first eig: 0.8341696029776594 second eig: 0.891483259430099 spectral gap: -0.057313656452439576
+ average clustering coefficient structure: 0.498989696878168, average clustering coef random: 0.5210902839396624
+clustered graph, size: 316first eig: 3.322711615214917 second eig:3.3468089747659557 spectral gap: -0.024097359551038533
+gamma fitted graph first eig: 0.838481254840913 second eig: 0.8553223446992544 spectral gap: -0.01684108985834143
+ average clustering coefficient structure: 0.49626311548167756, average clustering coef random: 0.5117402369741391
+clustered graph, size: 295first eig: 3.1498916557964907 second eig:3.3931048249332 spectral gap: -0.24321316913670943
+gamma fitted graph first eig: 0.7965377160069506 second eig: 0.8735908744394443 spectral gap: -0.07705315843249372
+ average clustering coefficient structure: 0.49327088963738586, average clustering coef random: 0.521772212094793
+clustered graph, size: 339first eig: 3.926616667088158 second eig:3.7287414366105764 spectral gap: 0.1978752304775817
+gamma fitted graph first eig: 0.9852078646202628 second eig: 1.0339786725714146 spectral gap: -0.04877080795115185
+ average clustering coefficient structure: 0.5306601517586539, average clustering coef random: 0.5012165361500639
+clustered graph, size: 344first eig: 3.0644515239548236 second eig:3.257983917120982 spectral gap: -0.19353239316615856
+gamma fitted graph first eig: 0.7594164171764803 second eig: 0.7980113123521232 spectral gap: -0.03859489517564285
+ average clustering coefficient structure: 0.4983802061541974, average clustering coef random: 0.48957616623090655
+clustered graph, size: 337first eig: 3.3210695308002296 second eig:3.351791612552907 spectral gap: -0.030722081752677433
+gamma fitted graph first eig: 0.9505764541448494 second eig: 1.0281323704412093 spectral gap: -0.07755591629635994
+ average clustering coefficient structure: 0.5229371701751616, average clustering coef random: 0.5046061027961479
+clustered graph, size: 353first eig: 3.0089203361132255 second eig:3.265838111920211 spectral gap: -0.2569177758069854
+gamma fitted graph first eig: 0.7192337059806934 second eig: 0.7403576215244347 spectral gap: -0.02112391554374138
+ average clustering coefficient structure: 0.5253464003435513, average clustering coef random: 0.4986577568271048
+clustered graph, size: 363first eig: 3.5380991994424633 second eig:3.499629910603797 spectral gap: 0.038469288838666404
+gamma fitted graph first eig: 1.072180989491923 second eig: 1.0946031768244757 spectral gap: -0.022422187332552745
+ average clustering coefficient structure: 0.49867883673481855, average clustering coef random: 0.4685656448814346
+clustered graph, size: 352first eig: 3.1836709970413217 second eig:3.351602325989834 spectral gap: -0.16793132894851226
+gamma fitted graph first eig: 0.9435848929609335 second eig: 1.0334962627628683 spectral gap: -0.08991136980193482
+ average clustering coefficient structure: 0.5195354463348262, average clustering coef random: 0.4869562748043468
+clustered graph, size: 323first eig: 3.097798352846834 second eig:3.588351120090288 spectral gap: -0.49055276724345376
+gamma fitted graph first eig: 0.7149859692448582 second eig: 0.7778179768356649 spectral gap: -0.06283200759080665
+ average clustering coefficient structure: 0.5161448921473796, average clustering coef random: 0.5201491291234881
+clustered graph, size: 323first eig: 3.196963956193157 second eig:3.3189932453975928 spectral gap: -0.1220292892044359
+gamma fitted graph first eig: 0.8199792735548465 second eig: 0.9048572567167633 spectral gap: -0.08487798316191686
+ average clustering coefficient structure: 0.5100824275478738, average clustering coef random: 0.5135799351765008
+clustered graph, size: 317first eig: 2.9637303333357674 second eig:3.1288245788045126 spectral gap: -0.16509424546874518
+gamma fitted graph first eig: 0.7453662267355096 second eig: 0.8434696556754646 spectral gap: -0.09810342893995505
+ average clustering coefficient structure: 0.4888380427805282, average clustering coef random: 0.5093370895044189
+clustered graph, size: 328first eig: 3.119419139372485 second eig:3.2098849704768595 spectral gap: -0.09046583110437467
+gamma fitted graph first eig: 0.7078890801244963 second eig: 0.7528097767360573 spectral gap: -0.04492069661156106
+ average clustering coefficient structure: 0.5101748294372731, average clustering coef random: 0.5171882030341365
+clustered graph, size: 328first eig: 3.2078766210677214 second eig:3.1732006870157106 spectral gap: 0.03467593405201086
+gamma fitted graph first eig: 0.8902354898361619 second eig: 0.9738504017001646 spectral gap: -0.08361491186400272
+ average clustering coefficient structure: 0.48214158005822644, average clustering coef random: 0.4832386247793697
+clustered graph, size: 350first eig: 3.2055198292944125 second eig:3.2276394682149325 spectral gap: -0.022119638920520046
+gamma fitted graph first eig: 0.8593585194427329 second eig: 0.9934966545159873 spectral gap: -0.13413813507325445
+ average clustering coefficient structure: 0.5116134141105163, average clustering coef random: 0.4984754398311042
+clustered graph, size: 336first eig: 3.3941406867814217 second eig:3.2757602937952224 spectral gap: 0.11838039298619929
+gamma fitted graph first eig: 0.8066701638423232 second eig: 0.858814669961717 spectral gap: -0.05214450611939381
+ average clustering coefficient structure: 0.5133282259623071, average clustering coef random: 0.5013654500261644
+clustered graph, size: 324first eig: 3.2157649597483853 second eig:3.6422436241830902 spectral gap: -0.42647866443470495
+gamma fitted graph first eig: 0.7806292686083213 second eig: 0.8288043945791198 spectral gap: -0.04817512597079854
+ average clustering coefficient structure: 0.4791893343239313, average clustering coef random: 0.48933427097984095
+clustered graph, size: 325first eig: 3.1728223887994487 second eig:3.309344365833832 spectral gap: -0.1365219770343833
+gamma fitted graph first eig: 0.7362362973360596 second eig: 0.7815269712125952 spectral gap: -0.045290673876535625
+ average clustering coefficient structure: 0.510388771636967, average clustering coef random: 0.515880765940646
+clustered graph, size: 343first eig: 3.284002003643564 second eig:3.4377472173187176 spectral gap: -0.15374521367515337
+gamma fitted graph first eig: 0.9899803885111801 second eig: 1.0155124630450412 spectral gap: -0.025532074533861082
+ average clustering coefficient structure: 0.5039211932208595, average clustering coef random: 0.4898243527492187
+clustered graph, size: 346first eig: 3.1830771852065207 second eig:3.2661275891284287 spectral gap: -0.08305040392190799
+gamma fitted graph first eig: 0.7265928850347796 second eig: 0.7594674995947301 spectral gap: -0.032874614559950555
+ average clustering coefficient structure: 0.5140433277240075, average clustering coef random: 0.5044078703835534
+clustered graph, size: 329first eig: 3.1291184500231175 second eig:3.2432161090315 spectral gap: -0.11409765900838265
+gamma fitted graph first eig: 0.7444984766556465 second eig: 0.8393202581083836 spectral gap: -0.09482178145273712
+ average clustering coefficient structure: 0.5242038527459235, average clustering coef random: 0.5168145854833166
+clustered graph, size: 343first eig: 3.1299967584556594 second eig:3.2216468707290096 spectral gap: -0.09165011227335018
+gamma fitted graph first eig: 0.7448195025039782 second eig: 0.800269260643512 spectral gap: -0.05544975813953379
+ average clustering coefficient structure: 0.5110848829498634, average clustering coef random: 0.5015326203509475
+clustered graph, size: 363first eig: 3.2282977423709203 second eig:3.175734326144588 spectral gap: 0.052563416226332205
+gamma fitted graph first eig: 0.8286393847907123 second eig: 0.8357248046838383 spectral gap: -0.007085419893125944
+ average clustering coefficient structure: 0.5058581503852275, average clustering coef random: 0.4834394118278417
+clustered graph, size: 350first eig: 4.253093425461804 second eig:3.4614181465497125 spectral gap: 0.7916752789120918
+gamma fitted graph first eig: 0.8710176215379577 second eig: 0.91128959397066 spectral gap: -0.04027197243270231
+ average clustering coefficient structure: 0.5262457857486036, average clustering coef random: 0.49808866995073897
+clustered graph, size: 316first eig: 3.156059529485713 second eig:3.0612574341550807 spectral gap: 0.09480209533063233
+gamma fitted graph first eig: 0.9369231054920494 second eig: 0.9448531933202464 spectral gap: -0.007930087828197041
+ average clustering coefficient structure: 0.5030501238959786, average clustering coef random: 0.4887987675860281
+clustered graph, size: 339first eig: 3.1571945722855466 second eig:3.3963966050501275 spectral gap: -0.23920203276458096
+gamma fitted graph first eig: 0.809057406896691 second eig: 0.8498583315809372 spectral gap: -0.04080092468424612
+ average clustering coefficient structure: 0.5089560246991371, average clustering coef random: 0.5121060371139315
+clustered graph, size: 353first eig: 3.216242983201114 second eig:3.2823258694111073 spectral gap: -0.06608288620999314
+gamma fitted graph first eig: 0.8819974990064602 second eig: 0.9358605191440081 spectral gap: -0.05386302013754796
+ average clustering coefficient structure: 0.5132213581226948, average clustering coef random: 0.48553518654003713
+clustered graph, size: 355first eig: 3.10922929622545 second eig:3.216227705731401 spectral gap: -0.10699840950595085
+gamma fitted graph first eig: 0.8835108321702705 second eig: 0.9502644312093881 spectral gap: -0.0667535990391176
+ average clustering coefficient structure: 0.526223508777866, average clustering coef random: 0.49573133256003155
+clustered graph, size: 305first eig: 3.086505917551353 second eig:3.213509816003346 spectral gap: -0.127003898451993
+gamma fitted graph first eig: 0.7422809238919786 second eig: 0.7542209443296908 spectral gap: -0.01194002043771214
+ average clustering coefficient structure: 0.49551798472465053, average clustering coef random: 0.5295749471088032
+clustered graph, size: 3280first eig: 23.234942064732856 second eig:23.0788146798568 spectral gap: 0.15612738487605426
+gamma fitted graph first eig: 2.529340302392937 second eig: 2.5389199810023224 spectral gap: -0.009579678609385578
+ average clustering coefficient structure: 0.49666705918740534, average clustering coef random: 0.05215265050049357
+clustered graph, size: 3315first eig: 23.280005673078282 second eig:23.167215506846407 spectral gap: 0.11279016623187488
+gamma fitted graph first eig: 2.5337324822421725 second eig: 2.5393780527881717 spectral gap: -0.0056455705459992345
+ average clustering coefficient structure: 0.5017774610448096, average clustering coef random: 0.051984699983856644
+clustered graph, size: 3400first eig: 23.230183476932268 second eig:22.911116414950012 spectral gap: 0.3190670619822562
+gamma fitted graph first eig: 2.480755509935813 second eig: 2.4895353928457924 spectral gap: -0.008779882909979442
+ average clustering coefficient structure: 0.50045753376573, average clustering coef random: 0.05127158135981665
+clustered graph, size: 3251first eig: 21.952838709407157 second eig:21.853719533779305 spectral gap: 0.09911917562785177
+gamma fitted graph first eig: 2.3877075933471392 second eig: 2.390664228802703 spectral gap: -0.002956635455563905
+ average clustering coefficient structure: 0.48249989635854185, average clustering coef random: 0.05078632580568627
+clustered graph, size: 3286first eig: 22.682025965315542 second eig:22.64115613502819 spectral gap: 0.04086983028735247
+gamma fitted graph first eig: 2.438540309907249 second eig: 2.4575885006887894 spectral gap: -0.01904819078154052
+ average clustering coefficient structure: 0.4956663627359068, average clustering coef random: 0.052142043581568306
+clustered graph, size: 3187first eig: 23.087508176125304 second eig:22.933880777845598 spectral gap: 0.15362739827970628
+gamma fitted graph first eig: 2.4413770364162812 second eig: 2.4558247416336534 spectral gap: -0.014447705217372153
+ average clustering coefficient structure: 0.4906117061800928, average clustering coef random: 0.0520412400355058
+clustered graph, size: 3288first eig: 22.91854224348413 second eig:22.7632105867332 spectral gap: 0.15533165675092775
+gamma fitted graph first eig: 2.440694355437211 second eig: 2.469365466096349 spectral gap: -0.028671110659137966
+ average clustering coefficient structure: 0.4929327133099445, average clustering coef random: 0.05170657539849181
+clustered graph, size: 3343first eig: 22.563800195616352 second eig:22.41163546497242 spectral gap: 0.152164730643932
+gamma fitted graph first eig: 2.4787427162663764 second eig: 2.4839344459331856 spectral gap: -0.005191729666809142
+ average clustering coefficient structure: 0.4916180213096165, average clustering coef random: 0.050861436961331066
+clustered graph, size: 3353first eig: 22.707550430686354 second eig:22.581342122678002 spectral gap: 0.12620830800835137
+gamma fitted graph first eig: 2.4809313258406664 second eig: 2.485950003011139 spectral gap: -0.005018677170472774
+ average clustering coefficient structure: 0.4916965053621477, average clustering coef random: 0.0507530660899955
+clustered graph, size: 3236first eig: 23.052429473255515 second eig:23.047532048241766 spectral gap: 0.004897425013748347
+gamma fitted graph first eig: 2.4555132499694796 second eig: 2.4737389104042005 spectral gap: -0.018225660434720847
+ average clustering coefficient structure: 0.4952022073395037, average clustering coef random: 0.05260711931609863
+clustered graph, size: 3219first eig: 22.852471263703997 second eig:22.792413919825517 spectral gap: 0.06005734387847994
+gamma fitted graph first eig: 2.4804353089608497 second eig: 2.4927071069617637 spectral gap: -0.012271798000913936
+ average clustering coefficient structure: 0.4942797401833736, average clustering coef random: 0.05252485433532677
+clustered graph, size: 3352first eig: 23.2006463147361 second eig:23.172530398362806 spectral gap: 0.028115916373295136
+gamma fitted graph first eig: 2.4654424313526833 second eig: 2.476206734548727 spectral gap: -0.010764303196043823
+ average clustering coefficient structure: 0.4941342049267702, average clustering coef random: 0.0507699112631443
+clustered graph, size: 3319first eig: 22.915315622732876 second eig:22.76046170059667 spectral gap: 0.15485392213620486
+gamma fitted graph first eig: 2.458943806040351 second eig: 2.490724629734611 spectral gap: -0.03178082369425983
+ average clustering coefficient structure: 0.498400727348983, average clustering coef random: 0.05188115153882127
+clustered graph, size: 3301first eig: 22.433500512939396 second eig:22.347133442146607 spectral gap: 0.08636707079278949
+gamma fitted graph first eig: 2.4747183296168322 second eig: 2.4897283867996816 spectral gap: -0.015010057182849312
+ average clustering coefficient structure: 0.49215675730179614, average clustering coef random: 0.05120541761286741
+clustered graph, size: 3291first eig: 23.12901667970749 second eig:22.87556941671868 spectral gap: 0.2534472629888107
+gamma fitted graph first eig: 2.470887103980898 second eig: 2.4775174361866403 spectral gap: -0.006630332205742384
+ average clustering coefficient structure: 0.49872542603372133, average clustering coef random: 0.05230984025325835
+clustered graph, size: 3191first eig: 22.961582732038416 second eig:22.92759324415827 spectral gap: 0.03398948788014522
+gamma fitted graph first eig: 2.4252255629807085 second eig: 2.439711310619631 spectral gap: -0.014485747638922408
+ average clustering coefficient structure: 0.48921957575708513, average clustering coef random: 0.052090741738084506
+clustered graph, size: 3260first eig: 22.489465959223402 second eig:22.327761415729782 spectral gap: 0.16170454349362018
+gamma fitted graph first eig: 2.450190238070551 second eig: 2.4591563210410747 spectral gap: -0.008966082970523814
+ average clustering coefficient structure: 0.4889412623486186, average clustering coef random: 0.05126634219956544
+clustered graph, size: 3294first eig: 22.68941106755298 second eig:22.62532493544288 spectral gap: 0.06408613211010206
+gamma fitted graph first eig: 2.44750113234684 second eig: 2.461373959757242 spectral gap: -0.013872827410402078
+ average clustering coefficient structure: 0.4958697992062384, average clustering coef random: 0.051674508279707924
+clustered graph, size: 3320first eig: 22.484883300340744 second eig:22.405086365414395 spectral gap: 0.07979693492634965
+gamma fitted graph first eig: 2.4261077395060497 second eig: 2.440534768398612 spectral gap: -0.014427028892562088
+ average clustering coefficient structure: 0.49265032432406897, average clustering coef random: 0.0509429669140959
+clustered graph, size: 3370first eig: 22.930160844865803 second eig:22.800602709911768 spectral gap: 0.1295581349540349
+gamma fitted graph first eig: 2.5412042999175615 second eig: 2.545874281058259 spectral gap: -0.004669981140697388
+ average clustering coefficient structure: 0.4982316878106013, average clustering coef random: 0.05114965201401352
+clustered graph, size: 3236first eig: 23.063495202361047 second eig:23.01830520874221 spectral gap: 0.045189993618837576
+gamma fitted graph first eig: 2.490091574117601 second eig: 2.501047885692061 spectral gap: -0.010956311574459754
+ average clustering coefficient structure: 0.4961162390333639, average clustering coef random: 0.052538153242363675
+clustered graph, size: 3282first eig: 23.254251933800802 second eig:23.185245517438954 spectral gap: 0.06900641636184801
+gamma fitted graph first eig: 2.514040476314067 second eig: 2.540254415159291 spectral gap: -0.02621393884522405
+ average clustering coefficient structure: 0.5035512345194005, average clustering coef random: 0.05250302536276196
+clustered graph, size: 3326first eig: 22.951731808073472 second eig:22.809690906240917 spectral gap: 0.14204090183255502
+gamma fitted graph first eig: 2.4747766129934563 second eig: 2.481237096004576 spectral gap: -0.006460483011119678
+ average clustering coefficient structure: 0.5001136373308088, average clustering coef random: 0.05181331158966394
+clustered graph, size: 3363first eig: 23.007597938390575 second eig:22.956772635075623 spectral gap: 0.0508253033149515
+gamma fitted graph first eig: 2.5313551370198395 second eig: 2.5406390912239587 spectral gap: -0.009283954204119205
+ average clustering coefficient structure: 0.49478882095866655, average clustering coef random: 0.051156724288771965
+clustered graph, size: 3229first eig: 22.326598243310446 second eig:22.26524396736969 spectral gap: 0.06135427594075793
+gamma fitted graph first eig: 2.4441494543804017 second eig: 2.455832879205905 spectral gap: -0.01168342482550333
+ average clustering coefficient structure: 0.490592032113952, average clustering coef random: 0.05251138226188325
+clustered graph, size: 3314first eig: 22.66989525853885 second eig:22.52955663103245 spectral gap: 0.14033862750640225
+gamma fitted graph first eig: 2.4904218560220683 second eig: 2.504926910478102 spectral gap: -0.014505054456033672
+ average clustering coefficient structure: 0.49663496508958854, average clustering coef random: 0.051384935933186014
+clustered graph, size: 3305first eig: 23.016241445554424 second eig:22.908638341731933 spectral gap: 0.10760310382249116
+gamma fitted graph first eig: 2.481670924065051 second eig: 2.4916008791395523 spectral gap: -0.00992995507450134
+ average clustering coefficient structure: 0.49616024373782036, average clustering coef random: 0.05140616908347647
+clustered graph, size: 3263first eig: 22.874625722153077 second eig:22.859956161650032 spectral gap: 0.014669560503044465
+gamma fitted graph first eig: 2.4645695963973173 second eig: 2.4868819023585846 spectral gap: -0.02231230596126732
+ average clustering coefficient structure: 0.489622903516744, average clustering coef random: 0.051421719478347575
+clustered graph, size: 3298first eig: 23.020903426517805 second eig:22.981959533047043 spectral gap: 0.03894389347076199
+gamma fitted graph first eig: 2.420687092982074 second eig: 2.434093975146976 spectral gap: -0.013406882164901823
+ average clustering coefficient structure: 0.4932310831934748, average clustering coef random: 0.05158566978886843
+clustered graph, size: 3302first eig: 22.712169427147924 second eig:22.42577981197309 spectral gap: 0.2863896151748335
+gamma fitted graph first eig: 2.4059957794863323 second eig: 2.4338188058595964 spectral gap: -0.02782302637326417
+ average clustering coefficient structure: 0.49605641625272584, average clustering coef random: 0.05147140773206944
+clustered graph, size: 3241first eig: 22.48746705689901 second eig:22.37685796963598 spectral gap: 0.11060908726302898
+gamma fitted graph first eig: 2.4228276882134585 second eig: 2.437453607329404 spectral gap: -0.014625919115945685
+ average clustering coefficient structure: 0.4879152556893004, average clustering coef random: 0.05128705431293711
+clustered graph, size: 3299first eig: 22.674781176987825 second eig:22.607907092748476 spectral gap: 0.06687408423934826
+gamma fitted graph first eig: 2.4653143095162213 second eig: 2.482216747326729 spectral gap: -0.01690243781050782
+ average clustering coefficient structure: 0.4885964293849517, average clustering coef random: 0.05065844411998254
+clustered graph, size: 3330first eig: 22.702135569368007 second eig:22.657972683252396 spectral gap: 0.044162886115611144
+gamma fitted graph first eig: 2.449959136978039 second eig: 2.468130459606618 spectral gap: -0.018171322628579123
+ average clustering coefficient structure: 0.4986855505211334, average clustering coef random: 0.051747960837058675
+clustered graph, size: 3282first eig: 22.742537044020395 second eig:22.676159525942204 spectral gap: 0.06637751807819114
+gamma fitted graph first eig: 2.4424542331324446 second eig: 2.4483672353837616 spectral gap: -0.005913002251316968
+ average clustering coefficient structure: 0.4966051969255925, average clustering coef random: 0.051493243629919215
+clustered graph, size: 3240first eig: 22.41049059855505 second eig:22.176204809259456 spectral gap: 0.23428578929559407
+gamma fitted graph first eig: 2.3899770590230194 second eig: 2.406918704213848 spectral gap: -0.016941645190828414
+ average clustering coefficient structure: 0.49343370032594924, average clustering coef random: 0.05188240450683905
+clustered graph, size: 3319first eig: 22.702635412483968 second eig:22.638472145179843 spectral gap: 0.06416326730412436
+gamma fitted graph first eig: 2.458884809315427 second eig: 2.465221315116873 spectral gap: -0.0063365058014461795
+ average clustering coefficient structure: 0.5029075357478224, average clustering coef random: 0.0518904600525741
+clustered graph, size: 3314first eig: 23.2225510783628 second eig:23.18432209600813 spectral gap: 0.03822898235467065
+gamma fitted graph first eig: 2.442270884146426 second eig: 2.458234248142448 spectral gap: -0.01596336399602194
+ average clustering coefficient structure: 0.4933684280461582, average clustering coef random: 0.05109922379522583
+clustered graph, size: 3292first eig: 22.809447142235275 second eig:22.70033801230783 spectral gap: 0.10910912992744315
+gamma fitted graph first eig: 2.4154309595473826 second eig: 2.4272146036606133 spectral gap: -0.011783644113230629
+ average clustering coefficient structure: 0.4899554041564799, average clustering coef random: 0.05131638509467848
+clustered graph, size: 3442first eig: 23.25345076441399 second eig:23.193200981982727 spectral gap: 0.060249782431263554
+gamma fitted graph first eig: 2.5033098282049235 second eig: 2.5183224025600515 spectral gap: -0.015012574355127928
+ average clustering coefficient structure: 0.5047689707254053, average clustering coef random: 0.05123248708001836
+clustered graph, size: 3272first eig: 22.900130696702156 second eig:22.86734912103844 spectral gap: 0.032781575663715756
+gamma fitted graph first eig: 2.5071196882051474 second eig: 2.5121673897334613 spectral gap: -0.005047701528313908
+ average clustering coefficient structure: 0.4919634871466948, average clustering coef random: 0.05208037186558248
+clustered graph, size: 3248first eig: 22.997172882139918 second eig:22.864356064856487 spectral gap: 0.1328168172834303
+gamma fitted graph first eig: 2.522087843032719 second eig: 2.525756808953312 spectral gap: -0.003668965920592626
+ average clustering coefficient structure: 0.4997164825138124, average clustering coef random: 0.0530594991806194
+clustered graph, size: 3365first eig: 23.02840215204973 second eig:22.980158093242714 spectral gap: 0.04824405880701477
+gamma fitted graph first eig: 2.4694529018039684 second eig: 2.480046995662727 spectral gap: -0.010594093858758757
+ average clustering coefficient structure: 0.4973065055927237, average clustering coef random: 0.05140117489001845
+clustered graph, size: 3280first eig: 22.876429948316805 second eig:22.719068409977034 spectral gap: 0.15736153833977085
+gamma fitted graph first eig: 2.4563224278374203 second eig: 2.466070157712055 spectral gap: -0.009747729874634903
+ average clustering coefficient structure: 0.4928736536673648, average clustering coef random: 0.05190937496890271
+clustered graph, size: 3374first eig: 22.520757634786747 second eig:22.501211765029925 spectral gap: 0.019545869756822043
+gamma fitted graph first eig: 2.459641737146778 second eig: 2.4661729735767386 spectral gap: -0.006531236429960785
+ average clustering coefficient structure: 0.4964433670955818, average clustering coef random: 0.050747960511548076
+clustered graph, size: 3356first eig: 23.088886929861793 second eig:22.949325101830933 spectral gap: 0.13956182803086037
+gamma fitted graph first eig: 2.4815498593202188 second eig: 2.492335579337772 spectral gap: -0.010785720017553402
+ average clustering coefficient structure: 0.5025698054609676, average clustering coef random: 0.05125362801041494
+clustered graph, size: 3431first eig: 23.2449430928882 second eig:23.130366250639298 spectral gap: 0.1145768422489013
+gamma fitted graph first eig: 2.518474622928041 second eig: 2.52698068607303 spectral gap: -0.008506063144988918
+ average clustering coefficient structure: 0.5064194459872031, average clustering coef random: 0.051214405539109546
+clustered graph, size: 3270first eig: 22.950205387026195 second eig:22.927331494820624 spectral gap: 0.022873892205570456
+gamma fitted graph first eig: 2.4906819670382485 second eig: 2.498384655830371 spectral gap: -0.007702688792122547
+ average clustering coefficient structure: 0.49884720799631216, average clustering coef random: 0.05197591446791371
+clustered graph, size: 3341first eig: 23.097705253551236 second eig:22.902775034196765 spectral gap: 0.19493021935447175
+gamma fitted graph first eig: 2.4333611148442227 second eig: 2.4414823431500157 spectral gap: -0.008121228305792982
+ average clustering coefficient structure: 0.4983300612373912, average clustering coef random: 0.05182661041882223
+clustered graph, size: 3263first eig: 22.576052495430854 second eig:22.465801530563688 spectral gap: 0.11025096486716635
+gamma fitted graph first eig: 2.4318080343715955 second eig: 2.449983469666249 spectral gap: -0.018175435294653486
+ average clustering coefficient structure: 0.49444841035382864, average clustering coef random: 0.0515877425797092
+clustered graph, size: 3352first eig: 22.86499838691451 second eig:22.787679278838112 spectral gap: 0.07731910807639863
+gamma fitted graph first eig: 2.5462923015803223 second eig: 2.570959457566448 spectral gap: -0.02466715598612579
+ average clustering coefficient structure: 0.500291531706349, average clustering coef random: 0.05166588287854005
+clustered graph, size: 3357first eig: 22.95263272723779 second eig:22.918276761496468 spectral gap: 0.03435596574132305
+gamma fitted graph first eig: 2.521935511668517 second eig: 2.5378493123606365 spectral gap: -0.015913800692119562
+ average clustering coefficient structure: 0.5004815404332865, average clustering coef random: 0.05192460801039874
+clustered graph, size: 3221first eig: 22.53450353854775 second eig:22.3395982626165 spectral gap: 0.19490527593124796
+gamma fitted graph first eig: 2.4181277249788753 second eig: 2.422016353883405 spectral gap: -0.0038886289045296785
+ average clustering coefficient structure: 0.4940067016431069, average clustering coef random: 0.0521540841067249
+clustered graph, size: 3323first eig: 22.754315731563334 second eig:22.70029805633961 spectral gap: 0.0540176752237258
+gamma fitted graph first eig: 2.4977539124758255 second eig: 2.5036872745052117 spectral gap: -0.005933362029386213
+ average clustering coefficient structure: 0.49960449651898986, average clustering coef random: 0.0513660321760185
+clustered graph, size: 3320first eig: 23.200139882049452 second eig:23.074455604208747 spectral gap: 0.1256842778407048
+gamma fitted graph first eig: 2.5372138705321725 second eig: 2.5662887604450972 spectral gap: -0.02907488991292473
+ average clustering coefficient structure: 0.4981995815571865, average clustering coef random: 0.05211632737847929
+clustered graph, size: 3309first eig: 22.81189733479854 second eig:22.802230454471513 spectral gap: 0.009666880327028338
+gamma fitted graph first eig: 2.514023598244359 second eig: 2.515534120772003 spectral gap: -0.0015105225276439427
+ average clustering coefficient structure: 0.49431918301397854, average clustering coef random: 0.05104773663321268
+clustered graph, size: 3238first eig: 22.416717554649033 second eig:22.29379240048634 spectral gap: 0.12292515416269367
+gamma fitted graph first eig: 2.451517976991739 second eig: 2.462854783711037 spectral gap: -0.011336806719298043
+ average clustering coefficient structure: 0.4908422316464276, average clustering coef random: 0.05130729452592223
+clustered graph, size: 3294first eig: 22.887104818679678 second eig:22.79928419559723 spectral gap: 0.08782062308244676
+gamma fitted graph first eig: 2.4593892225114082 second eig: 2.4732476452310603 spectral gap: -0.013858422719652097
+ average clustering coefficient structure: 0.5015208481741609, average clustering coef random: 0.051828582244269325
+clustered graph, size: 3344first eig: 22.864337513518837 second eig:22.81998990828686 spectral gap: 0.04434760523197667
+gamma fitted graph first eig: 2.5123704845453814 second eig: 2.5138830931850977 spectral gap: -0.0015126086397163618
+ average clustering coefficient structure: 0.508766027559474, average clustering coef random: 0.05269080667250438
+clustered graph, size: 3214first eig: 22.414179615403214 second eig:22.330292268191865 spectral gap: 0.08388734721134838
+gamma fitted graph first eig: 2.4588885735920054 second eig: 2.4651587931565495 spectral gap: -0.0062702195645440995
+ average clustering coefficient structure: 0.4879019627575119, average clustering coef random: 0.052246361257559416
+clustered graph, size: 3377first eig: 22.54325508395153 second eig:22.500077746404777 spectral gap: 0.04317733754675146
+gamma fitted graph first eig: 2.4725588701115906 second eig: 2.481099534224556 spectral gap: -0.008540664112965501
+ average clustering coefficient structure: 0.4982572904983187, average clustering coef random: 0.050914306224103825
+clustered graph, size: 3266first eig: 22.97424407938608 second eig:22.85978296440252 spectral gap: 0.11446111498355904
+gamma fitted graph first eig: 2.5190988060394734 second eig: 2.538830406008886 spectral gap: -0.01973159996941254
+ average clustering coefficient structure: 0.4879213109189382, average clustering coef random: 0.05088000012572175
+clustered graph, size: 3282first eig: 22.514163242977894 second eig:22.44330102968588 spectral gap: 0.07086221329201337
+gamma fitted graph first eig: 2.4087968036440497 second eig: 2.4217001636913915 spectral gap: -0.012903360047341828
+ average clustering coefficient structure: 0.4948996015040676, average clustering coef random: 0.0514709183971866
+clustered graph, size: 3337first eig: 23.05178450946856 second eig:22.796347291754252 spectral gap: 0.2554372177143094
+gamma fitted graph first eig: 2.4945617779579856 second eig: 2.5101662741146225 spectral gap: -0.015604496156636838
+ average clustering coefficient structure: 0.49609742643621846, average clustering coef random: 0.050998919548349834
+clustered graph, size: 3289first eig: 22.572777513924734 second eig:22.530751235485177 spectral gap: 0.04202627843955753
+gamma fitted graph first eig: 2.487185085019124 second eig: 2.4962081356984607 spectral gap: -0.00902305067933673
+ average clustering coefficient structure: 0.49658244811082847, average clustering coef random: 0.05142210971734713
+clustered graph, size: 3281first eig: 22.928480190660036 second eig:22.829948797939256 spectral gap: 0.09853139272077982
+gamma fitted graph first eig: 2.4522431074587074 second eig: 2.4742254812035682 spectral gap: -0.021982373744860784
+ average clustering coefficient structure: 0.4922048327756457, average clustering coef random: 0.051541290046279345
+clustered graph, size: 3370first eig: 23.232029284621728 second eig:22.958670535565812 spectral gap: 0.27335874905591595
+gamma fitted graph first eig: 2.5038501817121763 second eig: 2.5138885948020087 spectral gap: -0.010038413089832332
+ average clustering coefficient structure: 0.5032991351696712, average clustering coef random: 0.05165910054337349
+clustered graph, size: 3349first eig: 22.788682238308123 second eig:22.7346969893705 spectral gap: 0.05398524893762158
+gamma fitted graph first eig: 2.4805995625674675 second eig: 2.4903815242578307 spectral gap: -0.009781961690363161
+ average clustering coefficient structure: 0.4941260948570659, average clustering coef random: 0.051042789814872334
+clustered graph, size: 3296first eig: 22.605541502814333 second eig:22.576594370807086 spectral gap: 0.028947132007246523
+gamma fitted graph first eig: 2.4484141493806746 second eig: 2.4534069756335515 spectral gap: -0.004992826252876892
+ average clustering coefficient structure: 0.4984863442788557, average clustering coef random: 0.05220768803543791
+clustered graph, size: 3362first eig: 22.796510233032073 second eig:22.67415392850661 spectral gap: 0.12235630452546431
+gamma fitted graph first eig: 2.476647646473672 second eig: 2.4854809111941365 spectral gap: -0.008833264720464307
+ average clustering coefficient structure: 0.4981236890881188, average clustering coef random: 0.05154625882435658
+clustered graph, size: 3278first eig: 22.437239029951048 second eig:22.306092805141002 spectral gap: 0.13114622481004545
+gamma fitted graph first eig: 2.4248176578830667 second eig: 2.4385916332147577 spectral gap: -0.013773975331691002
+ average clustering coefficient structure: 0.48791223781937165, average clustering coef random: 0.05102763782423047
+clustered graph, size: 3420first eig: 23.048602907054864 second eig:23.001978434051267 spectral gap: 0.046624473003596734
+gamma fitted graph first eig: 2.512939411103855 second eig: 2.524151593051874 spectral gap: -0.011212181948018873
+ average clustering coefficient structure: 0.5015102833108664, average clustering coef random: 0.05096872863978128
+clustered graph, size: 3286first eig: 22.803024826150622 second eig:22.689283783289014 spectral gap: 0.11374104286160858
+gamma fitted graph first eig: 2.498844172979839 second eig: 2.5146677240414883 spectral gap: -0.015823551061649344
+ average clustering coefficient structure: 0.4948943482547026, average clustering coef random: 0.051809129044922776
+clustered graph, size: 3286first eig: 22.894884724488644 second eig:22.709207922276867 spectral gap: 0.18567680221177696
+gamma fitted graph first eig: 2.471218522151198 second eig: 2.489691575708387 spectral gap: -0.018473053557188646
+ average clustering coefficient structure: 0.4962781771300894, average clustering coef random: 0.052086877919719755
+clustered graph, size: 3270first eig: 22.463376522025122 second eig:22.285629655301783 spectral gap: 0.17774686672333928
+gamma fitted graph first eig: 2.414761040584488 second eig: 2.422405772815623 spectral gap: -0.007644732231134821
+ average clustering coefficient structure: 0.49263422743652174, average clustering coef random: 0.051398180465389375
+clustered graph, size: 3248first eig: 22.725212392634635 second eig:22.687361553450707 spectral gap: 0.037850839183928287
+gamma fitted graph first eig: 2.436963236324508 second eig: 2.443383663497005 spectral gap: -0.006420427172497245
+ average clustering coefficient structure: 0.4894332714756613, average clustering coef random: 0.051516519431686274
+clustered graph, size: 3328first eig: 22.950062170331428 second eig:22.899245838922226 spectral gap: 0.05081633140920161
+gamma fitted graph first eig: 2.477549214281178 second eig: 2.4896281155396633 spectral gap: -0.01207890125848543
+ average clustering coefficient structure: 0.492020151593849, average clustering coef random: 0.051164176023130295
+clustered graph, size: 3323first eig: 22.864831773683946 second eig:22.822007972675756 spectral gap: 0.04282380100818983
+gamma fitted graph first eig: 2.5455682363232035 second eig: 2.5531585036951565 spectral gap: -0.007590267371953008
+ average clustering coefficient structure: 0.49809834399966146, average clustering coef random: 0.05175439917161652
+clustered graph, size: 3340first eig: 22.828108196539507 second eig:22.784487074591556 spectral gap: 0.043621121947950314
+gamma fitted graph first eig: 2.4385825884296444 second eig: 2.457865143322106 spectral gap: -0.01928255489246178
+ average clustering coefficient structure: 0.49849810219602386, average clustering coef random: 0.05151765434648025
+clustered graph, size: 3232first eig: 22.700439066595173 second eig:22.389146615971715 spectral gap: 0.31129245062345845
+gamma fitted graph first eig: 2.4462111277706224 second eig: 2.4527621958111094 spectral gap: -0.006551068040486996
+ average clustering coefficient structure: 0.49511821760758923, average clustering coef random: 0.052245667678222904
+clustered graph, size: 3377first eig: 23.287280785189388 second eig:23.2774002969305 spectral gap: 0.009880488258886544
+gamma fitted graph first eig: 2.527263143809622 second eig: 2.5344900693170134 spectral gap: -0.007226925507391346
+ average clustering coefficient structure: 0.5051861064864589, average clustering coef random: 0.05184172306805294
+clustered graph, size: 3289first eig: 23.292932682969337 second eig:23.122956091037388 spectral gap: 0.16997659193194892
+gamma fitted graph first eig: 2.4630914528706036 second eig: 2.4718146688104543 spectral gap: -0.008723215939850704
+ average clustering coefficient structure: 0.5020632807453593, average clustering coef random: 0.05261760522257312
+clustered graph, size: 3328first eig: 22.733521677592332 second eig:22.56860295731957 spectral gap: 0.16491872027276244
+gamma fitted graph first eig: 2.5020272751064705 second eig: 2.505749746217304 spectral gap: -0.0037224711108336805
+ average clustering coefficient structure: 0.4925448357837966, average clustering coef random: 0.051175577374227114
+clustered graph, size: 3423first eig: 23.24156245724023 second eig:23.21709597882377 spectral gap: 0.024466478416460546
+gamma fitted graph first eig: 2.5306985153196386 second eig: 2.542287055231256 spectral gap: -0.011588539911617346
+ average clustering coefficient structure: 0.5019826879832029, average clustering coef random: 0.05124937223694247
+clustered graph, size: 3391first eig: 23.38317802540546 second eig:23.000892770109488 spectral gap: 0.38228525529597235
+gamma fitted graph first eig: 2.5318550954799512 second eig: 2.542683706136289 spectral gap: -0.010828610656337556
+ average clustering coefficient structure: 0.5025872270023529, average clustering coef random: 0.05154292162107155
+clustered graph, size: 3338first eig: 22.86102236808262 second eig:22.76553367432407 spectral gap: 0.09548869375854707
+gamma fitted graph first eig: 2.4566344373925104 second eig: 2.469561938086022 spectral gap: -0.012927500693511451
+ average clustering coefficient structure: 0.49836923403715644, average clustering coef random: 0.051291647802768146
+clustered graph, size: 3209first eig: 23.180283615421118 second eig:23.133385423150035 spectral gap: 0.04689819227108316
+gamma fitted graph first eig: 2.4150925838404502 second eig: 2.4240012956823582 spectral gap: -0.008908711841908001
+ average clustering coefficient structure: 0.4847902722513604, average clustering coef random: 0.05118688300327293
+clustered graph, size: 3286first eig: 22.835676618520967 second eig:22.78361311838952 spectral gap: 0.052063500131446006
+gamma fitted graph first eig: 2.4564098960417153 second eig: 2.4923897435538898 spectral gap: -0.03597984751217442
+ average clustering coefficient structure: 0.4972823893916206, average clustering coef random: 0.051497769880287744
+clustered graph, size: 3325first eig: 22.72864228564215 second eig:22.6381839451231 spectral gap: 0.09045834051904933
+gamma fitted graph first eig: 2.487903426335097 second eig: 2.489665786708957 spectral gap: -0.0017623603738599058
+ average clustering coefficient structure: 0.5027056874737834, average clustering coef random: 0.05237523679328192
+clustered graph, size: 3302first eig: 23.25191991651631 second eig:23.213673002911964 spectral gap: 0.038246913604346844
+gamma fitted graph first eig: 2.4989087299894326 second eig: 2.514881803134111 spectral gap: -0.01597307314467855
+ average clustering coefficient structure: 0.49644241087447244, average clustering coef random: 0.05184444220626157
+clustered graph, size: 3250first eig: 22.91097479605916 second eig:22.69557751413748 spectral gap: 0.21539728192168184
+gamma fitted graph first eig: 2.4683323070890575 second eig: 2.4763803034168275 spectral gap: -0.00804799632776998
+ average clustering coefficient structure: 0.4906784287527902, average clustering coef random: 0.051664612171677976
+clustered graph, size: 3260first eig: 22.657750384677378 second eig:22.393656940366235 spectral gap: 0.26409344431114334
+gamma fitted graph first eig: 2.4197556409848318 second eig: 2.4333465410666544 spectral gap: -0.013590900081822621
+ average clustering coefficient structure: 0.4931383346241096, average clustering coef random: 0.05188354321386293
+clustered graph, size: 3255first eig: 22.56023706186967 second eig:22.458263961270855 spectral gap: 0.10197310059881559
+gamma fitted graph first eig: 2.4281105696181746 second eig: 2.4466489819442008 spectral gap: -0.018538412326026155
+ average clustering coefficient structure: 0.489861748991135, average clustering coef random: 0.051242157011387804
+clustered graph, size: 3306first eig: 22.81891759100723 second eig:22.727468187173127 spectral gap: 0.09144940383410471
+gamma fitted graph first eig: 2.4932495086736366 second eig: 2.5014752279670027 spectral gap: -0.00822571929336613
+ average clustering coefficient structure: 0.5006618918822461, average clustering coef random: 0.05176902814396768
+clustered graph, size: 3241first eig: 22.925313100461494 second eig:22.598404665203343 spectral gap: 0.32690843525815083
+gamma fitted graph first eig: 2.4347511583883015 second eig: 2.444068212713145 spectral gap: -0.009317054324843532
+ average clustering coefficient structure: 0.4926606925564734, average clustering coef random: 0.0519058963572904
+clustered graph, size: 3307first eig: 23.288454284631825 second eig:23.161568697171106 spectral gap: 0.12688558746071976
+gamma fitted graph first eig: 2.5398353143346952 second eig: 2.557028350915096 spectral gap: -0.017193036580400722
+ average clustering coefficient structure: 0.49901523865183633, average clustering coef random: 0.051756929759870535
+clustered graph, size: 3391first eig: 23.25459690905018 second eig:23.158148241427938 spectral gap: 0.09644866762224069
+gamma fitted graph first eig: 2.4682885650109303 second eig: 2.4760893411885903 spectral gap: -0.007800776177659952
+ average clustering coefficient structure: 0.49882185767293163, average clustering coef random: 0.05083188994634472
+clustered graph, size: 3282first eig: 22.94809339224293 second eig:22.907466350702236 spectral gap: 0.040627041540695075
+gamma fitted graph first eig: 2.4186953719426207 second eig: 2.4440558839071516 spectral gap: -0.02536051196453082
+ average clustering coefficient structure: 0.4912352000425936, average clustering coef random: 0.05127674859738696
+clustered graph, size: 3332first eig: 23.331567433913207 second eig:23.216510155781897 spectral gap: 0.11505727813131017
+gamma fitted graph first eig: 2.508528229446439 second eig: 2.5101149928112854 spectral gap: -0.001586763364846533
+ average clustering coefficient structure: 0.4938883945132536, average clustering coef random: 0.051060754779267824
+clustered graph, size: 3398first eig: 22.51759674565608 second eig:22.457076044672995 spectral gap: 0.060520700983083486
+gamma fitted graph first eig: 2.499582338370609 second eig: 2.5077281287216246 spectral gap: -0.008145790351015592
+ average clustering coefficient structure: 0.4968092247825322, average clustering coef random: 0.05070177523553606
+clustered graph, size: 3323first eig: 22.923730176280323 second eig:22.878931438091346 spectral gap: 0.04479873818897673
+gamma fitted graph first eig: 2.4575218152620684 second eig: 2.460047952824945 spectral gap: -0.0025261375628766736
+ average clustering coefficient structure: 0.4912128532482653, average clustering coef random: 0.050843414191314606
+clustered graph, size: 3354first eig: 22.90679418588897 second eig:22.809317141825712 spectral gap: 0.09747704406325752
+gamma fitted graph first eig: 2.4743727662787536 second eig: 2.4867405729064873 spectral gap: -0.012367806627733735
+ average clustering coefficient structure: 0.49927791812669425, average clustering coef random: 0.05136768737039512
+clustered graph, size: 3263first eig: 22.257179290643915 second eig:22.025517115154905 spectral gap: 0.23166217548901002
+gamma fitted graph first eig: 2.3822097937197806 second eig: 2.395268476811846 spectral gap: -0.013058683092065593
+ average clustering coefficient structure: 0.48899090298367126, average clustering coef random: 0.050907510315387816
+clustered graph, size: 3312first eig: 22.724090494366905 second eig:22.668695961021843 spectral gap: 0.05539453334506206
+gamma fitted graph first eig: 2.439940844283956 second eig: 2.4555869409792237 spectral gap: -0.01564609669526762
+ average clustering coefficient structure: 0.49338510163558236, average clustering coef random: 0.051290006346615985
+clustered graph, size: 3329first eig: 22.738896693229115 second eig:22.616244644471667 spectral gap: 0.12265204875744828
+gamma fitted graph first eig: 2.4888378204669808 second eig: 2.498684719378814 spectral gap: -0.009846898911833435
+ average clustering coefficient structure: 0.5024524666906217, average clustering coef random: 0.05231821497817289
+clustered graph, size: 3249first eig: 22.889247055364592 second eig:22.85306516036714 spectral gap: 0.03618189499745128
+gamma fitted graph first eig: 2.457784928198565 second eig: 2.468129532089712 spectral gap: -0.01034460389114722
+ average clustering coefficient structure: 0.4922966045693166, average clustering coef random: 0.052421866866985536
+clustered graph, size: 3240first eig: 22.755467945630837 second eig:22.671637033831022 spectral gap: 0.08383091179981506
+gamma fitted graph first eig: 2.546735209633392 second eig: 2.559600101614336 spectral gap: -0.012864891980944204
+ average clustering coefficient structure: 0.49274245266268124, average clustering coef random: 0.052473543174617554
+clustered graph, size: 3282first eig: 22.888790795430598 second eig:22.878768922305863 spectral gap: 0.010021873124735237
+gamma fitted graph first eig: 2.451411459417856 second eig: 2.4608882453766956 spectral gap: -0.009476785958839606
+ average clustering coefficient structure: 0.4946710005400639, average clustering coef random: 0.051886381983898375
+clustered graph, size: 3290first eig: 22.37154892547713 second eig:22.22493080063877 spectral gap: 0.14661812483835845
+gamma fitted graph first eig: 2.4217518347933074 second eig: 2.438447098515212 spectral gap: -0.016695263721904663
+ average clustering coefficient structure: 0.4968609863526995, average clustering coef random: 0.05238929281779426
+clustered graph, size: 3260first eig: 23.085927596056884 second eig:22.998611560338777 spectral gap: 0.08731603571810709
+gamma fitted graph first eig: 2.4736300415944634 second eig: 2.4941722719270905 spectral gap: -0.02054223033262703
+ average clustering coefficient structure: 0.4915705843214284, average clustering coef random: 0.05162150677238257
+clustered graph, size: 3239first eig: 22.952143699248165 second eig:22.83676119271925 spectral gap: 0.11538250652891335
+gamma fitted graph first eig: 2.4561560059643273 second eig: 2.4814258849901716 spectral gap: -0.025269879025844322
+ average clustering coefficient structure: 0.4905494145660212, average clustering coef random: 0.05176198925233242
+clustered graph, size: 3365first eig: 23.087333492749757 second eig:23.029449826812883 spectral gap: 0.057883665936873996
+gamma fitted graph first eig: 2.482826816254725 second eig: 2.4909811796678336 spectral gap: -0.008154363413108712
+ average clustering coefficient structure: 0.4963908401484727, average clustering coef random: 0.050880434785213244
+clustered graph, size: 3213first eig: 22.642298302433804 second eig:22.17507515175843 spectral gap: 0.46722315067537323
+gamma fitted graph first eig: 2.382144133375012 second eig: 2.398386744557944 spectral gap: -0.01624261118293191
+ average clustering coefficient structure: 0.4919582647010363, average clustering coef random: 0.05227341197530182
+clustered graph, size: 3236first eig: 22.743195579492355 second eig:22.40253996245745 spectral gap: 0.3406556170349049
+gamma fitted graph first eig: 2.4336925731246644 second eig: 2.4440789452061797 spectral gap: -0.010386372081515383
+ average clustering coefficient structure: 0.483120829384235, average clustering coef random: 0.05106385141760204
+clustered graph, size: 3191first eig: 23.152493121861585 second eig:23.046185956277995 spectral gap: 0.10630716558359055
+gamma fitted graph first eig: 2.4582627580231695 second eig: 2.4803207490664936 spectral gap: -0.022057991043324066
+ average clustering coefficient structure: 0.496358221371371, average clustering coef random: 0.0528930685847746
+clustered graph, size: 3261first eig: 22.416007768962828 second eig:22.29042643903139 spectral gap: 0.125581329931439
+gamma fitted graph first eig: 2.438071088397766 second eig: 2.448021586856436 spectral gap: -0.009950498458670243
+ average clustering coefficient structure: 0.49129502740965436, average clustering coef random: 0.05121754748576426
+clustered graph, size: 3322first eig: 22.765097513051643 second eig:22.61782872340591 spectral gap: 0.1472687896457323
+gamma fitted graph first eig: 2.440425557625209 second eig: 2.4539022837574533 spectral gap: -0.013476726132244377
+ average clustering coefficient structure: 0.4935977575079812, average clustering coef random: 0.05096405176982529
+clustered graph, size: 3383first eig: 23.444941753687214 second eig:23.350442503677773 spectral gap: 0.09449925000944148
+gamma fitted graph first eig: 2.4451376521514194 second eig: 2.4675819958609027 spectral gap: -0.022444343709483228
+ average clustering coefficient structure: 0.4973992855889621, average clustering coef random: 0.05028327612575078
+clustered graph, size: 3361first eig: 22.924610668804476 second eig:22.906932313167555 spectral gap: 0.017678355636920884
+gamma fitted graph first eig: 2.5204930337058213 second eig: 2.5273425965084853 spectral gap: -0.006849562802663911
+ average clustering coefficient structure: 0.4964907923177725, average clustering coef random: 0.05091674031078385
+clustered graph, size: 3233first eig: 22.48562306843253 second eig:22.477455357762274 spectral gap: 0.008167710670257122
+gamma fitted graph first eig: 2.4239118021929666 second eig: 2.435704693593241 spectral gap: -0.011792891400274286
+ average clustering coefficient structure: 0.49051800735225287, average clustering coef random: 0.051991896567000574
+clustered graph, size: 3312first eig: 23.05934467111167 second eig:22.862811351889405 spectral gap: 0.19653331922226513
+gamma fitted graph first eig: 2.453042829141407 second eig: 2.4566454806193363 spectral gap: -0.003602651477929264
+ average clustering coefficient structure: 0.49605306804818894, average clustering coef random: 0.05139299102998477
+clustered graph, size: 3255first eig: 22.85917845443095 second eig:22.670910771825294 spectral gap: 0.1882676826056553
+gamma fitted graph first eig: 2.44035584494384 second eig: 2.459060728828223 spectral gap: -0.018704883884383072
+ average clustering coefficient structure: 0.49150889031976264, average clustering coef random: 0.051906712510427555
+clustered graph, size: 3289first eig: 23.5717143672973 second eig:23.428048547676887 spectral gap: 0.1436658196204128
+gamma fitted graph first eig: 2.5069229699424787 second eig: 2.529519094909793 spectral gap: -0.022596124967314335
+ average clustering coefficient structure: 0.4992858544925639, average clustering coef random: 0.05231274172526174
+clustered graph, size: 3368first eig: 22.940070993310595 second eig:22.907329789195142 spectral gap: 0.032741204115453115
+gamma fitted graph first eig: 2.4959043901202347 second eig: 2.5175736393847368 spectral gap: -0.02166924926450209
+ average clustering coefficient structure: 0.49927349465138954, average clustering coef random: 0.05146835472660661
+clustered graph, size: 3221first eig: 20.605365330690358 second eig:20.528783728975238 spectral gap: 0.07658160171511952
+gamma fitted graph first eig: 2.3253746778181865 second eig: 2.3303018836233997 spectral gap: -0.0049272058052132195
+ average clustering coefficient structure: 0.4983368073247565, average clustering coef random: 0.05277503014375148
+clustered graph, size: 3420first eig: 20.905156608771676 second eig:20.80883002315662 spectral gap: 0.09632658561505636
+gamma fitted graph first eig: 2.3658337929085556 second eig: 2.385789654598057 spectral gap: -0.019955861689501475
+ average clustering coefficient structure: 0.504049699812134, average clustering coef random: 0.05110961307995197
+clustered graph, size: 3367first eig: 20.53952971271984 second eig:20.484916094433032 spectral gap: 0.05461361828680822
+gamma fitted graph first eig: 2.3212775511775243 second eig: 2.3317424619492835 spectral gap: -0.01046491077175915
+ average clustering coefficient structure: 0.5002235583467968, average clustering coef random: 0.0514345389232766
+clustered graph, size: 3250first eig: 21.634290189242645 second eig:21.268095536204477 spectral gap: 0.3661946530381677
+gamma fitted graph first eig: 2.3468402798999377 second eig: 2.359228083176434 spectral gap: -0.012387803276496356
+ average clustering coefficient structure: 0.49951374966517664, average clustering coef random: 0.05265261046253112
+clustered graph, size: 3286first eig: 21.2007224578008 second eig:21.076348487404015 spectral gap: 0.12437397039678544
+gamma fitted graph first eig: 2.365568729636516 second eig: 2.387704026517496 spectral gap: -0.022135296880979816
+ average clustering coefficient structure: 0.49438999762037306, average clustering coef random: 0.05155549358161432
+clustered graph, size: 3255first eig: 20.231626872228016 second eig:19.98960598674509 spectral gap: 0.24202088548292622
+gamma fitted graph first eig: 2.252879741838843 second eig: 2.258652172610518 spectral gap: -0.005772430771675108
+ average clustering coefficient structure: 0.48800216586990297, average clustering coef random: 0.051360217225601794
+clustered graph, size: 3346first eig: 20.813192182970162 second eig:20.666286462562336 spectral gap: 0.14690572040782612
+gamma fitted graph first eig: 2.355255711898534 second eig: 2.371306356707885 spectral gap: -0.016050644809351144
+ average clustering coefficient structure: 0.5000234675892102, average clustering coef random: 0.051435996273757875
+clustered graph, size: 3419first eig: 20.818766566119116 second eig:20.6365452058388 spectral gap: 0.182221360280316
+gamma fitted graph first eig: 2.366401368650481 second eig: 2.390809551628806 spectral gap: -0.024408182978325144
+ average clustering coefficient structure: 0.5063411936731632, average clustering coef random: 0.0513155642058407
+clustered graph, size: 3347first eig: 21.292215700177394 second eig:21.13779903866084 spectral gap: 0.15441666151655298
+gamma fitted graph first eig: 2.296457240461346 second eig: 2.3064812224385527 spectral gap: -0.010023981977206553
+ average clustering coefficient structure: 0.4966451335986524, average clustering coef random: 0.05113013561675579
+clustered graph, size: 3347first eig: 20.700081786906967 second eig:20.60193371171872 spectral gap: 0.09814807518824864
+gamma fitted graph first eig: 2.363632931199004 second eig: 2.3702800670479496 spectral gap: -0.006647135848945496
+ average clustering coefficient structure: 0.492195489138394, average clustering coef random: 0.05051877004338809
+clustered graph, size: 3369first eig: 20.8728902134747 second eig:20.774223988516344 spectral gap: 0.09866622495835742
+gamma fitted graph first eig: 2.3651940384865067 second eig: 2.3734155927591893 spectral gap: -0.008221554272682674
+ average clustering coefficient structure: 0.49657663876896607, average clustering coef random: 0.0511336552190355
+clustered graph, size: 3294first eig: 21.082860471729514 second eig:21.06728903097249 spectral gap: 0.015571440757025101
+gamma fitted graph first eig: 2.3198266948543615 second eig: 2.32471298955545 spectral gap: -0.004886294701088367
+ average clustering coefficient structure: 0.49663402808862356, average clustering coef random: 0.0522474951285856
+clustered graph, size: 3281first eig: 20.695069325814032 second eig:20.645350391047003 spectral gap: 0.0497189347670286
+gamma fitted graph first eig: 2.278602727273566 second eig: 2.2847239660349654 spectral gap: -0.006121238761399361
+ average clustering coefficient structure: 0.4919276529818118, average clustering coef random: 0.05122509723579093
+clustered graph, size: 3256first eig: 20.537971915468233 second eig:20.476251049010514 spectral gap: 0.061720866457719126
+gamma fitted graph first eig: 2.333866520323812 second eig: 2.3409705099798654 spectral gap: -0.007103989656053411
+ average clustering coefficient structure: 0.4888905054455022, average clustering coef random: 0.05132244314936623
+clustered graph, size: 3387first eig: 21.868020648059193 second eig:21.4522985398777 spectral gap: 0.4157221081814946
+gamma fitted graph first eig: 2.407619281536 second eig: 2.4189244794739757 spectral gap: -0.011305197937975908
+ average clustering coefficient structure: 0.49915011436454754, average clustering coef random: 0.051058560785385586
+clustered graph, size: 3369first eig: 20.98599074047547 second eig:20.83480295086915 spectral gap: 0.1511877896063183
+gamma fitted graph first eig: 2.386237659452957 second eig: 2.4087184076626187 spectral gap: -0.022480748209661616
+ average clustering coefficient structure: 0.4990407685106572, average clustering coef random: 0.05081477720075811
+clustered graph, size: 3329first eig: 20.953633828677134 second eig:20.936094777270853 spectral gap: 0.017539051406281203
+gamma fitted graph first eig: 2.3446500161032127 second eig: 2.3562256407605706 spectral gap: -0.011575624657357952
+ average clustering coefficient structure: 0.49473665412401663, average clustering coef random: 0.05087948629744278
+clustered graph, size: 3287first eig: 21.121512178217923 second eig:20.94119044890367 spectral gap: 0.1803217293142545
+gamma fitted graph first eig: 2.3401947198572444 second eig: 2.349237203176068 spectral gap: -0.009042483318823624
+ average clustering coefficient structure: 0.49148243931332447, average clustering coef random: 0.051126890721509256
+clustered graph, size: 3230first eig: 20.173767000854482 second eig:20.114311901283536 spectral gap: 0.05945509957094686
+gamma fitted graph first eig: 2.2885590395942534 second eig: 2.297722665153686 spectral gap: -0.009163625559432731
+ average clustering coefficient structure: 0.48885454907175424, average clustering coef random: 0.05163251846986068
+clustered graph, size: 3414first eig: 20.707808923271884 second eig:20.544040905923207 spectral gap: 0.1637680173486764
+gamma fitted graph first eig: 2.342785117792242 second eig: 2.3487476870972572 spectral gap: -0.005962569305015375
+ average clustering coefficient structure: 0.5008821248104809, average clustering coef random: 0.050982927441626864
+clustered graph, size: 3264first eig: 20.535019169980615 second eig:20.35589925293854 spectral gap: 0.17911991704207608
+gamma fitted graph first eig: 2.2908379913395778 second eig: 2.3205751398306838 spectral gap: -0.02973714849110598
+ average clustering coefficient structure: 0.489554857559574, average clustering coef random: 0.051257577735236
+clustered graph, size: 3253first eig: 20.474782866949447 second eig:20.442063325648956 spectral gap: 0.03271954130049082
+gamma fitted graph first eig: 2.3669274000046436 second eig: 2.390006466499028 spectral gap: -0.023079066494384293
+ average clustering coefficient structure: 0.49405724910859344, average clustering coef random: 0.051809885201686355
+clustered graph, size: 3326first eig: 21.323878203377717 second eig:21.025264866852346 spectral gap: 0.2986133365253707
+gamma fitted graph first eig: 2.3009921369705206 second eig: 2.305440358020357 spectral gap: -0.004448221049836221
+ average clustering coefficient structure: 0.49358391831442955, average clustering coef random: 0.0514603966338527
+clustered graph, size: 3268first eig: 20.382336388408934 second eig:20.326079897235847 spectral gap: 0.0562564911730874
+gamma fitted graph first eig: 2.305530363639452 second eig: 2.3321203126957277 spectral gap: -0.026589949056275763
+ average clustering coefficient structure: 0.49231073482163196, average clustering coef random: 0.05170594424718269
+clustered graph, size: 3424first eig: 20.867240435695297 second eig:20.710523920205706 spectral gap: 0.15671651548959176
+gamma fitted graph first eig: 2.304415809708668 second eig: 2.3262035734039914 spectral gap: -0.021787763695323203
+ average clustering coefficient structure: 0.5055597175460224, average clustering coef random: 0.051165839249456266
+clustered graph, size: 3284first eig: 20.802328263280533 second eig:20.694709040098672 spectral gap: 0.10761922318186024
+gamma fitted graph first eig: 2.299933281847651 second eig: 2.3179971955043612 spectral gap: -0.01806391365671045
+ average clustering coefficient structure: 0.4980409352814987, average clustering coef random: 0.051791172759533696
+clustered graph, size: 3360first eig: 20.780089419146325 second eig:20.705592732719662 spectral gap: 0.07449668642666296
+gamma fitted graph first eig: 2.310166303375551 second eig: 2.3216199877040564 spectral gap: -0.011453684328505354
+ average clustering coefficient structure: 0.4978948082383157, average clustering coef random: 0.05116034055639477
+clustered graph, size: 3346first eig: 21.48602284249953 second eig:21.28513269582726 spectral gap: 0.20089014667226834
+gamma fitted graph first eig: 2.2743075995757884 second eig: 2.2874690569324416 spectral gap: -0.013161457356653194
+ average clustering coefficient structure: 0.5007284096030705, average clustering coef random: 0.051750814883737124
+clustered graph, size: 3266first eig: 21.008072030244147 second eig:20.971108042589055 spectral gap: 0.03696398765509201
+gamma fitted graph first eig: 2.3480437027022263 second eig: 2.368968445459794 spectral gap: -0.020924742757567838
+ average clustering coefficient structure: 0.49373723385467266, average clustering coef random: 0.051814074648455964
+clustered graph, size: 3267first eig: 21.12394748053581 second eig:20.9629103869596 spectral gap: 0.161037093576212
+gamma fitted graph first eig: 2.331488677380759 second eig: 2.3396775881545318 spectral gap: -0.008188910773772928
+ average clustering coefficient structure: 0.4901700274388756, average clustering coef random: 0.05147497504552218
+clustered graph, size: 3141first eig: 20.433055220592536 second eig:20.329710895240837 spectral gap: 0.10334432535169924
+gamma fitted graph first eig: 2.2176527038118437 second eig: 2.226310033118961 spectral gap: -0.00865732930711749
+ average clustering coefficient structure: 0.48894754480565417, average clustering coef random: 0.05290490107246287
+clustered graph, size: 3282first eig: 21.023922626512242 second eig:20.911261143135217 spectral gap: 0.11266148337702475
+gamma fitted graph first eig: 2.250942542871989 second eig: 2.268518705647689 spectral gap: -0.017576162775700066
+ average clustering coefficient structure: 0.49628342483646576, average clustering coef random: 0.052262975921406246
+clustered graph, size: 3312first eig: 20.653360379978384 second eig:20.319140586239385 spectral gap: 0.334219793738999
+gamma fitted graph first eig: 2.3060310144158542 second eig: 2.3109466627377904 spectral gap: -0.004915648321936139
+ average clustering coefficient structure: 0.494529088173203, average clustering coef random: 0.05109356226599458
+clustered graph, size: 3322first eig: 21.25189456837351 second eig:21.213597449054106 spectral gap: 0.038297119319402384
+gamma fitted graph first eig: 2.327458769049036 second eig: 2.361409857001488 spectral gap: -0.03395108795245205
+ average clustering coefficient structure: 0.4978840937151947, average clustering coef random: 0.05156818705847501
+clustered graph, size: 3356first eig: 20.512786908995004 second eig:20.406647692722512 spectral gap: 0.10613921627249212
+gamma fitted graph first eig: 2.317129277579804 second eig: 2.3241082562822792 spectral gap: -0.006978978702475214
+ average clustering coefficient structure: 0.4989515439981439, average clustering coef random: 0.05158574892700076
+clustered graph, size: 3301first eig: 21.134511033493816 second eig:20.99332614448979 spectral gap: 0.14118488900402681
+gamma fitted graph first eig: 2.4381609768446233 second eig: 2.452136823542213 spectral gap: -0.013975846697589667
+ average clustering coefficient structure: 0.4976309689268141, average clustering coef random: 0.0521370629770935
+clustered graph, size: 3305first eig: 21.346944946320043 second eig:21.33335475669915 spectral gap: 0.01359018962089209
+gamma fitted graph first eig: 2.36763848709884 second eig: 2.3688239294416795 spectral gap: -0.001185442342839682
+ average clustering coefficient structure: 0.49679777070450426, average clustering coef random: 0.05170834096751572
+clustered graph, size: 3227first eig: 20.59204266552786 second eig:20.40441844050831 spectral gap: 0.187624225019551
+gamma fitted graph first eig: 2.2400906939011453 second eig: 2.242963069192241 spectral gap: -0.002872375291095519
+ average clustering coefficient structure: 0.4855137477129719, average clustering coef random: 0.0515307646692537
+clustered graph, size: 3280first eig: 20.411177685591014 second eig:20.34713468730514 spectral gap: 0.06404299828587412
+gamma fitted graph first eig: 2.1994762749512926 second eig: 2.203331310802892 spectral gap: -0.0038550358515991867
+ average clustering coefficient structure: 0.4923960650092518, average clustering coef random: 0.051943955180065934
+clustered graph, size: 3269first eig: 20.392716452015275 second eig:20.28287082781829 spectral gap: 0.10984562419698563
+gamma fitted graph first eig: 2.2655646621359358 second eig: 2.2967283546268913 spectral gap: -0.03116369249095552
+ average clustering coefficient structure: 0.49613736446845924, average clustering coef random: 0.05202151836440865
+clustered graph, size: 3306first eig: 20.60072905694129 second eig:20.30075926135365 spectral gap: 0.29996979558763925
+gamma fitted graph first eig: 2.2619321393161553 second eig: 2.2658777091484312 spectral gap: -0.003945569832275897
+ average clustering coefficient structure: 0.500483578358478, average clustering coef random: 0.052007264833746326
+clustered graph, size: 3305first eig: 20.478493783008837 second eig:20.371864375716637 spectral gap: 0.10662940729219983
+gamma fitted graph first eig: 2.3058263993099573 second eig: 2.319846076762556 spectral gap: -0.014019677452598689
+ average clustering coefficient structure: 0.49639780993063487, average clustering coef random: 0.051573565021162164
+clustered graph, size: 3241first eig: 21.101905321334204 second eig:20.878396700911306 spectral gap: 0.22350862042289776
+gamma fitted graph first eig: 2.327497261098082 second eig: 2.3377203270117857 spectral gap: -0.0102230659137037
+ average clustering coefficient structure: 0.4924698867827858, average clustering coef random: 0.05257864385711884
+clustered graph, size: 3286first eig: 20.819187555980523 second eig:20.788937626241037 spectral gap: 0.030249929739486703
+gamma fitted graph first eig: 2.326166981435189 second eig: 2.345948890985258 spectral gap: -0.019781909550069088
+ average clustering coefficient structure: 0.4911002669329547, average clustering coef random: 0.051426855779310734
+clustered graph, size: 3376first eig: 21.031889278464124 second eig:20.739476104450006 spectral gap: 0.2924131740141185
+gamma fitted graph first eig: 2.3395022406192703 second eig: 2.3703181216268465 spectral gap: -0.030815881007576262
+ average clustering coefficient structure: 0.5030245119984479, average clustering coef random: 0.05133985478486192
+clustered graph, size: 3338first eig: 21.177964373373943 second eig:21.08659926385564 spectral gap: 0.09136510951830346
+gamma fitted graph first eig: 2.3633592104623125 second eig: 2.374531521308719 spectral gap: -0.011172310846406575
+ average clustering coefficient structure: 0.49600043670405664, average clustering coef random: 0.05130004443570617
+clustered graph, size: 3330first eig: 20.646262535391834 second eig:20.6278213373824 spectral gap: 0.01844119800943389
+gamma fitted graph first eig: 2.3087068214548148 second eig: 2.317615316506852 spectral gap: -0.008908495052037058
+ average clustering coefficient structure: 0.48945227807236463, average clustering coef random: 0.05045854068478498
+clustered graph, size: 3394first eig: 20.447435058578122 second eig:20.416551248185705 spectral gap: 0.030883810392417388
+gamma fitted graph first eig: 2.3569485953787903 second eig: 2.3685097519414273 spectral gap: -0.01156115656263701
+ average clustering coefficient structure: 0.5065301679231641, average clustering coef random: 0.051590918170650084
+clustered graph, size: 3300first eig: 20.072808734391156 second eig:20.041217744369508 spectral gap: 0.031590990021648224
+gamma fitted graph first eig: 2.24953917269544 second eig: 2.266721498588783 spectral gap: -0.01718232589334301
+ average clustering coefficient structure: 0.49626574160852127, average clustering coef random: 0.051879345953146125
+clustered graph, size: 3367first eig: 21.67200453737799 second eig:21.592439209064185 spectral gap: 0.07956532831380514
+gamma fitted graph first eig: 2.4253893331504455 second eig: 2.4469339153438847 spectral gap: -0.021544582193439243
+ average clustering coefficient structure: 0.4971963702183544, average clustering coef random: 0.05082812895636697
+clustered graph, size: 3313first eig: 20.825350953347293 second eig:20.736489934722403 spectral gap: 0.08886101862488971
+gamma fitted graph first eig: 2.2935989864822153 second eig: 2.3009121144830535 spectral gap: -0.007313128000838276
+ average clustering coefficient structure: 0.4948555191971612, average clustering coef random: 0.05170338142703681
+clustered graph, size: 3295first eig: 20.851716330381233 second eig:20.792024910194176 spectral gap: 0.05969142018705753
+gamma fitted graph first eig: 2.2580240677545853 second eig: 2.279102427835759 spectral gap: -0.021078360081173475
+ average clustering coefficient structure: 0.49548096000552744, average clustering coef random: 0.05200415645959307
+clustered graph, size: 3302first eig: 20.385416435967514 second eig:20.363770308837235 spectral gap: 0.02164612713027836
+gamma fitted graph first eig: 2.269182998423227 second eig: 2.275337941395785 spectral gap: -0.006154942972557809
+ average clustering coefficient structure: 0.49035637268006776, average clustering coef random: 0.051273175277953324
+clustered graph, size: 3303first eig: 20.924965501831615 second eig:20.810275641174854 spectral gap: 0.11468986065676035
+gamma fitted graph first eig: 2.3420978028496022 second eig: 2.3479154530787563 spectral gap: -0.005817650229154037
+ average clustering coefficient structure: 0.492625450245113, average clustering coef random: 0.05128655387221797
+clustered graph, size: 3311first eig: 21.538407827317794 second eig:21.253693869108844 spectral gap: 0.2847139582089504
+gamma fitted graph first eig: 2.3664589881998683 second eig: 2.3798231587595158 spectral gap: -0.013364170559647448
+ average clustering coefficient structure: 0.4952750199178281, average clustering coef random: 0.05107343344151795
+clustered graph, size: 3285first eig: 20.60122003401716 second eig:20.468812806931595 spectral gap: 0.13240722708556518
+gamma fitted graph first eig: 2.3146114128109656 second eig: 2.32520195574131 spectral gap: -0.010590542930344338
+ average clustering coefficient structure: 0.49248269498015634, average clustering coef random: 0.051184401457754186
+clustered graph, size: 3288first eig: 20.991149529877987 second eig:20.788541558734224 spectral gap: 0.20260797114376317
+gamma fitted graph first eig: 2.368449639694364 second eig: 2.374895854980397 spectral gap: -0.0064462152860329525
+ average clustering coefficient structure: 0.49439257764454975, average clustering coef random: 0.05135521105612181
+clustered graph, size: 3408first eig: 20.59278868549995 second eig:20.46477040911094 spectral gap: 0.1280182763890103
+gamma fitted graph first eig: 2.381736300048544 second eig: 2.387951481546816 spectral gap: -0.006215181498272049
+ average clustering coefficient structure: 0.49753217507972447, average clustering coef random: 0.05052943232446369
+clustered graph, size: 3233first eig: 21.138136966486936 second eig:20.985621353829462 spectral gap: 0.15251561265747426
+gamma fitted graph first eig: 2.298981248324931 second eig: 2.3118318339100874 spectral gap: -0.012850585585156615
+ average clustering coefficient structure: 0.49163421141054015, average clustering coef random: 0.0520409254157521
+clustered graph, size: 3256first eig: 20.279901873744464 second eig:20.18963377677533 spectral gap: 0.09026809696913318
+gamma fitted graph first eig: 2.304880345946921 second eig: 2.327981138263489 spectral gap: -0.02310079231656781
+ average clustering coefficient structure: 0.4987120233869145, average clustering coef random: 0.052514897579758475
+clustered graph, size: 3278first eig: 21.043845336007838 second eig:20.64630527479241 spectral gap: 0.39754006121542673
+gamma fitted graph first eig: 2.32612294115378 second eig: 2.35226199341197 spectral gap: -0.02613905225818991
+ average clustering coefficient structure: 0.49281516106274026, average clustering coef random: 0.05167426336001138
+clustered graph, size: 3257first eig: 21.243535708867142 second eig:21.153037429184067 spectral gap: 0.09049827968307511
+gamma fitted graph first eig: 2.3461838714443393 second eig: 2.3604239679898438 spectral gap: -0.01424009654550451
+ average clustering coefficient structure: 0.49403549292399757, average clustering coef random: 0.051657833870041005
+clustered graph, size: 3235first eig: 20.381732424917217 second eig:20.310474374843714 spectral gap: 0.07125805007350294
+gamma fitted graph first eig: 2.2734403444665703 second eig: 2.2911749322947976 spectral gap: -0.017734587828227344
+ average clustering coefficient structure: 0.491391123560063, average clustering coef random: 0.05225520173588912
+clustered graph, size: 3257first eig: 20.49896595904766 second eig:20.32365193597485 spectral gap: 0.17531402307280786
+gamma fitted graph first eig: 2.2740770534530665 second eig: 2.2884955552748907 spectral gap: -0.014418501821824137
+ average clustering coefficient structure: 0.4913811968378882, average clustering coef random: 0.05133971543873803
+clustered graph, size: 3357first eig: 20.73596244713548 second eig:20.605539361924592 spectral gap: 0.1304230852108894
+gamma fitted graph first eig: 2.2974515407922893 second eig: 2.311044810231836 spectral gap: -0.013593269439546862
+ average clustering coefficient structure: 0.49968382859404337, average clustering coef random: 0.051516648720649295
+clustered graph, size: 3343first eig: 20.90960983240141 second eig:20.704223192457878 spectral gap: 0.20538663994353357
+gamma fitted graph first eig: 2.3289880741259803 second eig: 2.344556086140826 spectral gap: -0.01556801201484559
+ average clustering coefficient structure: 0.49910336979641456, average clustering coef random: 0.05151936005079067
+clustered graph, size: 3269first eig: 20.548015417618764 second eig:20.477460989277475 spectral gap: 0.07055442834128911
+gamma fitted graph first eig: 2.313955646828847 second eig: 2.3305759162810515 spectral gap: -0.016620269452204628
+ average clustering coefficient structure: 0.49202581900227116, average clustering coef random: 0.05169016262548794
+clustered graph, size: 3258first eig: 21.471385164714892 second eig:21.245697211369105 spectral gap: 0.22568795334578695
+gamma fitted graph first eig: 2.3743677207056137 second eig: 2.3939538453726206 spectral gap: -0.01958612466700682
+ average clustering coefficient structure: 0.49460123597317457, average clustering coef random: 0.05209290554036539
+clustered graph, size: 3354first eig: 21.624022490752925 second eig:21.186405767193452 spectral gap: 0.4376167235594721
+gamma fitted graph first eig: 2.3275730429790213 second eig: 2.3472719444814225 spectral gap: -0.019698901502401167
+ average clustering coefficient structure: 0.49635139046630095, average clustering coef random: 0.05108117278732862
+clustered graph, size: 3323first eig: 21.205399976487104 second eig:21.042896697599257 spectral gap: 0.1625032788878471
+gamma fitted graph first eig: 2.3176955687865033 second eig: 2.342812442894561 spectral gap: -0.02511687410805763
+ average clustering coefficient structure: 0.4944563457211008, average clustering coef random: 0.05129150059185932
+clustered graph, size: 3337first eig: 20.873326052340488 second eig:20.66557311418938 spectral gap: 0.2077529381511063
+gamma fitted graph first eig: 2.3316747248540675 second eig: 2.34742269999739 spectral gap: -0.015747975143322712
+ average clustering coefficient structure: 0.49644129100334666, average clustering coef random: 0.05114824056107711
+clustered graph, size: 3235first eig: 20.464738914440883 second eig:20.4123888126201 spectral gap: 0.0523501018207817
+gamma fitted graph first eig: 2.255416422341223 second eig: 2.2574596731064345 spectral gap: -0.0020432507652112797
+ average clustering coefficient structure: 0.49075068176368997, average clustering coef random: 0.051988351818965876
+clustered graph, size: 3320first eig: 21.171004672255588 second eig:21.141449030465626 spectral gap: 0.02955564178996184
+gamma fitted graph first eig: 2.399921075049293 second eig: 2.4135967876508797 spectral gap: -0.013675712601586731
+ average clustering coefficient structure: 0.4933714733932144, average clustering coef random: 0.05127548136241428
+clustered graph, size: 3260first eig: 20.260051624467994 second eig:20.155111163650144 spectral gap: 0.10494046081785058
+gamma fitted graph first eig: 2.2819283696042034 second eig: 2.2890555347492434 spectral gap: -0.007127165145039971
+ average clustering coefficient structure: 0.4893814847378121, average clustering coef random: 0.05166186560295861
+clustered graph, size: 3327first eig: 21.449638934570185 second eig:21.391263376618117 spectral gap: 0.05837555795206839
+gamma fitted graph first eig: 2.348662186412781 second eig: 2.3680110069258387 spectral gap: -0.019348820513057863
+ average clustering coefficient structure: 0.4976993588328286, average clustering coef random: 0.05117875738689308
+clustered graph, size: 3235first eig: 20.07485339346139 second eig:19.836947768679014 spectral gap: 0.23790562478237476
+gamma fitted graph first eig: 2.2232355434312856 second eig: 2.242849018874133 spectral gap: -0.019613475442847417
+ average clustering coefficient structure: 0.4928167778882866, average clustering coef random: 0.05216947881227824
+clustered graph, size: 3346first eig: 20.467328914128327 second eig:20.293527720691078 spectral gap: 0.17380119343724942
+gamma fitted graph first eig: 2.3426485311204113 second eig: 2.3544235330153995 spectral gap: -0.011775001894988257
+ average clustering coefficient structure: 0.49624804453666604, average clustering coef random: 0.05138274040408526
+clustered graph, size: 3210first eig: 20.59876774989949 second eig:20.447766775450102 spectral gap: 0.15100097444938854
+gamma fitted graph first eig: 2.263214301338318 second eig: 2.2719742613309206 spectral gap: -0.008759959992602706
+ average clustering coefficient structure: 0.49045479470438896, average clustering coef random: 0.05276120482624923
+clustered graph, size: 3331first eig: 21.195373547096477 second eig:21.075245332543542 spectral gap: 0.12012821455293476
+gamma fitted graph first eig: 2.372041796154988 second eig: 2.401146131247379 spectral gap: -0.029104335092390965
+ average clustering coefficient structure: 0.5024830484355277, average clustering coef random: 0.051635367400194775
+clustered graph, size: 3217first eig: 20.504334327742004 second eig:20.474959044194822 spectral gap: 0.029375283547182107
+gamma fitted graph first eig: 2.2492594086584385 second eig: 2.2624637573394017 spectral gap: -0.013204348680963207
+ average clustering coefficient structure: 0.4939237112101211, average clustering coef random: 0.05227768291947994
+clustered graph, size: 3343first eig: 20.629350515575517 second eig:20.550825439500112 spectral gap: 0.0785250760754046
+gamma fitted graph first eig: 2.285952007570161 second eig: 2.305762944984408 spectral gap: -0.01981093741424722
+ average clustering coefficient structure: 0.495872278250609, average clustering coef random: 0.051525143557671904
+clustered graph, size: 3237first eig: 20.409531233155963 second eig:20.272937851074808 spectral gap: 0.13659338208115557
+gamma fitted graph first eig: 2.2456011885081035 second eig: 2.265487819985436 spectral gap: -0.019886631477332273
+ average clustering coefficient structure: 0.4897342472131681, average clustering coef random: 0.05233058666722761
+clustered graph, size: 3460first eig: 20.941882503450092 second eig:20.86529619214306 spectral gap: 0.07658631130703242
+gamma fitted graph first eig: 2.3301600125964663 second eig: 2.3391676302373456 spectral gap: -0.009007617640879317
+ average clustering coefficient structure: 0.5063135209185404, average clustering coef random: 0.05099012244295882
+clustered graph, size: 3278first eig: 20.605861144059592 second eig:20.16203557372238 spectral gap: 0.4438255703372107
+gamma fitted graph first eig: 2.3107183393292767 second eig: 2.3297403376567902 spectral gap: -0.0190219983275135
+ average clustering coefficient structure: 0.49404810792968173, average clustering coef random: 0.051606387392951994
+clustered graph, size: 3262first eig: 20.43656889610717 second eig:20.41907016494094 spectral gap: 0.0174987311662278
+gamma fitted graph first eig: 2.2861508752355433 second eig: 2.290299457730803 spectral gap: -0.004148582495259845
+ average clustering coefficient structure: 0.49734690667836745, average clustering coef random: 0.0521396564572426
+clustered graph, size: 3289first eig: 20.817735040594282 second eig:20.737525650087953 spectral gap: 0.08020939050632947
+gamma fitted graph first eig: 2.2918281591953273 second eig: 2.30108071530455 spectral gap: -0.00925255610922271
+ average clustering coefficient structure: 0.4967110886110296, average clustering coef random: 0.05171361730352739
+clustered graph, size: 3295first eig: 20.829169163901454 second eig:20.706803551270202 spectral gap: 0.12236561263125267
+gamma fitted graph first eig: 2.2310019594993 second eig: 2.25532499129387 spectral gap: -0.02432303179456996
+ average clustering coefficient structure: 0.4977243802755469, average clustering coef random: 0.05169126719823876
+clustered graph, size: 3184first eig: 20.48620078925532 second eig:20.282550289352734 spectral gap: 0.20365049990258655
+gamma fitted graph first eig: 2.2407853010999608 second eig: 2.251073087299562 spectral gap: -0.010287786199601356
+ average clustering coefficient structure: 0.48930859752404804, average clustering coef random: 0.052146223525669236
+clustered graph, size: 3217first eig: 20.839023314365882 second eig:19.9190053635843 spectral gap: 0.9200179507815811
+gamma fitted graph first eig: 2.2744057872567507 second eig: 2.283741700841583 spectral gap: -0.009335913584832323
+ average clustering coefficient structure: 0.4856732427963883, average clustering coef random: 0.051632181261173214
+clustered graph, size: 3369first eig: 20.21723740828153 second eig:20.12052525261306 spectral gap: 0.09671215566847025
+gamma fitted graph first eig: 2.3238757707288884 second eig: 2.3460102390023776 spectral gap: -0.022134468273489194
+ average clustering coefficient structure: 0.5034191048235128, average clustering coef random: 0.05162019636641189
+clustered graph, size: 3234first eig: 20.889463709975356 second eig:20.875056092690347 spectral gap: 0.014407617285009167
+gamma fitted graph first eig: 2.295259334050422 second eig: 2.307154418388903 spectral gap: -0.011895084338480633
+ average clustering coefficient structure: 0.48835165372786044, average clustering coef random: 0.05142101167397505
+clustered graph, size: 3324first eig: 20.985796784947816 second eig:20.876469677496342 spectral gap: 0.10932710745147389
+gamma fitted graph first eig: 2.379142029053795 second eig: 2.387042896123424 spectral gap: -0.007900867069629225
+ average clustering coefficient structure: 0.4965210660587588, average clustering coef random: 0.051190702387738166
+clustered graph, size: 3326first eig: 21.294008467275734 second eig:21.147093294653136 spectral gap: 0.1469151726225988
+gamma fitted graph first eig: 2.329494857646489 second eig: 2.3404163660838764 spectral gap: -0.010921508437387484
+ average clustering coefficient structure: 0.496075560707839, average clustering coef random: 0.051601532512541175
+clustered graph, size: 3294first eig: 21.37580010756794 second eig:21.2798645664819 spectral gap: 0.09593554108603897
+gamma fitted graph first eig: 2.3402740182590445 second eig: 2.3528485074306325 spectral gap: -0.012574489171587988
+ average clustering coefficient structure: 0.49778791476991374, average clustering coef random: 0.05193521760837561
+clustered graph, size: 3252first eig: 21.038411949340123 second eig:21.000608097428543 spectral gap: 0.037803851911579756
+gamma fitted graph first eig: 2.3307824508233446 second eig: 2.334510417069888 spectral gap: -0.0037279662465432573
+ average clustering coefficient structure: 0.4936598714982528, average clustering coef random: 0.05168106675845743
+clustered graph, size: 3289first eig: 20.894244687640654 second eig:20.84056661861729 spectral gap: 0.053678069023362696
+gamma fitted graph first eig: 2.3795594399601647 second eig: 2.389401371556283 spectral gap: -0.009841931596118236
+ average clustering coefficient structure: 0.4954040382749885, average clustering coef random: 0.051422109717347037
+clustered graph, size: 3291first eig: 20.70872536392343 second eig:20.449633563093382 spectral gap: 0.2590918008300491
+gamma fitted graph first eig: 2.255690670338569 second eig: 2.2816822143702105 spectral gap: -0.02599154403164139
+ average clustering coefficient structure: 0.49465762862008616, average clustering coef random: 0.051757689858262394
+clustered graph, size: 3268first eig: 20.967058798776836 second eig:20.762592404865348 spectral gap: 0.20446639391148835
+gamma fitted graph first eig: 2.364501980500768 second eig: 2.368565569488239 spectral gap: -0.004063588987471167
+ average clustering coefficient structure: 0.49111759871794264, average clustering coef random: 0.0514816544189539
+clustered graph, size: 3295first eig: 20.239319901989997 second eig:20.061165577724683 spectral gap: 0.1781543242653143
+gamma fitted graph first eig: 2.2488541100151314 second eig: 2.2629174434298225 spectral gap: -0.014063333414691126
+ average clustering coefficient structure: 0.49342794254369116, average clustering coef random: 0.051291617822397224
+clustered graph, size: 3407first eig: 20.867699735308168 second eig:20.830853794512546 spectral gap: 0.03684594079562231
+gamma fitted graph first eig: 2.3142616139056367 second eig: 2.32632980219194 spectral gap: -0.012068188286303183
+ average clustering coefficient structure: 0.49647019397297165, average clustering coef random: 0.050475521471786716
+clustered graph, size: 3228first eig: 19.122970404537767 second eig:18.99418257314352 spectral gap: 0.12878783139424854
+gamma fitted graph first eig: 2.1858784679506496 second eig: 2.196826141056732 spectral gap: -0.010947673106082245
+ average clustering coefficient structure: 0.48891366210845466, average clustering coef random: 0.051440268692567105
+clustered graph, size: 3255first eig: 19.76103226121708 second eig:19.17711543194817 spectral gap: 0.5839168292689081
+gamma fitted graph first eig: 2.160965548463395 second eig: 2.1805641954342927 spectral gap: -0.019598646970897526
+ average clustering coefficient structure: 0.49293824697124006, average clustering coef random: 0.05185035866150393
+clustered graph, size: 3417first eig: 18.77966489896176 second eig:18.68195162734375 spectral gap: 0.09771327161800869
+gamma fitted graph first eig: 2.216068223659026 second eig: 2.2316907492400535 spectral gap: -0.015622525581027613
+ average clustering coefficient structure: 0.5018239649040098, average clustering coef random: 0.05091730043442065
+clustered graph, size: 3354first eig: 19.09272515507555 second eig:18.97055501066743 spectral gap: 0.1221701444081198
+gamma fitted graph first eig: 2.195255326798856 second eig: 2.204638176361485 spectral gap: -0.009382849562629136
+ average clustering coefficient structure: 0.5013927986150986, average clustering coef random: 0.0519276072764444
+clustered graph, size: 3171first eig: 18.763735462385473 second eig:18.631306915741572 spectral gap: 0.1324285466439008
+gamma fitted graph first eig: 2.1580440924311284 second eig: 2.1690802927870454 spectral gap: -0.011036200355917014
+ average clustering coefficient structure: 0.4862961109432303, average clustering coef random: 0.05239864911345033
+clustered graph, size: 3261first eig: 18.637384248393033 second eig:18.59209918259635 spectral gap: 0.045285065796683455
+gamma fitted graph first eig: 2.231911203207212 second eig: 2.2397560873612274 spectral gap: -0.007844884154015297
+ average clustering coefficient structure: 0.49368683419682924, average clustering coef random: 0.051805795731439196
+clustered graph, size: 3303first eig: 18.798834289943375 second eig:18.57621244810497 spectral gap: 0.2226218418384036
+gamma fitted graph first eig: 2.2518538752955877 second eig: 2.260889448404372 spectral gap: -0.009035573108784334
+ average clustering coefficient structure: 0.49470963632212783, average clustering coef random: 0.051868351697926
+clustered graph, size: 3333first eig: 19.499858987005783 second eig:18.71667849936709 spectral gap: 0.7831804876386919
+gamma fitted graph first eig: 2.1890798458581497 second eig: 2.202949353024403 spectral gap: -0.013869507166253126
+ average clustering coefficient structure: 0.49126147023407785, average clustering coef random: 0.05072347759550257
+clustered graph, size: 3305first eig: 19.01349101985731 second eig:18.871136198890152 spectral gap: 0.14235482096715657
+gamma fitted graph first eig: 2.0711363752273675 second eig: 2.0823413313821613 spectral gap: -0.011204956154793777
+ average clustering coefficient structure: 0.49736159879180425, average clustering coef random: 0.0512088288048686
+clustered graph, size: 3356first eig: 19.213641145912675 second eig:19.19435354614594 spectral gap: 0.01928759976673433
+gamma fitted graph first eig: 2.247478096509792 second eig: 2.260442690183957 spectral gap: -0.012964593674165137
+ average clustering coefficient structure: 0.4963483118085615, average clustering coef random: 0.051297459911629026
+clustered graph, size: 3316first eig: 18.726101785104078 second eig:18.694927116688408 spectral gap: 0.031174668415669515
+gamma fitted graph first eig: 2.139715872393932 second eig: 2.172343469739791 spectral gap: -0.03262759734585918
+ average clustering coefficient structure: 0.4944287125284933, average clustering coef random: 0.0513349343144942
+clustered graph, size: 3333first eig: 18.884668593979534 second eig:18.813619214475583 spectral gap: 0.0710493795039504
+gamma fitted graph first eig: 2.172929251110687 second eig: 2.191885264140673 spectral gap: -0.018956013029986174
+ average clustering coefficient structure: 0.5013722995628503, average clustering coef random: 0.05158058161805881
+clustered graph, size: 3301first eig: 18.669667593515914 second eig:18.476263685093652 spectral gap: 0.19340390842226185
+gamma fitted graph first eig: 2.2045165870229506 second eig: 2.2268573108402308 spectral gap: -0.02234072381728014
+ average clustering coefficient structure: 0.49905589370830505, average clustering coef random: 0.052177398420650827
+clustered graph, size: 3240first eig: 19.58795933844287 second eig:19.45395642959457 spectral gap: 0.13400290884830213
+gamma fitted graph first eig: 2.20160702350721 second eig: 2.2196018762260277 spectral gap: -0.017994852718817622
+ average clustering coefficient structure: 0.4908738902619736, average clustering coef random: 0.051909283108377995
+clustered graph, size: 3260first eig: 18.615113331390805 second eig:18.57152248228071 spectral gap: 0.04359084911009603
+gamma fitted graph first eig: 2.1636636433892904 second eig: 2.18418619774323 spectral gap: -0.020522554353939793
+ average clustering coefficient structure: 0.4943926138387186, average clustering coef random: 0.05187189373650665
+clustered graph, size: 3270first eig: 19.185345285605383 second eig:19.12751535268298 spectral gap: 0.05782993292240235
+gamma fitted graph first eig: 2.235312610399555 second eig: 2.242696416455725 spectral gap: -0.007383806056170172
+ average clustering coefficient structure: 0.49286728154621995, average clustering coef random: 0.05146670839227585
+clustered graph, size: 3253first eig: 18.43641069379136 second eig:18.377229564989 spectral gap: 0.05918112880235782
+gamma fitted graph first eig: 2.184460624763314 second eig: 2.20241048750217 spectral gap: -0.017949862738856126
+ average clustering coefficient structure: 0.4911895142192673, average clustering coef random: 0.05173400140746681
+clustered graph, size: 3280first eig: 18.531031702919115 second eig:18.315403575271937 spectral gap: 0.21562812764717876
+gamma fitted graph first eig: 2.190478708704062 second eig: 2.203275021576001 spectral gap: -0.012796312871939275
+ average clustering coefficient structure: 0.5013951771637393, average clustering coef random: 0.052256851661808705
+clustered graph, size: 3245first eig: 17.772345071710447 second eig:17.740993979857652 spectral gap: 0.03135109185279461
+gamma fitted graph first eig: 2.0537439980512255 second eig: 2.0619992401356817 spectral gap: -0.00825524208445616
+ average clustering coefficient structure: 0.48972034608992915, average clustering coef random: 0.05149663360952984
+clustered graph, size: 3229first eig: 17.67969855909444 second eig:17.561934712542627 spectral gap: 0.1177638465518136
+gamma fitted graph first eig: 2.074744764558676 second eig: 2.0937278061430575 spectral gap: -0.018983041584381688
+ average clustering coefficient structure: 0.4922666504963171, average clustering coef random: 0.05207001420838418
+clustered graph, size: 3345first eig: 19.269233453940522 second eig:19.25040560514595 spectral gap: 0.018827848794572333
+gamma fitted graph first eig: 2.2383312650290788 second eig: 2.249617633391844 spectral gap: -0.011286368362765309
+ average clustering coefficient structure: 0.4966609946766824, average clustering coef random: 0.050827794274506885
+clustered graph, size: 3305first eig: 18.70384892309256 second eig:18.479797568072573 spectral gap: 0.22405135501998785
+gamma fitted graph first eig: 2.215043702669966 second eig: 2.2351876066888257 spectral gap: -0.020143904018859793
+ average clustering coefficient structure: 0.48980451097124805, average clustering coef random: 0.05090600420314743
+clustered graph, size: 3320first eig: 18.770300273096424 second eig:18.472233681385823 spectral gap: 0.2980665917106009
+gamma fitted graph first eig: 2.009301400409972 second eig: 2.0266171799213497 spectral gap: -0.017315779511377638
+ average clustering coefficient structure: 0.4972213689865657, average clustering coef random: 0.05161595434028087
+clustered graph, size: 3315first eig: 19.26753957261138 second eig:18.894630168239768 spectral gap: 0.3729094043716117
+gamma fitted graph first eig: 2.1695035164697587 second eig: 2.1828354965346395 spectral gap: -0.013331980064880788
+ average clustering coefficient structure: 0.4932926801047351, average clustering coef random: 0.05095698872527236
+clustered graph, size: 3371first eig: 19.1682577637263 second eig:19.04641022418594 spectral gap: 0.12184753954035799
+gamma fitted graph first eig: 2.212902957226966 second eig: 2.223101376726442 spectral gap: -0.010198419499475975
+ average clustering coefficient structure: 0.5018287992589103, average clustering coef random: 0.051660708025288334
+clustered graph, size: 3273first eig: 18.941439046569627 second eig:18.835294586669356 spectral gap: 0.10614445990027122
+gamma fitted graph first eig: 2.1954628077859937 second eig: 2.219030537046255 spectral gap: -0.023567729260261405
+ average clustering coefficient structure: 0.4937695164853998, average clustering coef random: 0.05134034978463472
+clustered graph, size: 3351first eig: 19.700295401257264 second eig:19.36493580274659 spectral gap: 0.3353595985106743
+gamma fitted graph first eig: 2.281662297820853 second eig: 2.2979003773749644 spectral gap: -0.016238079554111273
+ average clustering coefficient structure: 0.4978831660296136, average clustering coef random: 0.051054984678888665
+clustered graph, size: 3321first eig: 18.594516631560413 second eig:18.1374925364696 spectral gap: 0.4570240950908122
+gamma fitted graph first eig: 2.1681208051246137 second eig: 2.1728426848464624 spectral gap: -0.004721879721848676
+ average clustering coefficient structure: 0.4927143584295485, average clustering coef random: 0.05114296213001562
+clustered graph, size: 3253first eig: 18.99460486751105 second eig:18.7194940951734 spectral gap: 0.27511077233765135
+gamma fitted graph first eig: 2.1697787664266373 second eig: 2.1721627688452925 spectral gap: -0.0023840024186552178
+ average clustering coefficient structure: 0.4903090371065938, average clustering coef random: 0.051687328380057476
+clustered graph, size: 3256first eig: 18.546434770606673 second eig:18.247715766303127 spectral gap: 0.29871900430354614
+gamma fitted graph first eig: 2.16178195088374 second eig: 2.1636841996939404 spectral gap: -0.001902248810200291
+ average clustering coefficient structure: 0.4924802410037784, average clustering coef random: 0.05167870224431296
+clustered graph, size: 3126first eig: 18.621936835387537 second eig:18.576761919856516 spectral gap: 0.04517491553102104
+gamma fitted graph first eig: 2.1661980359890034 second eig: 2.1820936826136172 spectral gap: -0.015895646624613846
+ average clustering coefficient structure: 0.4837646274365508, average clustering coef random: 0.052506098377106354
+clustered graph, size: 3256first eig: 18.0114926605556 second eig:17.800260121437542 spectral gap: 0.21123253911805762
+gamma fitted graph first eig: 2.1571016917155466 second eig: 2.1763950423039815 spectral gap: -0.019293350588434954
+ average clustering coefficient structure: 0.49051552253230984, average clustering coef random: 0.05193257569418563
+clustered graph, size: 3357first eig: 19.158672580392192 second eig:18.76662056052645 spectral gap: 0.3920520198657407
+gamma fitted graph first eig: 2.2232868648661617 second eig: 2.2479032428775323 spectral gap: -0.02461637801137062
+ average clustering coefficient structure: 0.4967790573181909, average clustering coef random: 0.05123242280981125
+clustered graph, size: 3274first eig: 18.804251093963295 second eig:18.55986148462839 spectral gap: 0.24438960933490605
+gamma fitted graph first eig: 2.1966564779233884 second eig: 2.2062877205671136 spectral gap: -0.00963124264372528
+ average clustering coefficient structure: 0.48274939129340727, average clustering coef random: 0.05079486719901682
+clustered graph, size: 3216first eig: 19.20870393109875 second eig:19.05005278791607 spectral gap: 0.1586511431826807
+gamma fitted graph first eig: 2.1952497278025636 second eig: 2.2011075569685987 spectral gap: -0.005857829166035167
+ average clustering coefficient structure: 0.49172129435234807, average clustering coef random: 0.05226400195333799
+clustered graph, size: 3229first eig: 19.585114192429046 second eig:19.36828015473942 spectral gap: 0.21683403768962606
+gamma fitted graph first eig: 2.1935955607138315 second eig: 2.209666107212197 spectral gap: -0.016070546498365257
+ average clustering coefficient structure: 0.4924562715338059, average clustering coef random: 0.05233661461977646
+clustered graph, size: 3230first eig: 18.32870264530596 second eig:18.181133089517015 spectral gap: 0.14756955578894448
+gamma fitted graph first eig: 2.0914654859548727 second eig: 2.097476762671077 spectral gap: -0.006011276716204161
+ average clustering coefficient structure: 0.4907529444071794, average clustering coef random: 0.05215411124605191
+clustered graph, size: 3233first eig: 18.312511859543623 second eig:18.242024514331515 spectral gap: 0.07048734521210775
+gamma fitted graph first eig: 2.151270541673839 second eig: 2.168445243559443 spectral gap: -0.017174701885604104
+ average clustering coefficient structure: 0.48975937898131955, average clustering coef random: 0.05195023173505802
+clustered graph, size: 3341first eig: 19.234980397453324 second eig:19.02984931342384 spectral gap: 0.20513108402948532
+gamma fitted graph first eig: 2.1860026846018226 second eig: 2.190818206915635 spectral gap: -0.004815522313812437
+ average clustering coefficient structure: 0.5037766507197605, average clustering coef random: 0.05174618897271008
+clustered graph, size: 3236first eig: 19.160947289261376 second eig:19.142158825001932 spectral gap: 0.018788464259444027
+gamma fitted graph first eig: 2.118127012711289 second eig: 2.12841865647125 spectral gap: -0.010291643759961389
+ average clustering coefficient structure: 0.4890375029401322, average clustering coef random: 0.05171519789519212
+clustered graph, size: 3290first eig: 18.348391528372513 second eig:18.2767176334926 spectral gap: 0.07167389487991471
+gamma fitted graph first eig: 2.1935892333725193 second eig: 2.2016877779274955 spectral gap: -0.008098544554976161
+ average clustering coefficient structure: 0.4949789004730426, average clustering coef random: 0.051396576547752405
+clustered graph, size: 3338first eig: 18.564610389087086 second eig:18.476792797588818 spectral gap: 0.0878175914982684
+gamma fitted graph first eig: 2.144664233721246 second eig: 2.1538394885597 spectral gap: -0.009175254838453828
+ average clustering coefficient structure: 0.4948910937681007, average clustering coef random: 0.050940555926721094
+clustered graph, size: 3321first eig: 19.278831818332247 second eig:18.934508125964918 spectral gap: 0.34432369236732896
+gamma fitted graph first eig: 2.1943121752560883 second eig: 2.207356259193222 spectral gap: -0.013044083937133522
+ average clustering coefficient structure: 0.49748742558300957, average clustering coef random: 0.051813595893805194
+clustered graph, size: 3363first eig: 19.226123417485248 second eig:18.992539838580853 spectral gap: 0.23358357890439407
+gamma fitted graph first eig: 2.2720769709499797 second eig: 2.274454770575717 spectral gap: -0.0023777996257372536
+ average clustering coefficient structure: 0.5045897231318622, average clustering coef random: 0.05200399773547158
+clustered graph, size: 3298first eig: 18.883258627376183 second eig:18.80462867304705 spectral gap: 0.07862995432913422
+gamma fitted graph first eig: 2.1880512825073133 second eig: 2.2015096384347164 spectral gap: -0.013458355927403076
+ average clustering coefficient structure: 0.49733562558379374, average clustering coef random: 0.05182851249185716
+clustered graph, size: 3343first eig: 19.16703144305739 second eig:18.992253600465343 spectral gap: 0.17477784259204654
+gamma fitted graph first eig: 2.2352700763785585 second eig: 2.2487434508213378 spectral gap: -0.013473374442779296
+ average clustering coefficient structure: 0.4985751795931084, average clustering coef random: 0.051223736952090704
+clustered graph, size: 3283first eig: 19.148396965563304 second eig:18.994992411015517 spectral gap: 0.15340455454778734
+gamma fitted graph first eig: 2.1989276024801834 second eig: 2.211935775991521 spectral gap: -0.013008173511337429
+ average clustering coefficient structure: 0.4935210483285304, average clustering coef random: 0.05150675822608025
+clustered graph, size: 3236first eig: 19.197504109147342 second eig:18.679635973383544 spectral gap: 0.5178681357637984
+gamma fitted graph first eig: 2.1668965948141534 second eig: 2.1830470931579775 spectral gap: -0.016150498343824093
+ average clustering coefficient structure: 0.49304679363125686, average clustering coef random: 0.051971963513501404
+clustered graph, size: 3341first eig: 18.89739170229707 second eig:18.72449091303271 spectral gap: 0.1729007892643608
+gamma fitted graph first eig: 2.208078892990616 second eig: 2.2258858197662983 spectral gap: -0.017806926775682186
+ average clustering coefficient structure: 0.49451709751427947, average clustering coef random: 0.05068364049137858
+clustered graph, size: 3239first eig: 18.80463957527135 second eig:18.484097956432826 spectral gap: 0.32054161883852217
+gamma fitted graph first eig: 2.185352821614382 second eig: 2.1959910699002503 spectral gap: -0.010638248285868457
+ average clustering coefficient structure: 0.49754673993220855, average clustering coef random: 0.05306711733979219
+clustered graph, size: 3309first eig: 18.375174290067925 second eig:18.320580557268208 spectral gap: 0.05459373279971658
+gamma fitted graph first eig: 2.17559804594261 second eig: 2.1960661434605506 spectral gap: -0.020468097517940542
+ average clustering coefficient structure: 0.4926728032651642, average clustering coef random: 0.05117182506648706
+clustered graph, size: 3245first eig: 18.031716510458807 second eig:17.895730185990686 spectral gap: 0.13598632446812076
+gamma fitted graph first eig: 2.1429356140229263 second eig: 2.146332440061801 spectral gap: -0.0033968260388745897
+ average clustering coefficient structure: 0.4876686012472245, average clustering coef random: 0.05114330001673945
+clustered graph, size: 3271first eig: 20.105603458209174 second eig:20.035647316338927 spectral gap: 0.06995614187024657
+gamma fitted graph first eig: 2.2514686083524453 second eig: 2.2616220822412445 spectral gap: -0.01015347388879917
+ average clustering coefficient structure: 0.49321695625529116, average clustering coef random: 0.051694964435394425
+clustered graph, size: 3220first eig: 18.072153339272468 second eig:17.983742019346593 spectral gap: 0.08841131992587492
+gamma fitted graph first eig: 2.1044551944487893 second eig: 2.112575753123776 spectral gap: -0.008120558674986622
+ average clustering coefficient structure: 0.49110983313163775, average clustering coef random: 0.052227290710470026
+clustered graph, size: 3234first eig: 18.73302569757049 second eig:18.543606560293515 spectral gap: 0.18941913727697468
+gamma fitted graph first eig: 2.1905915519588057 second eig: 2.2095820166892874 spectral gap: -0.018990464730481715
+ average clustering coefficient structure: 0.4940870233135913, average clustering coef random: 0.0520143721824393
+clustered graph, size: 3306first eig: 17.82206207020261 second eig:17.79039226296818 spectral gap: 0.03166980723442947
+gamma fitted graph first eig: 2.1018215194340235 second eig: 2.12798371887184 spectral gap: -0.02616219943781628
+ average clustering coefficient structure: 0.49274193233866376, average clustering coef random: 0.051233489224645115
+clustered graph, size: 3237first eig: 18.513185835506498 second eig:18.399450128001973 spectral gap: 0.11373570750452444
+gamma fitted graph first eig: 2.2391019352388537 second eig: 2.252058144335282 spectral gap: -0.01295620909642814
+ average clustering coefficient structure: 0.4903042123110695, average clustering coef random: 0.051665307420284315
+clustered graph, size: 3302first eig: 17.99695454106082 second eig:17.9508379752729 spectral gap: 0.04611656578791923
+gamma fitted graph first eig: 2.158952531928508 second eig: 2.16493568802302 spectral gap: -0.005983156094512054
+ average clustering coefficient structure: 0.49535564071414767, average clustering coef random: 0.05147894492192335
+clustered graph, size: 3336first eig: 19.194565803619504 second eig:19.1235851014006 spectral gap: 0.07098070221890396
+gamma fitted graph first eig: 2.1959619014240053 second eig: 2.2004849695350384 spectral gap: -0.004523068111033091
+ average clustering coefficient structure: 0.4983214614133698, average clustering coef random: 0.05105731816015989
+clustered graph, size: 3326first eig: 18.557108835156107 second eig:18.355588754598845 spectral gap: 0.20152008055726256
+gamma fitted graph first eig: 2.133746578954885 second eig: 2.1597899347095826 spectral gap: -0.02604335575469774
+ average clustering coefficient structure: 0.5028699934959785, average clustering coef random: 0.052336529976337635
+clustered graph, size: 3153first eig: 18.30610334628334 second eig:17.9978255483458 spectral gap: 0.3082777979375386
+gamma fitted graph first eig: 2.169055452826548 second eig: 2.183470226809125 spectral gap: -0.014414773982577067
+ average clustering coefficient structure: 0.4858691445660451, average clustering coef random: 0.05200950849501282
+clustered graph, size: 3200first eig: 17.909754630956684 second eig:17.721535349386446 spectral gap: 0.18821928157023748
+gamma fitted graph first eig: 2.1431819633194107 second eig: 2.1637871825350445 spectral gap: -0.020605219215633852
+ average clustering coefficient structure: 0.4908145258306693, average clustering coef random: 0.0528462332301341
+clustered graph, size: 3329first eig: 19.142483286530943 second eig:18.93913431803066 spectral gap: 0.20334896850028272
+gamma fitted graph first eig: 2.1745715518933504 second eig: 2.187006962433734 spectral gap: -0.01243541054038344
+ average clustering coefficient structure: 0.4985555918899048, average clustering coef random: 0.05173063431733817
+clustered graph, size: 3316first eig: 19.19853739047685 second eig:19.081400535289998 spectral gap: 0.11713685518685324
+gamma fitted graph first eig: 2.2415195218793498 second eig: 2.2453111132526375 spectral gap: -0.0037915913732877726
+ average clustering coefficient structure: 0.4993952222199267, average clustering coef random: 0.05194305585376519
+clustered graph, size: 3226first eig: 19.42562275108076 second eig:19.311415298217547 spectral gap: 0.11420745286321221
+gamma fitted graph first eig: 2.177418823934045 second eig: 2.181746347069614 spectral gap: -0.004327523135569056
+ average clustering coefficient structure: 0.49739201996721766, average clustering coef random: 0.05249139953563565
+clustered graph, size: 3246first eig: 18.842850992663703 second eig:18.648386512807342 spectral gap: 0.19446447985636084
+gamma fitted graph first eig: 2.214189875496623 second eig: 2.2277345855903135 spectral gap: -0.013544710093690515
+ average clustering coefficient structure: 0.49989686422626745, average clustering coef random: 0.05210229371769468
+clustered graph, size: 3373first eig: 19.132335461074508 second eig:18.560489026064936 spectral gap: 0.5718464350095722
+gamma fitted graph first eig: 2.2384219820339366 second eig: 2.2502868409893426 spectral gap: -0.01186485895540601
+ average clustering coefficient structure: 0.5027624508676416, average clustering coef random: 0.0518363370576957
+clustered graph, size: 3368first eig: 19.665369140150226 second eig:19.525970636878373 spectral gap: 0.13939850327185255
+gamma fitted graph first eig: 2.3509179960391906 second eig: 2.363517055360738 spectral gap: -0.012599059321547479
+ average clustering coefficient structure: 0.5010802376646682, average clustering coef random: 0.05148151831786836
+clustered graph, size: 3380first eig: 18.68863347141161 second eig:18.01287734769536 spectral gap: 0.6757561237162513
+gamma fitted graph first eig: 2.067568722529941 second eig: 2.0747676679362335 spectral gap: -0.007198945406292623
+ average clustering coefficient structure: 0.5028001767733369, average clustering coef random: 0.0515723699377546
+clustered graph, size: 3235first eig: 18.636336958557887 second eig:18.5662340807619 spectral gap: 0.07010287779598556
+gamma fitted graph first eig: 2.2747717342672042 second eig: 2.305228717304194 spectral gap: -0.030456983036989627
+ average clustering coefficient structure: 0.4927988161620133, average clustering coef random: 0.05221100085340219
+clustered graph, size: 3250first eig: 18.876828737645425 second eig:18.840338286222753 spectral gap: 0.036490451422672265
+gamma fitted graph first eig: 2.1824724601471726 second eig: 2.2057839249080615 spectral gap: -0.023311464760888967
+ average clustering coefficient structure: 0.4952558169965922, average clustering coef random: 0.052090243708819525
+clustered graph, size: 3270first eig: 18.633242621782863 second eig:18.483641489896584 spectral gap: 0.14960113188627844
+gamma fitted graph first eig: 2.251859409807008 second eig: 2.2601786126968366 spectral gap: -0.00831920288982868
+ average clustering coefficient structure: 0.5000004671568745, average clustering coef random: 0.05231065880167874
+clustered graph, size: 3331first eig: 18.583983563844136 second eig:18.38596697775436 spectral gap: 0.1980165860897749
+gamma fitted graph first eig: 2.174454167019277 second eig: 2.185319549776987 spectral gap: -0.010865382757709874
+ average clustering coefficient structure: 0.4964090170646168, average clustering coef random: 0.05138830636435239
+clustered graph, size: 3254first eig: 18.748824741560718 second eig:18.691672187021457 spectral gap: 0.05715255453926105
+gamma fitted graph first eig: 2.168519834739561 second eig: 2.1743082709301373 spectral gap: -0.005788436190576451
+ average clustering coefficient structure: 0.4984410096453735, average clustering coef random: 0.052727126335374484
+clustered graph, size: 3341first eig: 18.63737594746182 second eig:18.518170005369736 spectral gap: 0.11920594209208346
+gamma fitted graph first eig: 2.2235428227043927 second eig: 2.229337207785366 spectral gap: -0.005794385080973186
+ average clustering coefficient structure: 0.5002630147665843, average clustering coef random: 0.0515896356458686
+clustered graph, size: 3384first eig: 18.683998969690457 second eig:18.411931890494746 spectral gap: 0.27206707919571116
+gamma fitted graph first eig: 2.175224013408974 second eig: 2.1958495090009893 spectral gap: -0.02062549559201532
+ average clustering coefficient structure: 0.4955946229191015, average clustering coef random: 0.050518329219495804
+clustered graph, size: 3208first eig: 18.315265382803993 second eig:18.08492581480325 spectral gap: 0.23033956800074407
+gamma fitted graph first eig: 2.1013134180532593 second eig: 2.1038440396139464 spectral gap: -0.002530621560687063
+ average clustering coefficient structure: 0.4902874201254183, average clustering coef random: 0.051797433810683
+clustered graph, size: 3268first eig: 18.533181966637223 second eig:18.25840812122955 spectral gap: 0.27477384540767247
+gamma fitted graph first eig: 2.107271395965135 second eig: 2.1250286691755393 spectral gap: -0.017757273210404545
+ average clustering coefficient structure: 0.49487905842569396, average clustering coef random: 0.05168087076356019
+clustered graph, size: 3283first eig: 18.32928230755802 second eig:18.24086126232327 spectral gap: 0.08842104523474958
+gamma fitted graph first eig: 2.2148039723774793 second eig: 2.2256338038066157 spectral gap: -0.010829831429136405
+ average clustering coefficient structure: 0.49193251857106285, average clustering coef random: 0.05142788187779757
+clustered graph, size: 3301first eig: 17.977495133756303 second eig:17.86560996037975 spectral gap: 0.11188517337655313
+gamma fitted graph first eig: 2.0868684078638986 second eig: 2.090705456039532 spectral gap: -0.003837048175633573
+ average clustering coefficient structure: 0.49459240642837127, average clustering coef random: 0.05119672912998272
+clustered graph, size: 3239first eig: 19.283662564246136 second eig:19.251485366672586 spectral gap: 0.03217719757354942
+gamma fitted graph first eig: 2.1670554637907458 second eig: 2.1845281307331947 spectral gap: -0.017472666942448978
+ average clustering coefficient structure: 0.49345785982006, average clustering coef random: 0.05230306157550733
+clustered graph, size: 3399first eig: 19.293233068655738 second eig:19.25651361471536 spectral gap: 0.036719453940378344
+gamma fitted graph first eig: 2.2310855730694246 second eig: 2.2393715923694355 spectral gap: -0.008286019300010938
+ average clustering coefficient structure: 0.4990863797403133, average clustering coef random: 0.05091121414082866
+clustered graph, size: 3415first eig: 18.58138926731668 second eig:18.376674786847786 spectral gap: 0.20471448046889407
+gamma fitted graph first eig: 2.2093631698139884 second eig: 2.223321461075221 spectral gap: -0.013958291261232603
+ average clustering coefficient structure: 0.5074479589776945, average clustering coef random: 0.05180738083453282
+clustered graph, size: 3161first eig: 18.515497321724006 second eig:18.468197698747137 spectral gap: 0.04729962297686896
+gamma fitted graph first eig: 2.0830802431305915 second eig: 2.0888970267391396 spectral gap: -0.005816783608548093
+ average clustering coefficient structure: 0.4901951504564435, average clustering coef random: 0.05252666357978677
+clustered graph, size: 3209first eig: 19.377010110981796 second eig:19.264279955440315 spectral gap: 0.11273015554148103
+gamma fitted graph first eig: 2.2145062400547744 second eig: 2.2326211046070794 spectral gap: -0.018114864552305043
+ average clustering coefficient structure: 0.4969148523135663, average clustering coef random: 0.052969075779958456
+clustered graph, size: 3301first eig: 18.697156111674598 second eig:18.633959717074855 spectral gap: 0.06319639459974269
+gamma fitted graph first eig: 2.1110868603872603 second eig: 2.1218964979504755 spectral gap: -0.01080963756321518
+ average clustering coefficient structure: 0.49467623463862426, average clustering coef random: 0.05194440728463894
+clustered graph, size: 3315first eig: 18.911059368881915 second eig:18.86325618021182 spectral gap: 0.0478031886700947
+gamma fitted graph first eig: 2.1961126483890405 second eig: 2.212960958176579 spectral gap: -0.016848309787538263
+ average clustering coefficient structure: 0.4945079546891003, average clustering coef random: 0.051626651895408056
+clustered graph, size: 3221first eig: 18.13545728105211 second eig:18.106420619182156 spectral gap: 0.02903666186995224
+gamma fitted graph first eig: 2.1521898737312855 second eig: 2.1680954432992254 spectral gap: -0.01590556956793998
+ average clustering coefficient structure: 0.48957052420436353, average clustering coef random: 0.05228648186668316
+clustered graph, size: 3225first eig: 18.838307804573446 second eig:18.683245328925064 spectral gap: 0.15506247564838205
+gamma fitted graph first eig: 2.137955046499448 second eig: 2.1560923749689187 spectral gap: -0.01813732846947058
+ average clustering coefficient structure: 0.4888718521400604, average clustering coef random: 0.05185519807104038
+clustered graph, size: 3363first eig: 18.659395955771764 second eig:18.520987421096113 spectral gap: 0.1384085346756514
+gamma fitted graph first eig: 2.1838223460323998 second eig: 2.1958863507272937 spectral gap: -0.012064004694893882
+ average clustering coefficient structure: 0.5012794429482589, average clustering coef random: 0.05142657989843158
+clustered graph, size: 3325first eig: 19.17672513109312 second eig:19.115793282179695 spectral gap: 0.060931848913426734
+gamma fitted graph first eig: 2.1982067985434046 second eig: 2.210495042745967 spectral gap: -0.01228824420256247
+ average clustering coefficient structure: 0.4947208034040159, average clustering coef random: 0.05142923518984672
+clustered graph, size: 3322first eig: 18.579934517356506 second eig:18.505490537414765 spectral gap: 0.07444397994174068
+gamma fitted graph first eig: 2.1741555172512466 second eig: 2.188075800401329 spectral gap: -0.013920283150082646
+ average clustering coefficient structure: 0.4940922770892316, average clustering coef random: 0.05127728032962028
+clustered graph, size: 3256first eig: 19.291394818391407 second eig:18.944890095008173 spectral gap: 0.3465047233832337
+gamma fitted graph first eig: 2.194944914567212 second eig: 2.202438271038406 spectral gap: -0.007493356471193646
+ average clustering coefficient structure: 0.49904466786535107, average clustering coef random: 0.052229283639932435
+clustered graph, size: 3288first eig: 18.58692407244643 second eig:18.097815766206764 spectral gap: 0.4891083062396646
+gamma fitted graph first eig: 2.14775864341012 second eig: 2.170257841792803 spectral gap: -0.022499198382682994
+ average clustering coefficient structure: 0.4938951688480458, average clustering coef random: 0.051747337846114884
+clustered graph, size: 3292first eig: 18.400361037851983 second eig:18.311043192072596 spectral gap: 0.08931784577938728
+gamma fitted graph first eig: 2.125358665159758 second eig: 2.1332684242807316 spectral gap: -0.007909759120973803
+ average clustering coefficient structure: 0.4898688125270134, average clustering coef random: 0.05138792231095916
+clustered graph, size: 3197first eig: 19.038169715869454 second eig:18.58629758311028 spectral gap: 0.45187213275917415
+gamma fitted graph first eig: 2.1708344433116666 second eig: 2.1729445961280813 spectral gap: -0.00211015281641469
+ average clustering coefficient structure: 0.4890813244570379, average clustering coef random: 0.0522021635457918
+clustered graph, size: 3277first eig: 18.844439631027708 second eig:18.522543941715238 spectral gap: 0.3218956893124698
+gamma fitted graph first eig: 2.1424057053479153 second eig: 2.1573591766883546 spectral gap: -0.01495347134043934
+ average clustering coefficient structure: 0.4946910739429213, average clustering coef random: 0.051829716579844524
+clustered graph, size: 3335first eig: 18.550497859637407 second eig:18.390185293661407 spectral gap: 0.16031256597599963
+gamma fitted graph first eig: 2.170620788338835 second eig: 2.192140173463603 spectral gap: -0.021519385124767698
+ average clustering coefficient structure: 0.5009017612585803, average clustering coef random: 0.051630692526968475
+clustered graph, size: 3268first eig: 18.710860910939473 second eig:18.666664611571754 spectral gap: 0.044196299367719405
+gamma fitted graph first eig: 2.1632553003209476 second eig: 2.170868429276192 spectral gap: -0.007613128955244353
+ average clustering coefficient structure: 0.49281625482329144, average clustering coef random: 0.05153290607994669
+clustered graph, size: 3267first eig: 18.60258956232309 second eig:18.53868087811411 spectral gap: 0.06390868420897888
+gamma fitted graph first eig: 2.228672968208213 second eig: 2.2358548548806136 spectral gap: -0.007181886672400495
+ average clustering coefficient structure: 0.48814998869523196, average clustering coef random: 0.051091762018228445
+clustered graph, size: 3398first eig: 19.262606031839688 second eig:18.981040658476008 spectral gap: 0.28156537336368004
+gamma fitted graph first eig: 2.2271814598261677 second eig: 2.253012292424966 spectral gap: -0.02583083259879837
+ average clustering coefficient structure: 0.5038777373214399, average clustering coef random: 0.05148308485640517
+clustered graph, size: 3247first eig: 19.448458072369256 second eig:18.60434155495847 spectral gap: 0.8441165174107859
+gamma fitted graph first eig: 2.2167720171663388 second eig: 2.2268594273211875 spectral gap: -0.010087410154848708
+ average clustering coefficient structure: 0.49049116539029186, average clustering coef random: 0.052136299165764295
+clustered graph, size: 3327first eig: 18.790507533230468 second eig:18.743116384639563 spectral gap: 0.04739114859090421
+gamma fitted graph first eig: 2.188735867499482 second eig: 2.2082006345529592 spectral gap: -0.019464767053477328
+ average clustering coefficient structure: 0.5020323349018676, average clustering coef random: 0.052279460845736654
+clustered graph, size: 3328first eig: 17.77296817940375 second eig:17.631650474271517 spectral gap: 0.1413177051322343
+gamma fitted graph first eig: 2.1452710642754753 second eig: 2.1634453908893905 spectral gap: -0.01817432661391516
+ average clustering coefficient structure: 0.48612701278038845, average clustering coef random: 0.05032335337554457
+clustered graph, size: 3273first eig: 18.956673162437934 second eig:18.83008347166907 spectral gap: 0.1265896907688635
+gamma fitted graph first eig: 2.1286169883285173 second eig: 2.143376812455381 spectral gap: -0.01475982412686383
+ average clustering coefficient structure: 0.4926527006678641, average clustering coef random: 0.051316613509960037
+clustered graph, size: 3231first eig: 19.58176162215199 second eig:19.49686019913845 spectral gap: 0.08490142301354098
+gamma fitted graph first eig: 2.2333367264632584 second eig: 2.2439403123842254 spectral gap: -0.010603585920966996
+ average clustering coefficient structure: 0.49466831865300026, average clustering coef random: 0.05238999325629152
+clustered graph, size: 3161first eig: 19.275719710633847 second eig:19.010471100140446 spectral gap: 0.2652486104934013
+gamma fitted graph first eig: 2.227834759093917 second eig: 2.235556527696578 spectral gap: -0.007721768602660717
+ average clustering coefficient structure: 0.48778641327647493, average clustering coef random: 0.05223692210010829
+clustered graph, size: 3285first eig: 19.03755543124062 second eig:18.95344516584619 spectral gap: 0.084110265394429
+gamma fitted graph first eig: 2.2850474979692597 second eig: 2.307078020584942 spectral gap: -0.02203052261568228
+ average clustering coefficient structure: 0.49283822030549235, average clustering coef random: 0.05117219522971705
+clustered graph, size: 3345first eig: 18.36517892944464 second eig:18.339121022089156 spectral gap: 0.026057907355482968
+gamma fitted graph first eig: 2.1705561080058224 second eig: 2.1794568726490486 spectral gap: -0.0089007646432262
+ average clustering coefficient structure: 0.4946981376165154, average clustering coef random: 0.05076503961959343
+clustered graph, size: 3226first eig: 18.821776946840302 second eig:18.786311495647166 spectral gap: 0.03546545119313649
+gamma fitted graph first eig: 2.2359533589462646 second eig: 2.2531551681117983 spectral gap: -0.01720180916553371
+ average clustering coefficient structure: 0.5011681153468556, average clustering coef random: 0.05308720057250947
+clustered graph, size: 3278first eig: 19.47579624398433 second eig:19.400183144226276 spectral gap: 0.07561309975805486
+gamma fitted graph first eig: 2.262218781071117 second eig: 2.2779757226527835 spectral gap: -0.015756941581666517
+ average clustering coefficient structure: 0.4985161997591105, average clustering coef random: 0.05216601636363812
+clustered graph, size: 3357first eig: 18.92143221296235 second eig:18.748100497664424 spectral gap: 0.1733317152979268
+gamma fitted graph first eig: 2.202338324909019 second eig: 2.218282349213673 spectral gap: -0.015944024304654025
+ average clustering coefficient structure: 0.49593542775132454, average clustering coef random: 0.05098459729764753
+clustered graph, size: 3289first eig: 18.537113190641936 second eig:18.5146647097934 spectral gap: 0.022448480848535013
+gamma fitted graph first eig: 2.1453250971202107 second eig: 2.1627773373956103 spectral gap: -0.0174522402753996
+ average clustering coefficient structure: 0.49764635108612626, average clustering coef random: 0.05208232632503221
+clustered graph, size: 3358first eig: 18.304125530667115 second eig:18.15388773909734 spectral gap: 0.15023779156977568
+gamma fitted graph first eig: 2.1454011292024093 second eig: 2.1491487895175836 spectral gap: -0.0037476603151742616
+ average clustering coefficient structure: 0.500181943359653, average clustering coef random: 0.05130964488458198
+clustered graph, size: 3344first eig: 18.816121982019272 second eig:18.541565949589035 spectral gap: 0.27455603243023674
+gamma fitted graph first eig: 2.20198066189926 second eig: 2.204895667775786 spectral gap: -0.0029150058765257114
+ average clustering coefficient structure: 0.5048287956647026, average clustering coef random: 0.05210473886161695
+clustered graph, size: 3333first eig: 18.885628512194312 second eig:18.816405054623992 spectral gap: 0.06922345757032033
+gamma fitted graph first eig: 2.2205519500512034 second eig: 2.2444196663750304 spectral gap: -0.023867716323827004
+ average clustering coefficient structure: 0.49909427675453966, average clustering coef random: 0.05185841649404097
+clustered graph, size: 3268first eig: 18.501983979406884 second eig:18.433296259643257 spectral gap: 0.06868771976362709
+gamma fitted graph first eig: 2.2177383539399 second eig: 2.226738842774727 spectral gap: -0.00900048883482718
+ average clustering coefficient structure: 0.49841198832286854, average clustering coef random: 0.05269793839257501
+clustered graph, size: 3316first eig: 19.25271716479685 second eig:19.136825098341845 spectral gap: 0.11589206645500383
+gamma fitted graph first eig: 2.175332340605846 second eig: 2.179408892157007 spectral gap: -0.004076551551161156
+ average clustering coefficient structure: 0.49425315999159086, average clustering coef random: 0.05134631540559268
+clustered graph, size: 3195first eig: 18.75789560989936 second eig:18.394773891712756 spectral gap: 0.3631217181866049
+gamma fitted graph first eig: 2.152412227485123 second eig: 2.1648690169136175 spectral gap: -0.012456789428494375
+ average clustering coefficient structure: 0.49405650393486994, average clustering coef random: 0.05305096282633995
+clustered graph, size: 3244first eig: 18.371991220549322 second eig:18.364218814693757 spectral gap: 0.0077724058555652675
+gamma fitted graph first eig: 2.11091175201039 second eig: 2.120790395117661 spectral gap: -0.009878643107271046
+ average clustering coefficient structure: 0.4955941207507987, average clustering coef random: 0.05176963291463576
+clustered graph, size: 3321first eig: 18.741415055566385 second eig:18.33719377945275 spectral gap: 0.4042212761136348
+gamma fitted graph first eig: 2.083763542851602 second eig: 2.0937489716591426 spectral gap: -0.009985428807540497
+ average clustering coefficient structure: 0.49943859499389787, average clustering coef random: 0.05186755275964247
+clustered graph, size: 3319first eig: 19.011278083819636 second eig:18.787330995825947 spectral gap: 0.22394708799368956
+gamma fitted graph first eig: 2.241994913394008 second eig: 2.244585322310228 spectral gap: -0.0025904089162200883
+ average clustering coefficient structure: 0.498733160323257, average clustering coef random: 0.05143520715473808
+clustered graph, size: 3213first eig: 19.20154264701473 second eig:19.15779898546988 spectral gap: 0.04374366154484832
+gamma fitted graph first eig: 2.200994527522239 second eig: 2.217890709069431 spectral gap: -0.01689618154719197
+ average clustering coefficient structure: 0.4928931555936033, average clustering coef random: 0.05259208455268255
+clustered graph, size: 3266first eig: 18.428055137560566 second eig:18.405417331757707 spectral gap: 0.02263780580285868
+gamma fitted graph first eig: 2.1483081182559 second eig: 2.156754437200084 spectral gap: -0.008446318944184128
+ average clustering coefficient structure: 0.4938297397165182, average clustering coef random: 0.05201102665520382
+clustered graph, size: 3404first eig: 19.143895752193707 second eig:19.037503290526683 spectral gap: 0.10639246166702421
+gamma fitted graph first eig: 2.2337987939173645 second eig: 2.2513497768327637 spectral gap: -0.01755098291539925
+ average clustering coefficient structure: 0.5042652764676845, average clustering coef random: 0.05125019076106026
+clustered graph, size: 3343first eig: 18.491620323373297 second eig:18.412370459760723 spectral gap: 0.07924986361257425
+gamma fitted graph first eig: 2.160390411714761 second eig: 2.1862483411933566 spectral gap: -0.025857929478595665
+ average clustering coefficient structure: 0.49645110590043134, average clustering coef random: 0.05097890536050112
+clustered graph, size: 3271first eig: 19.307397841990547 second eig:19.14340382968279 spectral gap: 0.16399401230775723
+gamma fitted graph first eig: 2.1242385249574336 second eig: 2.1421494658152884 spectral gap: -0.01791094085785483
+ average clustering coefficient structure: 0.4953119183900909, average clustering coef random: 0.05167194016971088
+clustered graph, size: 3240first eig: 18.76877526978208 second eig:18.558892196986157 spectral gap: 0.20988307279592178
+gamma fitted graph first eig: 2.1731892122474097 second eig: 2.176661722476566 spectral gap: -0.0034725102291561782
+ average clustering coefficient structure: 0.4966840861562529, average clustering coef random: 0.05250773178999747
+clustered graph, size: 3372first eig: 18.585908180677098 second eig:18.30399664241329 spectral gap: 0.28191153826380955
+gamma fitted graph first eig: 2.179679727630183 second eig: 2.1835580609485783 spectral gap: -0.003878333318395377
+ average clustering coefficient structure: 0.4973613259310531, average clustering coef random: 0.051340392335606284
+clustered graph, size: 3265first eig: 18.323799156939597 second eig:17.954842397626035 spectral gap: 0.3689567593135621
+gamma fitted graph first eig: 2.0758434994262727 second eig: 2.0855605172010234 spectral gap: -0.009717017774750758
+ average clustering coefficient structure: 0.4883690908299865, average clustering coef random: 0.051446316739949316
+clustered graph, size: 3304first eig: 16.199396992887724 second eig:15.991357647987137 spectral gap: 0.2080393449005875
+gamma fitted graph first eig: 1.963394655711962 second eig: 1.9732347431476192 spectral gap: -0.00984008743565723
+ average clustering coefficient structure: 0.492091326088485, average clustering coef random: 0.051175483574339646
+clustered graph, size: 3323first eig: 16.291246780321853 second eig:16.03813490635375 spectral gap: 0.253111873968102
+gamma fitted graph first eig: 2.0087657988382825 second eig: 2.0398071431548783 spectral gap: -0.031041344316595776
+ average clustering coefficient structure: 0.4942350948843518, average clustering coef random: 0.05081901149844947
+clustered graph, size: 3388first eig: 16.271674468665047 second eig:16.233153675556256 spectral gap: 0.038520793108791196
+gamma fitted graph first eig: 2.0624671304876965 second eig: 2.0720317284344536 spectral gap: -0.009564597946757125
+ average clustering coefficient structure: 0.49473487556870205, average clustering coef random: 0.05053218756948478
+clustered graph, size: 3325first eig: 16.221501675834116 second eig:16.14724116319245 spectral gap: 0.07426051264166489
+gamma fitted graph first eig: 1.9882162574978999 second eig: 2.000128949211263 spectral gap: -0.011912691713363177
+ average clustering coefficient structure: 0.4939790192030354, average clustering coef random: 0.0510803937628651
+clustered graph, size: 3240first eig: 16.304020528533762 second eig:16.109381859491624 spectral gap: 0.19463866904213845
+gamma fitted graph first eig: 2.092405237190822 second eig: 2.1080852365673053 spectral gap: -0.015679999376483345
+ average clustering coefficient structure: 0.49685300539539323, average clustering coef random: 0.05256219431726028
+clustered graph, size: 3243first eig: 16.432845390806357 second eig:16.344976929269368 spectral gap: 0.08786846153698846
+gamma fitted graph first eig: 2.1023623609589963 second eig: 2.13569373641587 spectral gap: -0.03333137545687359
+ average clustering coefficient structure: 0.493961416174544, average clustering coef random: 0.05284261023774304
+clustered graph, size: 3288first eig: 16.02589703708557 second eig:15.889237228688383 spectral gap: 0.13665980839718728
+gamma fitted graph first eig: 1.9108438733036408 second eig: 1.9193862004972078 spectral gap: -0.008542327193566956
+ average clustering coefficient structure: 0.49605316112532, average clustering coef random: 0.05140128659992612
+clustered graph, size: 3314first eig: 16.927016871091148 second eig:16.83716589168022 spectral gap: 0.08985097941092945
+gamma fitted graph first eig: 2.002411926227897 second eig: 2.013778987858832 spectral gap: -0.011367061630934927
+ average clustering coefficient structure: 0.50193842276564, average clustering coef random: 0.05230052531282401
+clustered graph, size: 3205first eig: 16.182210984495953 second eig:16.087184189627017 spectral gap: 0.09502679486893584
+gamma fitted graph first eig: 1.9279334151134084 second eig: 1.9331557814735927 spectral gap: -0.00522236636018425
+ average clustering coefficient structure: 0.49002140873846084, average clustering coef random: 0.052235703976430445
+clustered graph, size: 3241first eig: 17.315845253763843 second eig:17.283125974175498 spectral gap: 0.03271927958834553
+gamma fitted graph first eig: 2.021328091707715 second eig: 2.045297052377448 spectral gap: -0.023968960669732642
+ average clustering coefficient structure: 0.4920291242103343, average clustering coef random: 0.05191801054901222
+clustered graph, size: 3264first eig: 17.085047103299562 second eig:17.041231377967705 spectral gap: 0.04381572533185718
+gamma fitted graph first eig: 2.093801299105078 second eig: 2.1079486564472467 spectral gap: -0.014147357342168654
+ average clustering coefficient structure: 0.4956441471957433, average clustering coef random: 0.05222370721034222
+clustered graph, size: 3223first eig: 16.752880786826335 second eig:16.36639060300631 spectral gap: 0.3864901838200261
+gamma fitted graph first eig: 1.9213671408398574 second eig: 1.9227166648460503 spectral gap: -0.001349524006192926
+ average clustering coefficient structure: 0.4853796130614052, average clustering coef random: 0.050899969720644915
+clustered graph, size: 3242first eig: 16.013704218768076 second eig:15.885998512828785 spectral gap: 0.12770570593929165
+gamma fitted graph first eig: 1.9740676422373904 second eig: 1.9857993230262807 spectral gap: -0.011731680788890309
+ average clustering coefficient structure: 0.4910388397057985, average clustering coef random: 0.05181876918696545
+clustered graph, size: 3173first eig: 16.839545636514444 second eig:16.52761643099698 spectral gap: 0.3119292055174654
+gamma fitted graph first eig: 2.0264493022378747 second eig: 2.04258690294 spectral gap: -0.016137600702125443
+ average clustering coefficient structure: 0.48812313551358455, average clustering coef random: 0.0524154967719777
+clustered graph, size: 3272first eig: 17.491948217236306 second eig:17.48294621647758 spectral gap: 0.009002000758727036
+gamma fitted graph first eig: 2.0089988005432557 second eig: 2.0143366108555933 spectral gap: -0.005337810312337599
+ average clustering coefficient structure: 0.4928565354599189, average clustering coef random: 0.051747510225297194
+clustered graph, size: 3226first eig: 15.965363393567836 second eig:15.90713826827111 spectral gap: 0.05822512529672608
+gamma fitted graph first eig: 1.9396109215723225 second eig: 1.9454665854643356 spectral gap: -0.0058556638920130855
+ average clustering coefficient structure: 0.48803699515522764, average clustering coef random: 0.051765518329255494
+clustered graph, size: 3168first eig: 16.661272037261575 second eig:16.383059035825674 spectral gap: 0.2782130014359012
+gamma fitted graph first eig: 2.024147691302191 second eig: 2.035889928307191 spectral gap: -0.011742237004999989
+ average clustering coefficient structure: 0.48709118323219686, average clustering coef random: 0.05238886404679836
+clustered graph, size: 3375first eig: 16.282577078681328 second eig:16.06602815815904 spectral gap: 0.21654892052228902
+gamma fitted graph first eig: 2.0231371536223106 second eig: 2.028714559631827 spectral gap: -0.005577406009516395
+ average clustering coefficient structure: 0.4957939251690022, average clustering coef random: 0.0512762356127285
+clustered graph, size: 3305first eig: 17.339702022870455 second eig:17.189603957430144 spectral gap: 0.1500980654403108
+gamma fitted graph first eig: 2.1126649370588755 second eig: 2.1234883326625464 spectral gap: -0.01082339560367096
+ average clustering coefficient structure: 0.49339273401347494, average clustering coef random: 0.05152511155099887
+clustered graph, size: 3337first eig: 16.49809248045572 second eig:16.436332783325135 spectral gap: 0.06175969713058649
+gamma fitted graph first eig: 2.0055536630359296 second eig: 2.0138723393820843 spectral gap: -0.008318676346154685
+ average clustering coefficient structure: 0.50277565717015, average clustering coef random: 0.05154258559555078
+clustered graph, size: 3331first eig: 15.73081393586538 second eig:15.698982299754471 spectral gap: 0.031831636110908335
+gamma fitted graph first eig: 1.922121767550951 second eig: 1.9277900782689308 spectral gap: -0.0056683107179797965
+ average clustering coefficient structure: 0.49786110330492644, average clustering coef random: 0.051363010589367944
+clustered graph, size: 3323first eig: 17.261896777751414 second eig:17.058782309532234 spectral gap: 0.2031144682191801
+gamma fitted graph first eig: 2.081232031888348 second eig: 2.0924963587339946 spectral gap: -0.01126432684564671
+ average clustering coefficient structure: 0.4942268521831242, average clustering coef random: 0.051570523288571375
+clustered graph, size: 3371first eig: 16.48689681659105 second eig:16.414610270596654 spectral gap: 0.07228654599439466
+gamma fitted graph first eig: 2.0637260938060282 second eig: 2.0802372704780767 spectral gap: -0.01651117667204849
+ average clustering coefficient structure: 0.4997310601700774, average clustering coef random: 0.05134991731383899
+clustered graph, size: 3330first eig: 16.14193004517318 second eig:15.977223048152641 spectral gap: 0.16470699702053793
+gamma fitted graph first eig: 2.0247802229495107 second eig: 2.033067079881163 spectral gap: -0.00828685693165232
+ average clustering coefficient structure: 0.4999098313387435, average clustering coef random: 0.05194224766638541
+clustered graph, size: 3336first eig: 16.575013336368944 second eig:16.144161814889607 spectral gap: 0.4308515214793367
+gamma fitted graph first eig: 2.038814329765807 second eig: 2.0523216763481917 spectral gap: -0.013507346582384727
+ average clustering coefficient structure: 0.4961913571189835, average clustering coef random: 0.050995494913738657

@@ -1,4 +1,4 @@
-function filename = saveGraph(g, ax)
+function filename = saveGraph(g, ax, types)
     % function for saving graph into folder of graphs.
     if nargin <= 1
         ax = gca;
@@ -21,6 +21,9 @@ function filename = saveGraph(g, ax)
     if isempty(ttl)
         ttl = "graph";
     end
+    if size(ttl, 1) > 1 % multiline titles.
+        ttl = ttl(1, :);
+    end
     if contains(ttl, "\")
         % latex symbols.
         ttl = erase(ttl, ["_", ",","\"]);
@@ -28,5 +31,7 @@ function filename = saveGraph(g, ax)
     filename = fullfile(fdr,ttl);
     savefig(g,filename +".fig");
     saveas(g,filename+".eps","epsc");
-%     saveas(g,filename+".emf");
+    if nargin == 3
+        saveas(g,filename+"."+types);
+    end
 end

@@ -15,7 +15,7 @@ function err = getErrorFromParam(xinit, param, tdata,...
         case "caution"
 
     end
-    [x,t]=SEIRodeSolver_YR([min(tdata) max(tdata)],param,xinit);
+    [x,t]=SEIR.SEIRodeSolver_YR([min(tdata) max(tdata)],param,xinit);
 
     switch(lower(DataName))
         case "inf"

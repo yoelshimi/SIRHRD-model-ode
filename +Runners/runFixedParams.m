@@ -57,7 +57,7 @@ for iter1 = 1:NitersRisk
         p_cautious = parts_cautious(iter2); %  1 - parts_susc(iter1); 
         p_risk     = parts_susc(iter1);
         % !! NOTICE this 29.12.21
-        validCR   = Correlation.getMinMaxCorrs(p_risk, p_cautious);
+        validCR      = Correlation.getMinMaxCorrs(p_risk, p_cautious);
         pBfromSvalid = pBfromS(pBfromS >= validCR.minCR / p_risk & ...
             pBfromS <= validCR.maxCR / p_risk);
         NitersCorrValid = numel(pBfromSvalid);

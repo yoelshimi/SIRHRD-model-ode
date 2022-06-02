@@ -1,6 +1,0 @@
-function res = isEqualTol(x, y)
-    % function checks if they are equal to within tolerance of values.
-    
-    res = abs(x - y) < 1.2*max([eps(x), eps(y), eps, ...
-        eps * max(x,[], "all"), eps * max(y,[], "all")]);
-end

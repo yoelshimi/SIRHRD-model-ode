@@ -1,4 +1,3 @@
-
 function [rates, err, x, t, gofs, runInputs] = testVaxDecrease(vaxEfficiency, p_cautious,...
     SimInput, infections, hospitalized, extra_input)
     betaList = [vaxEfficiency.^2, vaxEfficiency ,1];
@@ -15,7 +14,7 @@ function [rates, err, x, t, gofs, runInputs] = testVaxDecrease(vaxEfficiency, p_
         xinit(9:12) = hosp_0;
         xinit = xinit * s / sum(xinit);
     end
-    [x,t]=SEIRodeSolver_YR(tspan,param,xinit);
+    [x,t]=SEIR.SEIRodeSolver_YR(tspan,param,xinit);
     runInputs = struct("tspan", tspan, "param", param, "xinit", xinit);
     
     dInfs_est = sum(x(:,5:8), 2);
@@ -31,8 +30,8 @@ function [rates, err, x, t, gofs, runInputs] = testVaxDecrease(vaxEfficiency, p_
     
     t_test = tspan(1):tspan(end);
     fittedDataOld = [infections, hospitalized];
-    fittedDataNew = [expFitVals(fits(1), t_test), ...
-        expFitVals(fits(2), t_test)];
+    fittedDataNew = [VaxOffset.expFitVals(fits(1), t_test), ...
+        VaxOffset.expFitVals(fits(2), t_test)];
     
     err = sqrt(sum(fittedDataOld.^2 - fittedDataNew.^2,1)) ./ norm(fittedDataOld);
 

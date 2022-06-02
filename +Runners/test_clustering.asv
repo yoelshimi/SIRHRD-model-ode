@@ -1,0 +1,13 @@
+nTries = 50;
+nDims = 7;
+d = 12;
+C = zeros(nTries, nDims);
+for iter = 1 : nTries
+    for iter2 = 1 : nDims
+        A = Classical.createRandRegGraph(round(10^(1+nDims/5)), d);
+        s = sum(A);
+        C(iter, iter2) = trace(A^3) / (s * (s - 1)');
+        C2(iter, iter2) = trace(A^3) / (d * (d - 1) * 
+    end
+    disp(iter)
+end
