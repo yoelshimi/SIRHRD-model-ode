@@ -48,11 +48,8 @@ end
 space = " ";
 command = "python"
 run_file = "basic_run.py"
-families = 1e3;
+families = 10.^(1:4);
 sim_duration = 60;
-if ~exist('p_susc','var')
-    p_susc = 0.3;
-end
 R = 3;
 gamma = 1/10;% recovery rate
 beta = R*gamma;
@@ -80,7 +77,7 @@ if ~isfolder(fileparts(output_filename))
     mkdir("israel population graph"+fdrName);
     mkdir("random graph"+fdrName);
 end
-corrs = linspace(0,1,21); %  -1:0.1:1;
+corrs = 0.5;
 Niter2 = 5;
 Niter1 = length(corrs);
 RGmode = "sb"  
@@ -103,7 +100,7 @@ if 1
                 +gamma+" -f "+freq+" -n_i "+sim_duration+" -b_l "+b_l(1)+" "+b_l(2)+" "+b_l(3)+...
                 " -g_h "+gammaH + " -p_h_l "+p_h_l(1)+" "+p_h_l(2)+" -p_d_l "+pD_l(1)+" "...
                 +pD_l(2)+" -sbc_l "+mat(1,1)+space+mat(1,2)+space+mat(2,1)+space + mat(2,2)+...
-                " -rng "+RGmode+" -s "+"True";     
+                " -rng "+RGmode+" -s "+"True"+" -stg "+"false";     
             [status, result] = system(to_run, "-echo");
             if status ~= 0
                 error(result);
@@ -139,11 +136,6 @@ for iter = 1 : Niter1
     for iter2 = Niter2:-1:1
         thisOutName = output_filename+iter+"_"+iter2;
         disp(thisOutName);
-        [P(iter,iter2), S(iter,iter2), H(iter,iter2), D(iter,iter2), I(iter,iter2)] = ...
-            Utilities.read_sb_output(thisOutName+"_sb.txt");
-        tabS(iter,iter2) = {csvread("israel population graph"+thisOutName+".csv")};
-        [R0growthS(iter,iter2), R0RatioS(iter,iter2), qualS(iter,iter2)] = ...
-            Estimation.estimateR0FromCSV(tabS{iter,iter2},freq,gamma);
         if RGmode == "sb"
             [Pr(iter,iter2), Sr(iter,iter2), Hr(iter,iter2), Dr(iter,iter2), Ir(iter,iter2)] = ...
                 Utilities.read_sb_output(thisOutName+" rnd_sb.txt");
