@@ -8,7 +8,7 @@ if isrow(res.corr)
     res.corr = res.corr' .*ones(size(res.pop));
 end
 
-T = struct2table(res,"AsArray",false);
+T = struct2table(res, "AsArray", false);
 
 T.simType(:,1)      = categorical("python");
 T.graphType(:,1)    = categorical(graphType);

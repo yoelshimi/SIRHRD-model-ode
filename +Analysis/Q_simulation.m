@@ -1,8 +1,8 @@
 % see Q variance calc.docx from statistical materials
 % num neighbors: d
 d = 4;
-init_inf = 1e-5; % 1 percent.
-N0 = 1e5; % population.
+init_inf = 1e-2; % 1 percent.
+N0 = 3.3*1e2; % population.
 % avg. weight from structured graph
 wmean = 1;%  d;%  1 %0.579;
 R0 = 3;

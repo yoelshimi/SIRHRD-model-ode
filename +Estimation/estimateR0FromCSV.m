@@ -40,6 +40,6 @@ function [R0growth, R0Ratio, qual] = ...
     
     R0growth        = f0.b;
     qual            = gof.adjrsquare;
-    finalInf        = csvData(rowInds("S"),end) / sum(csvData(:,1));
+    finalInf        = 1 - csvData(rowInds("S"),end) / sum(csvData(:,1));
     R0Ratio         = 1 / finalInf;
 end
