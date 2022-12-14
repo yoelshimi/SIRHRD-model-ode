@@ -30,6 +30,7 @@ makeTableTopoGraph(SimTnotTresponse, "dead"," NO response");
 
 makeTableTopoGraph(SimTnotTresponse, "R0"," NO response", 2, "data");
 %%
+% makes the graph of: caution vs risk with color being percent outbreak.
 pop2Percent = @(x) x * 100 / SimT.N0(1);
 f = GraphCode.makeTopoGraphGeneral(...
     SimT, "not_cautious", "p_risk", "hosp", "RnC", "min", pop2Percent);

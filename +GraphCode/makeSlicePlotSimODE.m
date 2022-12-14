@@ -3,9 +3,14 @@ slice       = ["p_risk", "p_cautious"];
 % assumes: p risk == 1 - p cautious
 values      = uniquetol(T.(slice(1))); %  [0.3 0.4];
 values2     = flip(uniquetol(T.(slice(2))));
+values2     = values2(1);
+values      = values(1);
 val2Percent = @(x) 100*str2num(cell2mat(x));
 strfun      = @(x) sprintf("%2.0f",x(end)*100);
 g           = figure; 
+if exist('p','var') && any( ~ ishghandle(p))
+    clear("p");
+end
 
 % filters out valid indices: input: table. output: filtered indices.
 constraint1 = @(x) ismembertol(x.(slice(1)), values,eps);
@@ -20,7 +25,7 @@ subtable = SimT(constraint2(SimT) & constraint1(SimT),:);
 % x = unique(subtable.corr);
 % for iter2 = 1 : numel(values2)
 for iter = 1 : numel(values)
-    iter2 = iter;
+    for iter2 = 1 : numel(values2)
     inds = ismembertol(subtable.(slice(1)), values(iter), eps);
     inds = inds & ismembertol(subtable.(slice(2)), values2(iter2),  eps);
     x{iter} = subtable.RnC(inds);
@@ -35,10 +40,11 @@ for iter = 1 : numel(values)
         "ODE model "+strfun(median(x{iter}))+"% "+"\Phi"+...
         " "+slice(1)+"="+values(iter)+...
         " "+slice(2)+"="+values2(iter2)); hold on;
+    end
 end
 % end
 % t1 = y * factor;
-p(2).Color = [0.7 0.2 0.2];
+% p(2).Color = [0.7 0.2 0.2];
 p(1).Color = [0 0.6 0];
 hold on;
 %%
@@ -50,6 +56,7 @@ subtable.(slice(1)) = categorical(subtable.(slice(1)));
 values = categories(subtable.(slice(1)));
 % subtable.(slice(2)) = categorical(subtable.(slice(2)));
 % values2 = categories(subtable.(slice(2)));
+values      = values(1);
 if true
     for iter2 = 1 : numel(values2)
         for iter = 1 : numel(values)
@@ -68,7 +75,6 @@ if true
     %         y = mean(reshape(y,numel(unique(st.corr)),[]), 2); % mean over columns
     %         
             x{iter} = reshape(unique(x{iter}, "stable"), size(mean(y{iter}, 2)));
-    %         0.85* 
             factor = 1 / (mean(subtable.N0)) * 100;%  ,7.3233 * 3.3818 *
 %             plot(x{iter}, y{iter} .* factor, "k.");
 %             [~, p(iter)] = ...
@@ -84,10 +90,10 @@ if true
         end
     end
     drawnow
-    set(p, "MarkerSize", 3);
-    set(p, "MarkerFaceColor", "w" ) ;
-    p(2).NodeChildren(1).LineWidth = 1;
-    Utilities.applyToOutputs(p, "NodeChildren", "LineWidth", 1)
+%     set(p, "MarkerSize", 3);
+%     set(p, "MarkerFaceColor", "w" ) ;
+%     p(2).NodeChildren(1).LineWidth = 1;
+    Utilities.applyToOutputs(p, "NodeChildren", "LineWidth", 2)
     hold on;
 end
 %%
@@ -112,21 +118,22 @@ if true
         p(iter) = plot(x{iter}, mean(y{iter}, 2) * factor,...
             "ko","LineStyle","none","LineWidth",2,...
             "DisplayName", "Agent structured \Phi="+strfun(x{iter})+"%");
-        p(iter).MarkerSize = 3;
+        p(iter).MarkerSize = 10;
         p(iter).Marker = "square";
     end
     drawnow
     hold on;
-    p(1).MarkerFaceColor = "w";
-    p(1).NodeChildren(1).LineWidth = 1;
-    p(2).MarkerFaceColor = "w";
-    p(2).NodeChildren(1).LineWidth = 1;
+%     p(1).MarkerFaceColor = "w";
+    p(1).NodeChildren(1).LineWidth = 2;
+%     p(2).MarkerFaceColor = "w";
+%     p(2).NodeChildren(1).LineWidth = 2;
 end
 drawnow
 %%
 % -- graph config -- %
-xlb = xlabel("\phi"); % Probability of caution if at risk
-xlb.Visible = "off"
+xlb = xlabel("\Phi"); % Probability of caution if at risk
+xlb.FontWeight = "bold"
+txt.Visible = "off";
 ylabel("[%] percent hospitalized at peak");
 numVals = cell2mat(values);
 % l = legend(["ODE model "+val2Percent(values)+"% risk"; ...

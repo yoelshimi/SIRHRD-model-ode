@@ -29,6 +29,7 @@ function filename = saveGraph(g, ax, types)
         % latex symbols.
         ttl = erase(ttl, ["_", ",","\", "/"]);
     end
+    ttl      = matlab.lang.makeValidName(ttl)
     filename = fullfile(fdr,ttl);
     savefig(g,filename +".fig");
     saveas(g,filename+".eps","epsc");

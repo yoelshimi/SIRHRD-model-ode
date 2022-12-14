@@ -1,6 +1,6 @@
 nTries = 5;
-nDims = 25;
-d = 12;
+nDims = 10;
+d = 17;
 C = zeros(nTries, nDims);
 lmda = zeros(nTries, nDims, 2);
 for iter = 1 : nTries
@@ -20,5 +20,12 @@ end
 % of randomness of a graph.x
 n = round(10.^(2+(1:nDims)/10));
 dOvern = d ./ n;
-figure; plot(dOvern, "kx")
-hold on; plot(mean(C, 1), "bo")
+figure; plot(n, dOvern, "kx", "DisplayName", "d/n")
+hold on; plot(n, mean(C, 1), "bo", "DisplayName", "Clustering coefficient")
+legend();
+xlabel("# nodes");
+ylabel("Clst. coeff.");
+title("clustering coeff. for random graphs.")
+ax = gca;
+ax.Color = "white";
+GraphCode.saveGraph(gcf);

@@ -11,21 +11,22 @@ function [f, fname] = makeTopoGraphGeneral(varargin)
     
     yVals = flipud(yVals);
     res   = fcn(flipud(res(:, :, 1)'));
-    f = figure; ax = gca;
+%     f = figure;  % use the current figure.
+    f = gcf;
+    ax = gca;
     p = contourf(flattenToRow(xVals), flattenToRow(yVals),...
         res, Ncolours, 'linewidth', 2, "Fill", "on");
     hold on; 
-  
-    colorbar; hold on;
+%     colorbar; hold on;
     shading interp ;
     strfun = @(x) strrep(x, "_", " ");
     xField = strfun(xField);
     yField = strfun(yField);
     zField = strfun(zField);
-    FontString = {"FontSize",10}; % , 'interpreter', 'none'
-    TFString = {"FontSize",10,"FontWeight","bold"};
-    xlabel(xField, FontString{:})
-    ylabel(yField, FontString{:})
+    FontString = {"FontSize",12}; % , 'interpreter', 'none'
+    TFString = {"FontSize",12,"FontWeight","bold"};
+    xlabel(xField, TFString{:})
+    ylabel(yField, TFString{:})
     c = string(fields(constraints));
     v = cellfun(@(x) constraints.(x), c);
     c = {c, v};

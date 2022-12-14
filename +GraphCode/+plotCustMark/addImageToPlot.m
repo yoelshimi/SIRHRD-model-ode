@@ -22,8 +22,8 @@ function ax2 = addImageToPlot(ax1, x, y, im, lbl, sz)
         % make the y lined up
         newPosition = [xLoc(1)-imSize(2)/2 yLoc(1)-imSize(2)/2 imSize(1) imSize(2)];
 %         newPosition = GraphCode.Coords.outerToInnerPosition(ax1, newPosition);
-        
-        if checkIsOverlap(f, newPosition) == true
+        % removed overlap test! 
+        if false %  checkIsOverlap(f, newPosition) == true
             disp(lbl+" cannot be plotted due to overlap");
             ax2 = [];
             continue;
@@ -33,7 +33,11 @@ function ax2 = addImageToPlot(ax1, x, y, im, lbl, sz)
                 "Box", "off");
             imshow(im);
             axis('off', 'image');
-            title(ax2, lbl);
+            t = title(ax2, lbl, "BackgroundColor", "white");
+            t.FontSize = 7;
+            t.VerticalAlignment = "bottom";
+            t.Clipping = "on";
+            
         end
     end
 end

@@ -1,9 +1,9 @@
-function [bIsOutbreak] = isOutbreak(dataStruct)
+function structIsOutbreak = isOutbreak(dataStruct)
     OUTBREAKCRITERION = 0.5;
     FITCRITERION      = 0.8;
     RATIOCRITERION    = 0.1;
     PEAKINFTCRITERION = 10;
-    PEAKINFCRITERION  = 1;
+    PEAKINFCRITERION  = 0.1;
     % function for determining if an "outbreak" has taken place.
     % check: 1 -- did peak infection happen after more than 10 days.
     n = size(dataStruct, 1);
@@ -14,15 +14,19 @@ function [bIsOutbreak] = isOutbreak(dataStruct)
     for iter = 1 : n
         % if the R0growth is larger than 0, and a good fit > 0.9, it means
         % there was exponential growth that grew.
-        bIsOutbreak(iter).isGrowth           = getAtInd(dataStruct(iter), "R0matlab", R0growthInd) >= 0;
-        bIsOutbreak(iter).isExp              = getAtInd(dataStruct(iter), "R0matlab", qual) > FITCRITERION; % more than R val 0.8 on fit
-        bIsOutbreak(iter).isRatioMoreThan10  = getAtInd(dataStruct(iter), "R0matlab", R0ratioInd) > RATIOCRITERION; % ratio of sick at end vs healthy
-        bIsOutbreak(iter).isPeakAfter10Days  = getAtInd(dataStruct(iter), "peakInfT", 0, 1) ./ unique([dataStruct(iter).freq]) > PEAKINFTCRITERION; 
-        bIsOutbreak(iter).isPeakInfMoreThen1 = getAtInd(dataStruct(iter), "peakInf", 0, 1) > PEAKINFCRITERION;
-        
-        v = Utilities.getStructVals(bIsOutbreak(iter));
-        bIsOutbreak(iter).metrics    = sum(uint8(cat(3, v{:})), 3) / numel(v);
-        bIsOutbreak(iter).p_outbreak = mean(bIsOutbreak(iter).metrics > OUTBREAKCRITERION);
+        structIsOutbreak(iter).isGrowth           = getAtInd(dataStruct(iter), "R0matlab", R0growthInd) >= 0;
+        % more than R val 0.8 on fit
+        structIsOutbreak(iter).isExp              = getAtInd(dataStruct(iter), "R0matlab", qual) > FITCRITERION;
+        % ratio of sick at end vs healthy -- more than 10% were infected
+        % overall.
+        structIsOutbreak(iter).isRatioMoreThan10  = getAtInd(dataStruct(iter), "R0matlab", R0ratioInd) > RATIOCRITERION; 
+        % is there more than 10 days to peak infection time.
+        structIsOutbreak(iter).isPeakAfter10Days  = getAtInd(dataStruct(iter), "peakInfT", 0, 1) ./ unique([dataStruct(iter).freq]) > PEAKINFTCRITERION; 
+        % more than 10% of population were infected at the peak
+        structIsOutbreak(iter).isPeakInfMoreThen1 = getAtInd(dataStruct(iter), "peakInf", 0, 1) > PEAKINFCRITERION;
+        v = Utilities.getStructVals(structIsOutbreak(iter));
+        structIsOutbreak(iter).metrics    = sum(uint8(cat(3, v{:})), 3) / numel(v);
+        structIsOutbreak(iter).p_outbreak = mean(structIsOutbreak(iter).metrics);
     end
 end
 

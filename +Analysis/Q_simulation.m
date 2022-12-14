@@ -1,8 +1,9 @@
 % see Q variance calc.docx from statistical materials
 % num neighbors: d
 d = 4;
+FAMILY2POP = 3.3;
 init_inf = 1e-2; % 1 percent.
-N0 = 3.3*1e2; % population.
+N0 = 1e2; % population.
 % avg. weight from structured graph
 wmean = 1;%  d;%  1 %0.579;
 R0 = 3;
@@ -41,13 +42,13 @@ var_X = @(P_cautious) (2 * P_cautious * (1 - P_cautious));
 % mean x = P(cautious) * 2
 % var y part 1 = var[mean[y given x]] = P(x=2)*(Xmean - mean y | x = 2)^ 2
 mean_X = @(p_cautious) 2 * p_cautious;
-var_mean_y_given_x = @(p_cautious) [p_cautious^2,p_cautious*(1-p_cautious),(1-p_cautious)^2] * ...
+var_mean_y_given_x = @(p_cautious) d * [p_cautious^2,p_cautious*(1-p_cautious),(1-p_cautious)^2] * ...
     ((mean_X(p_cautious) - P_infections).^2)';
-mean_var_y_given_x = @(p_cautious) P_to_Bernoulli_Var_fun(P_infections) * ...
+mean_var_y_given_x = @(p_cautious) d * P_to_Bernoulli_Var_fun(P_infections) * ...
     [p_cautious^2,p_cautious*(1-p_cautious),(1-p_cautious)^2]';
 % R0_var is var Y.
 % law of total variance
-R0_var = @(p_cautious) var_mean_y_given_x(p_cautious) + mean_var_y_given_x(p_cautious); 
+R0_var = @(p_cautious) mean_var_y_given_x(p_cautious) + var_mean_y_given_x(p_cautious); 
 
 % assumes: 0 < R0 ? 1 << V
 Q = @(R0, V) 2 * (R0 - 1) / (R0^2 + V - R0);
@@ -64,16 +65,17 @@ R0v = arrayfun(@(x) R0_var(x), p_cautious);
 %%
 
 disp(p_extinct);
-f = figure; plot(p_cautious, p_extinct, "k-", "DisplayName", "P(extinct)", "LineWidth", 2);
+inds = true(size(p_cautious));
+f = figure; plot(p_cautious(inds), p_extinct(inds), "k-", "DisplayName", "P(extinct)", "LineWidth", 2);
 xlabel("P(Caution)"); ylabel("P(extinct)"); 
 hold on;
-errorbar(p_cautious, R0m-1, sqrt(R0v), "DisplayName", "R0-1+Std. Deviation")
-hold on; plot(p_cautious', zeros(size(p_cautious)), "r--", "DisplayName", "R_0 = 1")
+errorbar(p_cautious(inds), R0m(inds)-1, sqrt(R0v(inds)), "DisplayName", "R_0-1+\sigma(R_0)")
+hold on; plot(p_cautious(inds)', zeros(size(p_cautious(inds))), "r--", "DisplayName", "R_0 = 1")
 legend();
 % ax = gca();
 % % ax.Color = "w";
 f.Color = "w";
 title({'probability of extinction for caution';...
-    ['assumes: 0 < R0 - 1 << V ', 'd = ',num2str(d)]})
+    ['0 < R_0 - 1 << V(infected), ', 'd = ',num2str(d)]})
 
 disp("saved to: "+GraphCode.saveGraph(f))

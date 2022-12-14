@@ -15,7 +15,8 @@ function [seir, Niter1, Niter2, cfg] = ...
     space = " ";
     command = "python"
     run_file = "basic_run.py"
-    families = 100; % 10.^(1:4);
+    FAMILY2POP = 3.3;
+    families = round(100 / FAMILY2POP);
     sim_duration = 60;
     R = 3;
     gamma = 1/10;% recovery rate
@@ -25,7 +26,7 @@ function [seir, Niter1, Niter2, cfg] = ...
     p_init = 0.01;
     b_l = [0.05 0.15 1]; % betas: 1: BB, 2:nBB, 3: nBnB
     gammaH = 1/20; % rate of move out of hospital.
-    N0pop = families*3.3;
+    N0pop = families * FAMILY2POP
 
     p_h_l =  [0.2,0.2/10];
     pD_l= [0.2,0.05];
@@ -63,7 +64,8 @@ function [seir, Niter1, Niter2, cfg] = ...
                     +gamma+" -f "+freq+" -n_i "+sim_duration+" -b_l "+b_l(1)+" "+b_l(2)+" "+b_l(3)+...
                     " -g_h "+gammaH + " -p_h_l "+p_h_l(1)+" "+p_h_l(2)+" -p_d_l "+pD_l(1)+" "...
                     +pD_l(2)+" -sbc_l "+mat(1,1)+space+mat(1,2)+space+mat(2,1)+space + mat(2,2)+...
-                    " -rng "+RGmode+" -s "+"True"+" -stg "+"false";     
+                    " -rng "+RGmode+" -s "+"True"+" -stg "+"false";  
+                disp(to_run);
                 [status, result] = system(to_run, "-echo");
                 if status ~= 0
                     error(result);
